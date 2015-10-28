@@ -1,0 +1,4386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <string>A Coruña</string>
+    <string>à Lt</string>
+    <string>à Nng</string>
+    <string>Aachen</string>
+    <string>Aarhus</string>
+    <string>Aba</string>
+    <string>Aba</string>
+    <string>Abadan</string>
+    <string>Abaetetuba</string>
+    <string>Abashiri</string>
+    <string>Abatumesu</string>
+    <string>Abawso</string>
+    <string>Abbotsford</string>
+    <string>Abeokuta</string>
+    <string>Aberdeen</string>
+    <string>Aberdeen</string>
+    <string>Abha Zaanstad</string>
+    <string>Abidjan</string>
+    <string>Abiko</string>
+    <string>Abilene</string>
+    <string>Aboaboso</string>
+    <string>Aboaddi</string>
+    <string>Abochikrom</string>
+    <string>Abonkwa</string>
+    <string>Abooso</string>
+    <string>Abrem</string>
+    <string>Abuja</string>
+    <string>Abukrom</string>
+    <string>Acajutla</string>
+    <string>Acapulco de Juárez</string>
+    <string>Achempin</string>
+    <string>Achenim</string>
+    <string>Adachi</string>
+    <string>Adam</string>
+    <string>Adapazarı</string>
+    <string>Addis Ababa</string>
+    <string>Adelaide</string>
+    <string>Adimanu</string>
+    <string>Adıyaman</string>
+    <string>Adoni</string>
+    <string>Aéroport de Ziguinchor</string>
+    <string>Afgooye</string>
+    <string>Afyonkarahisar</string>
+    <string>Agabat</string>
+    <string>Agadir Accra</string>
+    <string>Agano</string>
+    <string>Agartala</string>
+    <string>Ageo</string>
+    <string>Agona</string>
+    <string>Agra</string>
+    <string>Agrigento</string>
+    <string>Águas Lindas de Goiás</string>
+    <string>Aguascalientes</string>
+    <string>Águeda</string>
+    <string>Agyeikrom</string>
+    <string>Agyempoma</string>
+    <string>Ahmadnagar</string>
+    <string>Ahmadpur East</string>
+    <string>Ahmedabad</string>
+    <string>Ahuachapán</string>
+    <string>Aichi</string>
+    <string>Aichi</string>
+    <string>Aïn Beïda</string>
+    <string>Aïn Oussara  Guelma Relizane Messad Barika Ghardaia</string>
+    <string>Aioi</string>
+    <string>Airdrie</string>
+    <string>Aisai</string>
+    <string>Aix-en-Provence</string>
+    <string>Aizawl</string>
+    <string>Aizuwakamatu</string>
+    <string>Ajman</string>
+    <string>Ajmer</string>
+    <string>Akabira</string>
+    <string>Akanko</string>
+    <string>Akantansu</string>
+    <string>Akasakasa</string>
+    <string>Akashi</string>
+    <string>Aki</string>
+    <string>Akita</string>
+    <string>Akitakata</string>
+    <string>Ako</string>
+    <string>Akola</string>
+    <string>Akotoasi</string>
+    <string>Akotosu</string>
+    <string>akovec</string>
+    <string>Akroform</string>
+    <string>Akron</string>
+    <string>Aksaray</string>
+    <string>Aksum</string>
+    <string>Akune</string>
+    <string>Akutuase</string>
+    <string>Akwaku</string>
+    <string>Akyab</string>
+    <string>Al Ain</string>
+    <string>Al Barah - Warszawa</string>
+    <string>Al Hillah</string>
+    <string>Al Khoms Zawiyah </string>
+    <string>Al Qadarif Alor Setar</string>
+    <string>Al-Fashir Ad Da'ein Ad-Damazin Geneina Antsirabe</string>
+    <string>Al-Hasakah - Caloocan</string>
+    <string>Alagoinhas</string>
+    <string>Alaminos</string>
+    <string>Alamo</string>
+    <string>Alanya</string>
+    <string>Alappuzha</string>
+    <string>Alawwa</string>
+    <string>Alba Iulia</string>
+    <string>Albacete</string>
+    <string>Albany</string>
+    <string>Albuquerque</string>
+    <string>Albury</string>
+    <string>Alcalá de Henares</string>
+    <string>Alcobendas</string>
+    <string>Alcorcón</string>
+    <string>Alessandria</string>
+    <string>Alexandria</string>
+    <string>Alexandria</string>
+    <string>Algeciras</string>
+    <string>Alger Annaba Batna Jayapura</string>
+    <string>Algonquin</string>
+    <string>Alhambra</string>
+    <string>Alicante</string>
+    <string>Aligarh</string>
+    <string>Allahabad</string>
+    <string>Allentown</string>
+    <string>Almelo</string>
+    <string>Almere</string>
+    <string>Almería</string>
+    <string>Almirante Tamandaré</string>
+    <string>Alpharetta</string>
+    <string>Alta Floresta</string>
+    <string>Altadena</string>
+    <string>Altoona</string>
+    <string>Alvorada</string>
+    <string>Alwar</string>
+    <string>Ama</string>
+    <string>Ama</string>
+    <string>Amagasaki</string>
+    <string>Amakusa</string>
+    <string>Amami</string>
+    <string>Amarillo</string>
+    <string>Amasya</string>
+    <string>Amawafur</string>
+    <string>amaxı</string>
+    <string>Ambala</string>
+    <string>Ambato</string>
+    <string>Ambo</string>
+    <string>Ambon</string>
+    <string>Amersfoort</string>
+    <string>Ames</string>
+    <string>Amiens</string>
+    <string>Amisano</string>
+    <string>Amlapura</string>
+    <string>Amravati</string>
+    <string>Amritsar</string>
+    <string>Amroha</string>
+    <string>Amsterdam</string>
+    <string>Anaco</string>
+    <string>Anaheim</string>
+    <string>Anaji</string>
+    <string>Anan</string>
+    <string>Anand</string>
+    <string>Ananindeua</string>
+    <string>Anantapur</string>
+    <string>Anápolis</string>
+    <string>Anchorage</string>
+    <string>Ancona</string>
+    <string>Ancud</string>
+    <string>Anderson</string>
+    <string>Andong</string>
+    <string>Andongsi</string>
+    <string>Andresito</string>
+    <string>Andria</string>
+    <string>Angers</string>
+    <string>Angol</string>
+    <string>Angola</string>
+    <string>Angra do Heroismo</string>
+    <string>Angra dos Reis</string>
+    <string>Anjo</string>
+    <string>Ankaako</string>
+    <string>Ankara</string>
+    <string>Ankoro</string>
+    <string>anlıurfa</string>
+    <string>AnnakaEscobar</string>
+    <string>Anoe</string>
+    <string>Ansan</string>
+    <string>Anseongsi</string>
+    <string>Antakya</string>
+    <string>Antalya</string>
+    <string>Antananarivo</string>
+    <string>Antioch</string>
+    <string>Antipolo</string>
+    <string>Antofagasta</string>
+    <string>Antsiranana</string>
+    <string>Antwerpen</string>
+    <string>Anuradhapura</string>
+    <string>Anyaano</string>
+    <string>Anyinafunso</string>
+    <string>Anyinasie</string>
+    <string>Aoi</string>
+    <string>Aomori</string>
+    <string>Aosta</string>
+    <string>Aparecida de GoiâniaPalmas</string>
+    <string>Apeldoorn</string>
+    <string>Apia</string>
+    <string>Apodaca</string>
+    <string>Apopa</string>
+    <string>Apowa</string>
+    <string>Appleton</string>
+    <string>Apucarana</string>
+    <string>Ara</string>
+    <string>Aracaju</string>
+    <string>Araçatuba</string>
+    <string>Arad</string>
+    <string>Araguaína</string>
+    <string>Arakawa</string>
+    <string>Arandas</string>
+    <string>Arao</string>
+    <string>Arapiraca</string>
+    <string>Arapongas</string>
+    <string>Araraquara</string>
+    <string>Araruama</string>
+    <string>Arauca</string>
+    <string>Araucária</string>
+    <string>Arcadia</string>
+    <string>Ardahan</string>
+    <string>Areguá</string>
+    <string>Arequipa</string>
+    <string>Arezzo</string>
+    <string>Argenteuil</string>
+    <string>Arica</string>
+    <string>Arı</string>
+    <string>Arlington</string>
+    <string>Arlit</string>
+    <string>Armagh</string>
+    <string>Armavir</string>
+    <string>Armenia</string>
+    <string>Armidale</string>
+    <string>Arnhem</string>
+    <string>Artesia</string>
+    <string>Artux</string>
+    <string>Artvin</string>
+    <string>Arusha</string>
+    <string>Asago</string>
+    <string>Asahi</string>
+    <string>Asahikawa</string>
+    <string>Asaka</string>
+    <string>Asane</string>
+    <string>Asankrom</string>
+    <string>Asansi</string>
+    <string>Asansol</string>
+    <string>Asanti</string>
+    <string>Asauku</string>
+    <string>Ascoli Piceno</string>
+    <string>Aserim</string>
+    <string>Asheville</string>
+    <string>Ashibetsu</string>
+    <string>Ashikaga</string>
+    <string>Ashiya</string>
+    <string>Ashtarak</string>
+    <string>Asmara</string>
+    <string>Aso</string>
+    <string>Aspei</string>
+    <string>Assab</string>
+    <string>Assen</string>
+    <string>Asti</string>
+    <string>Asunción</string>
+    <string>At Taif Mihintale</string>
+    <string>Atakpamé</string>
+    <string>Atebubu</string>
+    <string>Ateiku</string>
+    <string>Athens</string>
+    <string>Atiquizaya</string>
+    <string>Atizapan de Zaragoza</string>
+    <string>Atlanta</string>
+    <string>Atlantic City</string>
+    <string>Atsugi</string>
+    <string>Atsuta</string>
+    <string>Attock</string>
+    <string>Atwereboannda</string>
+    <string>Auburn</string>
+    <string>Auburn</string>
+    <string>Auckland</string>
+    <string>Augsburg</string>
+    <string>Augusta</string>
+    <string>Augusta</string>
+    <string>Aurangabad</string>
+    <string>Aurora</string>
+    <string>Aurora</string>
+    <string>Austin</string>
+    <string>Avellino</string>
+    <string>Ávila</string>
+    <string>Awa</string>
+    <string>Awaji</string>
+    <string>Awassa</string>
+    <string>Awodwa Nkwanta</string>
+    <string>Awroso</string>
+    <string>Ayabe</string>
+    <string>Ayase</string>
+    <string>Aydın</string>
+    <string>Azamgarh</string>
+    <string>Azua</string>
+    <string>Azumino</string>
+    <string>Azusa</string>
+    <string>Baardheere</string>
+    <string>Babahoyo</string>
+    <string>Bacolod</string>
+    <string>Badajoz</string>
+    <string>Badalona</string>
+    <string>Bade</string>
+    <string>Badikaha</string>
+    <string>Bafia</string>
+    <string>Bagalakote</string>
+    <string>Bagh</string>
+    <string>Bago City</string>
+    <string>Bago</string>
+    <string>Baguio</string>
+    <string>Bahawalnagar</string>
+    <string>Bahawalpur</string>
+    <string>Bahía Blanca</string>
+    <string>Bahri</string>
+    <string>Baia Mare</string>
+    <string>Bairnsdale</string>
+    <string>Bajawa</string>
+    <string>Bakersfield</string>
+    <string>Bako</string>
+    <string>Baku</string>
+    <string>Balanga</string>
+    <string>Ballarat</string>
+    <string>Ballina</string>
+    <string>Balneário Camboriú</string>
+    <string>Balneário Rincão</string>
+    <string>Baltimore</string>
+    <string>Balurghat</string>
+    <string>Bamako</string>
+    <string>Bamberg</string>
+    <string>Bambesa</string>
+    <string>Bamenda</string>
+    <string>Banda Aceh</string>
+    <string>Banda</string>
+    <string>Bandar Lampung</string>
+    <string>Bandar Seri Begawan</string>
+    <string>Bandundu</string>
+    <string>Bandung</string>
+    <string>Banfora</string>
+    <string>Bangalore</string>
+    <string>Bangor</string>
+    <string>Bangor</string>
+    <string>Bangui</string>
+    <string>Baní</string>
+    <string>Banikoara</string>
+    <string>Banja Luka</string>
+    <string>Banjarmasin</string>
+    <string>Banská Bystrica</string>
+    <string>Baradine</string>
+    <string>Barahona</string>
+    <string>BarakaGatineau</string>
+    <string>Barbacena</string>
+    <string>Barcelona</string>
+    <string>Barcelona</string>
+    <string>Barcelos</string>
+    <string>Bardhaman</string>
+    <string>Bareilly</string>
+    <string>Bari</string>
+    <string>Barinas</string>
+    <string>Barletta</string>
+    <string>Barra do Choça</string>
+    <string>Barra do Piraí</string>
+    <string>Barra dos Coqueiros</string>
+    <string>Barra Mansa</string>
+    <string>Barranquilla</string>
+    <string>Barreiras</string>
+    <string>Barretos</string>
+    <string>Barrie</string>
+    <string>Barro do Dande</string>
+    <string>Barros Blancos</string>
+    <string>Bartın</string>
+    <string>Basankusu</string>
+    <string>Basavakalyana</string>
+    <string>Basoko</string>
+    <string>Bata</string>
+    <string>Batac</string>
+    <string>Batam</string>
+    <string>Batangas City</string>
+    <string>Batemans Bay</string>
+    <string>Bath</string>
+    <string>Bathurst</string>
+    <string>Bathurst</string>
+    <string>Batman</string>
+    <string>Baton Rouge</string>
+    <string>Batticaloa</string>
+    <string>Batumi</string>
+    <string>Bauru</string>
+    <string>Bawdie</string>
+    <string>Bawdiwakro</string>
+    <string>Bayburt</string>
+    <string>Baydhabo</string>
+    <string>Bayreuth</string>
+    <string>Bc Giang</string>
+    <string>Bc Liêu</string>
+    <string>Bc Ninh</string>
+    <string>Beaumont</string>
+    <string>Beawar</string>
+    <string>Bechatów</string>
+    <string>Beed</string>
+    <string>Beijing</string>
+    <string>Beira</string>
+    <string>Beirut - Aguai</string>
+    <string>Békéscsaba</string>
+    <string>Beledweyne</string>
+    <string>Belém</string>
+    <string>Belfast</string>
+    <string>Belford Roxo</string>
+    <string>Belgaum</string>
+    <string>Belize City</string>
+    <string>Bella Vista</string>
+    <string>Bellary</string>
+    <string>Belleville</string>
+    <string>Bellevue</string>
+    <string>Belluno</string>
+    <string>Belmopan</string>
+    <string>Belo Horizonte</string>
+    <string>Bendigo</string>
+    <string>Benevento</string>
+    <string>Benguela</string>
+    <string>Beni MellalPalopo</string>
+    <string>Beni</string>
+    <string>Benin City</string>
+    <string>Benito Juárez</string>
+    <string>Benso</string>
+    <string>Bento Gonçalves</string>
+    <string>Beoumi</string>
+    <string>Beposo</string>
+    <string>Beposo</string>
+    <string>Berane</string>
+    <string>Berat</string>
+    <string>Berazategui</string>
+    <string>Berbérati</string>
+    <string>Bergamo</string>
+    <string>Bergen</string>
+    <string>Berhampur</string>
+    <string>Berinukrom</string>
+    <string>Berisso</string>
+    <string>Berkeley</string>
+    <string>Berlin</string>
+    <string>Bern</string>
+    <string>Bertoua</string>
+    <string>Besançon</string>
+    <string>Betim</string>
+    <string>Bettiah</string>
+    <string>Bhadrachalam</string>
+    <string>Bhadravati</string>
+    <string>Bhagalpur</string>
+    <string>Bhakkar</string>
+    <string>Bharatpur</string>
+    <string>Bharuch</string>
+    <string>Bhatinda</string>
+    <string>Bhavnagar</string>
+    <string>Bhiamavaram</string>
+    <string>Bhilai</string>
+    <string>Bhilwara</string>
+    <string>Bhopal</string>
+    <string>Bhubaneshwar</string>
+    <string>Biaa Podlaska</string>
+    <string>Biaystok</string>
+    <string>Bibai</string>
+    <string>Bidara</string>
+    <string>Bielefeld</string>
+    <string>Biella</string>
+    <string>Bielsko-Biaa</string>
+    <string>Bijapura</string>
+    <string>Bijeljina</string>
+    <string>Bikaner</string>
+    <string>Bikoro</string>
+    <string>Bilaspur</string>
+    <string>Bilbao</string>
+    <string>Bilecik</string>
+    <string>Billings</string>
+    <string>Biloxi</string>
+    <string>Bingöl</string>
+    <string>Binh Minh</string>
+    <string>Biosville</string>
+    <string>Biratnagar</string>
+    <string>Birigui</string>
+    <string>Birmingham</string>
+    <string>Birmingham</string>
+    <string>Bissau</string>
+    <string>Bistria</string>
+    <string>Bitlis</string>
+    <string>Bitung</string>
+    <string>bla</string>
+    <string>Blantyre</string>
+    <string>Bli</string>
+    <string>Blida El Beida  Port Sudan Hvidovre</string>
+    <string>Bloemfontein</string>
+    <string>Bloléquin</string>
+    <string>Bluff</string>
+    <string>Blumenau</string>
+    <string>Bn Tre</string>
+    <string>Bo</string>
+    <string>Boa Vista</string>
+    <string>Bobo-Dioulasso</string>
+    <string>Boca Raton</string>
+    <string>Bochum</string>
+    <string>Boekrom</string>
+    <string>Boende</string>
+    <string>Bogo</string>
+    <string>Bogor</string>
+    <string>Bogoso</string>
+    <string>Bogotá</string>
+    <string>Bogra</string>
+    <string>Boise</string>
+    <string>Bokazo</string>
+    <string>Boké</string>
+    <string>Boksburg</string>
+    <string>Bole Shi</string>
+    <string>Bolgatanga</string>
+    <string>Bolobo</string>
+    <string>Bolu</string>
+    <string>Bolzano - Bozen</string>
+    <string>Boma</string>
+    <string>Bonao</string>
+    <string>Bondoukou</string>
+    <string>Bonduigi</string>
+    <string>Bonsa</string>
+    <string>Boorama</string>
+    <string>Boosaaso</string>
+    <string>Borås</string>
+    <string>Bordeaux</string>
+    <string>Bordj Bou ArreridjBejaïa Subotica</string>
+    <string>Borroloola</string>
+    <string>Boryeongsi</string>
+    <string>Bossangoa</string>
+    <string>Boston</string>
+    <string>Botoani</string>
+    <string>Bottrop</string>
+    <string>Botucatu</string>
+    <string>Bou Saâda</string>
+    <string>Bouaké</string>
+    <string>Bougouni</string>
+    <string>Boulogne-Billancourt</string>
+    <string>Boundiali</string>
+    <string>Bourail</string>
+    <string>Bournemouth</string>
+    <string>Boynton Beach</string>
+    <string>Bradenton</string>
+    <string>Braga</string>
+    <string>Brampton</string>
+    <string>Brandon</string>
+    <string>Brantford</string>
+    <string>Braov</string>
+    <string>Bratislava</string>
+    <string>Braunschweig</string>
+    <string>Brazzaville</string>
+    <string>Breda</string>
+    <string>Bregenz</string>
+    <string>Bremen</string>
+    <string>Bremerhaven</string>
+    <string>Bremerton</string>
+    <string>Brescia</string>
+    <string>Brest</string>
+    <string>Bria</string>
+    <string>Bridgeport</string>
+    <string>Bridgetown</string>
+    <string>Brindisi</string>
+    <string>Brisbane</string>
+    <string>Bristol</string>
+    <string>Brno</string>
+    <string>Brofoyedru</string>
+    <string>Broken Hill</string>
+    <string>Brookhaven</string>
+    <string>Brooks</string>
+    <string>Broome</string>
+    <string>Brownsville</string>
+    <string>Brugge</string>
+    <string>Brusque</string>
+    <string>Bruxelles - Brussel</string>
+    <string>Buaale</string>
+    <string>Bucaramanga</string>
+    <string>Budapest</string>
+    <string>Buea</string>
+    <string>Buena Park</string>
+    <string>Buenos Aires</string>
+    <string>Buffalo</string>
+    <string>Buhoodle</string>
+    <string>Buin</string>
+    <string>Bujumbura</string>
+    <string>Bukama</string>
+    <string>Bukavu</string>
+    <string>Bulandshahr</string>
+    <string>Bumba</string>
+    <string>Bunbury</string>
+    <string>Bundaberg</string>
+    <string>Bunia</string>
+    <string>Bunkyo</string>
+    <string>Buraan</string>
+    <string>Burao</string>
+    <string>Buraydah Medellín</string>
+    <string>Burbank</string>
+    <string>Burdur</string>
+    <string>Burgaw</string>
+    <string>Burgos</string>
+    <string>Burhanpur</string>
+    <string>Burlington</string>
+    <string>Burlington</string>
+    <string>Burlington</string>
+    <string>Burnaby</string>
+    <string>Bursa</string>
+    <string>Busan</string>
+    <string>Buta</string>
+    <string>Butembo</string>
+    <string>Butterworth</string>
+    <string>Butuan</string>
+    <string>Buurhakaba</string>
+    <string>Buxoro</string>
+    <string>Buyuk Han</string>
+    <string>Buzu</string>
+    <string>Bydgoszcz</string>
+    <string>Bytom</string>
+    <string>Cà Mau</string>
+    <string>Caacupé</string>
+    <string>Caazapá</string>
+    <string>Cabadbaran City</string>
+    <string>Cabanatuan</string>
+    <string>Cabinda</string>
+    <string>Cabo Frio</string>
+    <string>Cabo San Lucas</string>
+    <string>Cáceres</string>
+    <string>Cachoeirinha</string>
+    <string>Cachoeiro de Itapemirim</string>
+    <string>Cadereyta Jimenez</string>
+    <string>Cádiz</string>
+    <string>Caen</string>
+    <string>Cagayan De Oro</string>
+    <string>Cagliari</string>
+    <string>Cairns</string>
+    <string>Cajamarca</string>
+    <string>Calabar</string>
+    <string>Calabozo</string>
+    <string>Calafat</string>
+    <string>Calama</string>
+    <string>Calamba</string>
+    <string>Caldas da Rainha</string>
+    <string>Caldwell</string>
+    <string>Calgary</string>
+    <string>Cali</string>
+    <string>Calimesa</string>
+    <string>Callao</string>
+    <string>Caloundra</string>
+    <string>Caltanissetta</string>
+    <string>Camaçari</string>
+    <string>Camagüey</string>
+    <string>Cambridge</string>
+    <string>Cambridge</string>
+    <string>Cambridge</string>
+    <string>Camden</string>
+    <string>Cametá</string>
+    <string>Campamento</string>
+    <string>Campbell River</string>
+    <string>Campina Grande</string>
+    <string>Campinas</string>
+    <string>Campo Grande</string>
+    <string>Campo Largo</string>
+    <string>Campobasso</string>
+    <string>Campos dos Goytacazes</string>
+    <string>Çanakkale</string>
+    <string>Canberra</string>
+    <string>Cancún</string>
+    <string>Candelaria de la Frontera</string>
+    <string>Candon</string>
+    <string>Canelones</string>
+    <string>Çankırı</string>
+    <string>Canoas</string>
+    <string>Canterbury</string>
+    <string>Canton</string>
+    <string>Cao Bng</string>
+    <string>Cao Lãnh</string>
+    <string>Cap-Haïtien</string>
+    <string>Cape Coast</string>
+    <string>Cape Coral</string>
+    <string>Capitán Bermúdez</string>
+    <string>Caracas</string>
+    <string>Carapicuíba</string>
+    <string>Cariacica</string>
+    <string>Carleton</string>
+    <string>Carletonville</string>
+    <string>Carlisle</string>
+    <string>Carnarvon</string>
+    <string>Carrefour</string>
+    <string>Carrollton</string>
+    <string>Cartagena de Indias</string>
+    <string>Cartagena</string>
+    <string>Cartago</string>
+    <string>Cary</string>
+    <string>Casablanca  Uppsala</string>
+    <string>Caserta</string>
+    <string>Casino</string>
+    <string>Castelló de la Plana</string>
+    <string>Castelo Branco</string>
+    <string>Castro</string>
+    <string>Castroville</string>
+    <string>Catacamas</string>
+    <string>Catanduva</string>
+    <string>Catania</string>
+    <string>Catanzaro</string>
+    <string>Cauquenes</string>
+    <string>Cavite City</string>
+    <string>Caxias do Sul</string>
+    <string>Caxito</string>
+    <string>Cebu City</string>
+    <string>Cedar Rapids</string>
+    <string>Ceel Doofaar</string>
+    <string>Ceerigaabo</string>
+    <string>Ceilândia</string>
+    <string>Celaya</string>
+    <string>Celje</string>
+    <string>Cerritos</string>
+    <string>Ch'ongjin</string>
+    <string>Chachapoyas</string>
+    <string>Chaguanas</string>
+    <string>Chakwal</string>
+    <string>Chalchuapa</string>
+    <string>Chaman</string>
+    <string>Chandigarh</string>
+    <string>Changhua City</string>
+    <string>Changsha</string>
+    <string>Changwon</string>
+    <string>Changwonsi</string>
+    <string>Chapecó</string>
+    <string>Charleroi</string>
+    <string>Charleston</string>
+    <string>Charleston</string>
+    <string>Charleville</string>
+    <string>Charlotte</string>
+    <string>Charlottesville</string>
+    <string>Charlottetown</string>
+    <string>Charters Towers</string>
+    <string>Chattanooga</string>
+    <string>Chelmsford</string>
+    <string>Chem</string>
+    <string>Chemnitz</string>
+    <string>Chengdu</string>
+    <string>Chennai Tongchon</string>
+    <string>Cheonansi</string>
+    <string>Cheongju</string>
+    <string>Chesapeake</string>
+    <string>Chester</string>
+    <string>Chetumal</string>
+    <string>Chfu</string>
+    <string>Chhapra</string>
+    <string>Chhindwara</string>
+    <string>Chiayi City</string>
+    <string>Chiba</string>
+    <string>Chicago</string>
+    <string>Chichibu</string>
+    <string>Chiclayo</string>
+    <string>Chieti</string>
+    <string>Chigasaki</string>
+    <string>Chihuahua</string>
+    <string>Chiinu</string>
+    <string>Chikuma</string>
+    <string>Chillán</string>
+    <string>Chilliwack</string>
+    <string>Chilpancingo de los BravoChlpantzinco</string>
+    <string>Chilton</string>
+    <string>Chimalhuacán</string>
+    <string>Chimoio</string>
+    <string>Chiniot</string>
+    <string>Chino Hills</string>
+    <string>Chino</string>
+    <string>Chino</string>
+    <string>Chipata</string>
+    <string>Chiryu</string>
+    <string>Chishtian</string>
+    <string>Chita</string>
+    <string>Chita</string>
+    <string>Chitose</string>
+    <string>Chitradurga</string>
+    <string>Chittagong</string>
+    <string>Chivacoa</string>
+    <string>Chiyoda</string>
+    <string>Chlef - Djelfa Sidi bel Abbès  Biskra Tebessa</string>
+    <string>Chngyì</string>
+    <string>Choloma</string>
+    <string>Choluteca</string>
+    <string>Chongqing</string>
+    <string>Chorzów</string>
+    <string>Choshi</string>
+    <string>Christchurch</string>
+    <string>Christiansted</string>
+    <string>Christone</string>
+    <string>Chula Vista</string>
+    <string>Chuncheonsi</string>
+    <string>Chungjusi</string>
+    <string>Chungli City</string>
+    <string>Chuo</string>
+    <string>Ciechanów</string>
+    <string>Cienfuegos</string>
+    <string>Cilacap</string>
+    <string>Cimahi</string>
+    <string>Cincinnati</string>
+    <string>Cipanas</string>
+    <string>Cipolletti</string>
+    <string>Cité Soleil</string>
+    <string>City Hall</string>
+    <string>Ciudad Bolívar</string>
+    <string>Ciudad de Guatemala</string>
+    <string>Ciudad de La Habana</string>
+    <string>Ciudad de México</string>
+    <string>Ciudad del Este</string>
+    <string>Ciudad Guayana</string>
+    <string>Ciudad Juárez</string>
+    <string>Ciudad Nezahualcóyotl</string>
+    <string>Ciudad Obregon</string>
+    <string>Clarksville</string>
+    <string>Clearwater</string>
+    <string>Clermont-Ferrand</string>
+    <string>Cleveland</string>
+    <string>Cloncurry</string>
+    <string>Clrai</string>
+    <string>Cluj-Napoca</string>
+    <string>Cn Th</string>
+    <string>Coaticook</string>
+    <string>Coatzacoalcos</string>
+    <string>Cochabamba</string>
+    <string>Codó</string>
+    <string>Coffs Harbour</string>
+    <string>Coimbatore</string>
+    <string>Coimbra</string>
+    <string>Cojutepeque</string>
+    <string>Colatina</string>
+    <string>Colchester</string>
+    <string>Cold Lake</string>
+    <string>Colima</string>
+    <string>Colina</string>
+    <string>Colombo</string>
+    <string>Colombo</string>
+    <string>Colón</string>
+    <string>Colorado Springs</string>
+    <string>Columbia</string>
+    <string>Columbus</string>
+    <string>Columbus</string>
+    <string>Comayagua</string>
+    <string>Comendador</string>
+    <string>Comilla</string>
+    <string>Como</string>
+    <string>Comodoro Rivadavia</string>
+    <string>Compton</string>
+    <string>Conakry</string>
+    <string>Concepción</string>
+    <string>Concepción</string>
+    <string>Concón</string>
+    <string>Concord</string>
+    <string>Concord</string>
+    <string>Concordia</string>
+    <string>Constana</string>
+    <string>Constantine</string>
+    <string>Constitución</string>
+    <string>Contagem</string>
+    <string>Coober Pedy</string>
+    <string>Coolio</string>
+    <string>Cooma</string>
+    <string>Copiapó</string>
+    <string>Coquimbo</string>
+    <string>Coquitlam</string>
+    <string>Coquitlam</string>
+    <string>Córdoba</string>
+    <string>Córdoba</string>
+    <string>Cork</string>
+    <string>Corner Brook</string>
+    <string>Cornwall</string>
+    <string>Corona</string>
+    <string>Coronel Bogado</string>
+    <string>Coronel Moldes</string>
+    <string>Coronel Oviedo</string>
+    <string>Coronel</string>
+    <string>Corpus Christi</string>
+    <string>Corral de Bustos</string>
+    <string>Corrientes</string>
+    <string>Çorum</string>
+    <string>Cosenza</string>
+    <string>Costa Mesa</string>
+    <string>Cotabato City</string>
+    <string>Cotonou</string>
+    <string>Cottbus</string>
+    <string>Coventry</string>
+    <string>Covina</string>
+    <string>Cowansville</string>
+    <string>Cowra</string>
+    <string>Coxen Hole</string>
+    <string>Coyah</string>
+    <string>Coyhaique</string>
+    <string>Craiova</string>
+    <string>Cranbrook</string>
+    <string>Crato</string>
+    <string>Cremona</string>
+    <string>Crestview</string>
+    <string>Criciúma</string>
+    <string>Crotone</string>
+    <string>Cubatão</string>
+    <string>Cúcuta</string>
+    <string>Cuddapah</string>
+    <string>Cuenca</string>
+    <string>CuernavacaCuauhnhuac</string>
+    <string>Cuiabá</string>
+    <string>Culiacan</string>
+    <string>Culver City</string>
+    <string>Cumberland</string>
+    <string>Cuneo</string>
+    <string>Cunnamulla</string>
+    <string>Curepto</string>
+    <string>Curicó</string>
+    <string>Curitiba</string>
+    <string>Cusco</string>
+    <string>Cut Bank</string>
+    <string>Cuttack</string>
+    <string>Cypress</string>
+    <string>Czstochowa</string>
+    <string>Dabaasi</string>
+    <string>Daboase Nkwanta</string>
+    <string>Dadawen</string>
+    <string>Dadu</string>
+    <string>Dadyal</string>
+    <string>Daegu</string>
+    <string>Daegu</string>
+    <string>Daejeon</string>
+    <string>Dagupan</string>
+    <string>Daisen</string>
+    <string>Daito</string>
+    <string>Dajabón</string>
+    <string>Dakar</string>
+    <string>Dallas</string>
+    <string>Daloa</string>
+    <string>Daly Waters</string>
+    <string>Damaturu</string>
+    <string>Dammam Terrassa</string>
+    <string>Dampelessa</string>
+    <string>Danao City</string>
+    <string>Danli</string>
+    <string>Daouz</string>
+    <string>Dapaong</string>
+    <string>Dapitan</string>
+    <string>Dar es Salaam</string>
+    <string>Darbhanga</string>
+    <string>Darmstadt</string>
+    <string>Darwin</string>
+    <string>Daska</string>
+    <string>Dasmariñas</string>
+    <string>Date</string>
+    <string>Daugavpils</string>
+    <string>Dauphin</string>
+    <string>Davanagere</string>
+    <string>Davao City</string>
+    <string>Davenport</string>
+    <string>Dawei</string>
+    <string>Dawson Creek</string>
+    <string>Dayton</string>
+    <string>Daytona Beach</string>
+    <string>Dazaifu</string>
+    <string>Dbrowa Górnicza</string>
+    <string>ddgrat</string>
+    <string>Debre Birhan</string>
+    <string>Debre Mark'os</string>
+    <string>Debrecen</string>
+    <string>Decatur</string>
+    <string>Deerfield Beach</string>
+    <string>Dehrvd</string>
+    <string>Del Rio</string>
+    <string>Delft</string>
+    <string>Delmas</string>
+    <string>Delray Beach</string>
+    <string>Delta del Tigre</string>
+    <string>Delta</string>
+    <string>Deltona</string>
+    <string>Den Haag</string>
+    <string>Denizli</string>
+    <string>Denpasar</string>
+    <string>Denton</string>
+    <string>Denver</string>
+    <string>Dera Ghazi Khan</string>
+    <string>Derby</string>
+    <string>Des Moines</string>
+    <string>Dessie</string>
+    <string>Destin</string>
+    <string>Detroit</string>
+    <string>Deva</string>
+    <string>Deventer</string>
+    <string>Devine</string>
+    <string>Devonport</string>
+    <string>Dezful</string>
+    <string>Dhaka</string>
+    <string>Dhanbad</string>
+    <string>Dharwada</string>
+    <string>Dhuburi</string>
+    <string>Dhule</string>
+    <string>Dhuusamarreeb</string>
+    <string>Diadema</string>
+    <string>Diapaga</string>
+    <string>Dibrugarh</string>
+    <string>Dieppe</string>
+    <string>Digos City</string>
+    <string>Dijon</string>
+    <string>Dildarnagar</string>
+    <string>Dili</string>
+    <string>Dilla</string>
+    <string>Dilolo</string>
+    <string>Dina</string>
+    <string>Dipolog</string>
+    <string>Dir Dawa</string>
+    <string>Diu</string>
+    <string>Divinopólis</string>
+    <string>Diyarbakır</string>
+    <string>Djambala</string>
+    <string>Djibouti</string>
+    <string>Djougou</string>
+    <string>Dodoma</string>
+    <string>Doha - Randburg</string>
+    <string>Dolisie</string>
+    <string>Dolores</string>
+    <string>Dompen</string>
+    <string>Dompin</string>
+    <string>Dongducheonsi</string>
+    <string>Dongfang</string>
+    <string>Donghaesi</string>
+    <string>Donna</string>
+    <string>Donostia - San Sebastián</string>
+    <string>Dordrecht</string>
+    <string>Dortmund</string>
+    <string>Dos Hermanas</string>
+    <string>Douala</string>
+    <string>Douliou</string>
+    <string>Dourados</string>
+    <string>Downey</string>
+    <string>Dramang</string>
+    <string>Dresden</string>
+    <string>Drobeta Turnu Severin</string>
+    <string>Drummondville</string>
+    <string>Drummondville</string>
+    <string>Dublin</string>
+    <string>Dubrovnik</string>
+    <string>Dubuque</string>
+    <string>Duisburg</string>
+    <string>Duitama</string>
+    <string>Dumaguete</string>
+    <string>Dumai</string>
+    <string>Dumbéa</string>
+    <string>Dundee</string>
+    <string>Dunedin</string>
+    <string>Dunham</string>
+    <string>Dunkerque</string>
+    <string>Durán</string>
+    <string>Durango</string>
+    <string>Durban</string>
+    <string>Durg</string>
+    <string>Durgapur</string>
+    <string>Durham</string>
+    <string>Durham</string>
+    <string>Durrës</string>
+    <string>Düsseldorf</string>
+    <string>Düzce</string>
+    <string>Dwakwamfuom</string>
+    <string>Eagle Pass</string>
+    <string>East London</string>
+    <string>Easton</string>
+    <string>Ebebiyín</string>
+    <string>Ebetsu</string>
+    <string>Ebina</string>
+    <string>Ebino</string>
+    <string>Ebolowa</string>
+    <string>Ecatepec de Morelos</string>
+    <string>Echei</string>
+    <string>Ede</string>
+    <string>Edinburg</string>
+    <string>Edinburgh</string>
+    <string>Edirne</string>
+    <string>Edmonton</string>
+    <string>Edogawa</string>
+    <string>Edum</string>
+    <string>Efutu</string>
+    <string>Eguafo</string>
+    <string>Eindhoven</string>
+    <string>Eisenstadt</string>
+    <string>Ekwansuazo</string>
+    <string>El Alto</string>
+    <string>El Eulma</string>
+    <string>El Khroub</string>
+    <string>El Monte</string>
+    <string>El Oued TouggourtMuroran</string>
+    <string>El Paso</string>
+    <string>El Progreso</string>
+    <string>El Pueblito</string>
+    <string>El Salto</string>
+    <string>El Segundo</string>
+    <string>El Seibo</string>
+    <string>El Sombrero</string>
+    <string>ElazıMuErzincan</string>
+    <string>Elblg</string>
+    <string>Elche</string>
+    <string>Eldoret</string>
+    <string>Elgin</string>
+    <string>Elizabeth</string>
+    <string>Elk Grove</string>
+    <string>Eluru</string>
+    <string>Ely</string>
+    <string>Emalahleni</string>
+    <string>Embu</string>
+    <string>Emerald</string>
+    <string>Emmen</string>
+    <string>Ende</string>
+    <string>Eniwa</string>
+    <string>Enna</string>
+    <string>Enschede</string>
+    <string>Ensenada</string>
+    <string>Ensenada</string>
+    <string>Enugu</string>
+    <string>Epieso</string>
+    <string>Erfurt</string>
+    <string>Erie</string>
+    <string>Erlangen</string>
+    <string>Erode</string>
+    <string>Erzurum</string>
+    <string>Esamang</string>
+    <string>Esbjerg</string>
+    <string>Escobedo</string>
+    <string>Escondido</string>
+    <string>Escuintla</string>
+    <string>Esiama</string>
+    <string>eské Budjovice</string>
+    <string>Eskiehir</string>
+    <string>Esmeraldas</string>
+    <string>Esperance</string>
+    <string>Espoo</string>
+    <string>Esposende</string>
+    <string>Essen</string>
+    <string>Esteli</string>
+    <string>Estevan</string>
+    <string>Esuaso</string>
+    <string>Etajima</string>
+    <string>Evansville</string>
+    <string>Everett</string>
+    <string>Evinayong</string>
+    <string>Ewuoanyem</string>
+    <string>Exeter</string>
+    <string>Fairfield</string>
+    <string>Faisalabad</string>
+    <string>Faizabad</string>
+    <string>Fall River</string>
+    <string>Famagusta</string>
+    <string>Fana</string>
+    <string>FargonaFergana</string>
+    <string>Faridabad</string>
+    <string>Farrukhabad</string>
+    <string>Fatick</string>
+    <string>Fayetteville</string>
+    <string>Fayetteville</string>
+    <string>Fazenda Gratidao</string>
+    <string>Federación</string>
+    <string>Feira de Santana</string>
+    <string>Ferizaj</string>
+    <string>Ferkessédougou</string>
+    <string>Fermo</string>
+    <string>Ferrara</string>
+    <string>Ferraz de Vasconcelos</string>
+    <string>Fianarantsoa</string>
+    <string>Fier</string>
+    <string>Figuig Fukuyama</string>
+    <string>Firenze</string>
+    <string>Firozabad</string>
+    <string>Firozpur</string>
+    <string>Fitchburg</string>
+    <string>Flagstaff</string>
+    <string>FlintKinshasa</string>
+    <string>Florence</string>
+    <string>Florence</string>
+    <string>Florencia</string>
+    <string>Florencio Varela</string>
+    <string>Florianópolis</string>
+    <string>Focani</string>
+    <string>Foggia</string>
+    <string>Fontana</string>
+    <string>Forlì</string>
+    <string>Formosa</string>
+    <string>Fort Collins</string>
+    <string>Fort Lauderdale</string>
+    <string>Fort McMurray</string>
+    <string>Fort Myers</string>
+    <string>Fort Portal</string>
+    <string>Fort Saint John</string>
+    <string>Fort Smith</string>
+    <string>Fort Walton Beach</string>
+    <string>Fort Wayne</string>
+    <string>Fort Worth</string>
+    <string>Fort-de-France</string>
+    <string>Fortaleza</string>
+    <string>Foster City</string>
+    <string>Fountain Valley</string>
+    <string>Foz do Iguaçu</string>
+    <string>Fraccionamiento Camino Maldonado</string>
+    <string>Franca</string>
+    <string>Franceville</string>
+    <string>Francistown</string>
+    <string>Frankfurt am Main</string>
+    <string>Fray Luis Beltrán</string>
+    <string>Frederick</string>
+    <string>Fredericton</string>
+    <string>Frederiksberg</string>
+    <string>Freetown</string>
+    <string>Freiburg im Breisgau</string>
+    <string>Fremont</string>
+    <string>Fresnillo</string>
+    <string>Fria</string>
+    <string>Frosinone</string>
+    <string>Fuchu</string>
+    <string>Fujairah</string>
+    <string>Fuji</string>
+    <string>Fujieda</string>
+    <string>Fujiidera</string>
+    <string>Fujimi</string>
+    <string>Fujimino</string>
+    <string>Fujinomiya</string>
+    <string>Fujioka</string>
+    <string>Fujisawa</string>
+    <string>Fukagawa</string>
+    <string>Fukaya</string>
+    <string>Fukuchiyama</string>
+    <string>Fukui</string>
+    <string>Fukuoka</string>
+    <string>Fukuroi</string>
+    <string>Fukushima</string>
+    <string>Fukutsu-shi</string>
+    <string>Fullerton</string>
+    <string>Funabashi</string>
+    <string>Funchal</string>
+    <string>Furano</string>
+    <string>Fürth</string>
+    <string>Futtsu</string>
+    <string>Gaalkacyo</string>
+    <string>Gaborone</string>
+    <string>Gadaga</string>
+    <string>Gadsden</string>
+    <string>Gagnoa</string>
+    <string>Gainesville</string>
+    <string>Galai</string>
+    <string>Galkulama</string>
+    <string>Galle</string>
+    <string>Galway</string>
+    <string>Gama</string>
+    <string>Gamagori</string>
+    <string>Gandhinagar</string>
+    <string>Gangneungsi</string>
+    <string>Gangtok</string>
+    <string>Gaoual</string>
+    <string>Gapan</string>
+    <string>Garanhuns</string>
+    <string>Garden Grove</string>
+    <string>Garissa</string>
+    <string>Garoowe</string>
+    <string>Garoowe</string>
+    <string>Garoua</string>
+    <string>Gävle</string>
+    <string>Gawadar</string>
+    <string>Gaya</string>
+    <string>Gaza City Puerto Lempira</string>
+    <string>Gaziantep</string>
+    <string>Gdask</string>
+    <string>Gdynia</string>
+    <string>Geelong</string>
+    <string>Gelsenkirchen</string>
+    <string>Gemena</string>
+    <string>General Alvear</string>
+    <string>General Roca</string>
+    <string>General Santos</string>
+    <string>Genève</string>
+    <string>Genova</string>
+    <string>Gent</string>
+    <string>Gentofte</string>
+    <string>Geojesi</string>
+    <string>George Town</string>
+    <string>Georgetown</string>
+    <string>Gera</string>
+    <string>Geraldton</string>
+    <string>Germiston</string>
+    <string>Getafe</string>
+    <string>Ghanzi</string>
+    <string>Ghaziabad</string>
+    <string>Gia Ngha</string>
+    <string>Gianyar</string>
+    <string>Gijón/Xixón</string>
+    <string>Gilgit</string>
+    <string>Gilroy</string>
+    <string>Gimcheonsi</string>
+    <string>Gimhaesi</string>
+    <string>Gimjesi</string>
+    <string>Gimposi</string>
+    <string>Ginowan</string>
+    <string>Giresun</string>
+    <string>Girona</string>
+    <string>Gisborne</string>
+    <string>Gisenyi</string>
+    <string>Gitega</string>
+    <string>Giurgiu</string>
+    <string>Gjakova</string>
+    <string>Gjilan</string>
+    <string>Gladsaxe</string>
+    <string>Gladstone</string>
+    <string>Glasgow</string>
+    <string>Glendale</string>
+    <string>Glens Falls</string>
+    <string>Gliwice</string>
+    <string>Gloucester</string>
+    <string>GncZalaegerszeg</string>
+    <string>Gniezno</string>
+    <string>Gobou</string>
+    <string>Gode</string>
+    <string>Gogoso</string>
+    <string>Goiânia</string>
+    <string>Gojra</string>
+    <string>Gold Coast</string>
+    <string>Goma</string>
+    <string>Gonaives</string>
+    <string>Gonder</string>
+    <string>Gongjusi</string>
+    <string>Goondiwindi</string>
+    <string>Gorakhpur</string>
+    <string>Gore</string>
+    <string>Gorizia</string>
+    <string>Gorontalo</string>
+    <string>Gorzów Wielkopolski</string>
+    <string>Gosen</string>
+    <string>Gosford</string>
+    <string>Goshogawara</string>
+    <string>Göteborg</string>
+    <string>Göttingen</string>
+    <string>Goulburn</string>
+    <string>Goutsu</string>
+    <string>Governador Valadares</string>
+    <string>Governor's Harbour</string>
+    <string>Gracias </string>
+    <string>Grafton</string>
+    <string>Grahamstown</string>
+    <string>Granada</string>
+    <string>Granada</string>
+    <string>Granby</string>
+    <string>Granby</string>
+    <string>Grand Junction</string>
+    <string>Grand Lahou</string>
+    <string>Grand Rapids</string>
+    <string>Grande Prairie</string>
+    <string>Grande-Rivière</string>
+    <string>Graneros</string>
+    <string>Gravataí</string>
+    <string>Graz</string>
+    <string>Great Falls</string>
+    <string>Green Bay</string>
+    <string>Greensboro</string>
+    <string>Greenville</string>
+    <string>Grenoble</string>
+    <string>Griffith</string>
+    <string>Groningen</string>
+    <string>Grosseto</string>
+    <string>Guadalajara</string>
+    <string>Guadalajara</string>
+    <string>Guadalupe Victoria</string>
+    <string>Guadalupe</string>
+    <string>Guanajuato</string>
+    <string>Guanare</string>
+    <string>Guantánamo</string>
+    <string>Guarapuava</string>
+    <string>Guaratinguetá</string>
+    <string>Guarenas</string>
+    <string>Guarulhos</string>
+    <string>Guaxupé</string>
+    <string>Guayaquil</string>
+    <string>Guaymaca</string>
+    <string>Guaymas</string>
+    <string>Guéckédou</string>
+    <string>Guelmim Médina Gonassé</string>
+    <string>Guelph</string>
+    <string>Guimba</string>
+    <string>Gujranwala</string>
+    <string>Gujrat</string>
+    <string>Gulbarga</string>
+    <string>Gulfport</string>
+    <string>GuluFuenlabrada</string>
+    <string>Gumisi</string>
+    <string>Gümühane</string>
+    <string>Gungzhu</string>
+    <string>Gunsansi</string>
+    <string>Guntur</string>
+    <string>Gurgaon</string>
+    <string>Gurisi</string>
+    <string>Guwahati</string>
+    <string>gwa</string>
+    <string>Gwacheonsi</string>
+    <string>Gwalior</string>
+    <string>Gwangju</string>
+    <string>Gwangju</string>
+    <string>Gwangjusi</string>
+    <string>Gwangyangsi</string>
+    <string>Gweru</string>
+    <string>Gyankobo</string>
+    <string>Gyda</string>
+    <string>Gyeongju</string>
+    <string>Gyeongjusi</string>
+    <string>Gyeongsansi</string>
+    <string>Gyeryongsi</string>
+    <string>Gympie</string>
+    <string>Gyr</string>
+    <string>Gyumri</string>
+    <string>Hà Giang</string>
+    <string>Ha Long</string>
+    <string>Hà Ni</string>
+    <string>Hà ông</string>
+    <string>Hà Tnh</string>
+    <string>Haarlem</string>
+    <string>Habikino</string>
+    <string>Hachimantai</string>
+    <string>Hachinohe</string>
+    <string>Hachioji</string>
+    <string>Hadano</string>
+    <string>Haeju</string>
+    <string>Hafizabad</string>
+    <string>Hagen</string>
+    <string>Hagerstown</string>
+    <string>Hagi</string>
+    <string>Hagonoy</string>
+    <string>Hakkâri</string>
+    <string>Hakodate</string>
+    <string>HakuiPalangkaraya</string>
+    <string>Haldwani</string>
+    <string>Halifax</string>
+    <string>HalleSaale</string>
+    <string>Hamada</string>
+    <string>Hamamatsu</string>
+    <string>Hambantota</string>
+    <string>Hamburg</string>
+    <string>Hämeenlinna</string>
+    <string>Hamilton</string>
+    <string>Hamilton</string>
+    <string>Hamm</string>
+    <string>Hammond</string>
+    <string>Hampton</string>
+    <string>Hanamaki</string>
+    <string>Hanamsi</string>
+    <string>Handa</string>
+    <string>Hanga Roa</string>
+    <string>Hannan</string>
+    <string>Hanno</string>
+    <string>Hannover</string>
+    <string>Hany</string>
+    <string>Harappa</string>
+    <string>Harare</string>
+    <string>Harbel</string>
+    <string>Hargeysa</string>
+    <string>Haridwar</string>
+    <string>Haripur</string>
+    <string>Haro</string>
+    <string>Harrisburg</string>
+    <string>Harrisburg</string>
+    <string>Harrisonburg</string>
+    <string>Hartford</string>
+    <string>Hastings</string>
+    <string>Hasuda</string>
+    <string>Hato Mayor</string>
+    <string>Hatogaya</string>
+    <string>Hatsukaichi</string>
+    <string>Havana</string>
+    <string>Hawaiian Gardens</string>
+    <string>Hawthorne</string>
+    <string>Hayward</string>
+    <string>Hazleton</string>
+    <string>Hazu</string>
+    <string>Heerlen</string>
+    <string>Heidelberg</string>
+    <string>Heilbronn</string>
+    <string>Hekinan</string>
+    <string>Helotes</string>
+    <string>Helsingborg</string>
+    <string>Helsinki</string>
+    <string>Hemang</string>
+    <string>Hemphill</string>
+    <string>Henderson</string>
+    <string>Hendersonville</string>
+    <string>Hengelo</string>
+    <string>Heredia</string>
+    <string>Hereford</string>
+    <string>Hermosillo</string>
+    <string>Hernandarias</string>
+    <string>Herne</string>
+    <string>Heroica Caborca</string>
+    <string>Heroica Nogales</string>
+    <string>Heróica Puebla de Zaragoza</string>
+    <string>Hervey Bay</string>
+    <string>Hétián) jngzhu</string>
+    <string>Hi Dng</string>
+    <string>Hi Phòng</string>
+    <string>Hi Phòng</string>
+    <string>Hiawa</string>
+    <string>Hibiscus Coast</string>
+    <string>Hich'n</string>
+    <string>Hidaka</string>
+    <string>Higashihiroshima</string>
+    <string>Higashimatsushima</string>
+    <string>Higashimatsuyama</string>
+    <string>Higashine</string>
+    <string>Higashiomi</string>
+    <string>Higashiosaka</string>
+    <string>Higüey</string>
+    <string>Hikari</string>
+    <string>Hikone</string>
+    <string>Hildesheim</string>
+    <string>Hillsborough</string>
+    <string>Hilo</string>
+    <string>Hilversum</string>
+    <string>Himeji</string>
+    <string>Himi</string>
+    <string>Hindupur</string>
+    <string>Hino</string>
+    <string>Hinthada</string>
+    <string>Hioki</string>
+    <string>Hirakata</string>
+    <string>Hirakawa</string>
+    <string>Hiratsuka</string>
+    <string>Hirosaki</string>
+    <string>Hiroshima</string>
+    <string>Hita</string>
+    <string>Hitachi</string>
+    <string>Hitachinaka</string>
+    <string>Hitachiota</string>
+    <string>Hitoyoshi</string>
+    <string>hiyáng</string>
+    <string>Hng Yên</string>
+    <string>Hòa Bình</string>
+    <string>Hobart</string>
+    <string>Hofuf Gavar</string>
+    <string>Holguín</string>
+    <string>Homestead</string>
+    <string>Hondo</string>
+    <string>Honi Valley</string>
+    <string>Honj</string>
+    <string>Honolulu</string>
+    <string>Hoofddorp</string>
+    <string>Horqueta</string>
+    <string>Horsens</string>
+    <string>Horsham</string>
+    <string>Hosapete</string>
+    <string>Hossa'ina</string>
+    <string>Houfu</string>
+    <string>Houma</string>
+    <string>Howrah</string>
+    <string>Hradec Králové</string>
+    <string>Hrazdan</string>
+    <string>Hsinchu City</string>
+    <string>Hualien City</string>
+    <string>Huambo</string>
+    <string>Huancayo</string>
+    <string>Huánuco</string>
+    <string>Huatabampo</string>
+    <string>Huelva</string>
+    <string>Huesca</string>
+    <string>Humakromna</string>
+    <string>Humboldt</string>
+    <string>Huntington Beach</string>
+    <string>Huntington</string>
+    <string>Huntsville</string>
+    <string>Hutchinson</string>
+    <string>Hwange</string>
+    <string>Hwaseongsi</string>
+    <string>Hyderabad</string>
+    <string>Hyderabad</string>
+    <string>Hyuga</string>
+    <string>I-Redcliffe</string>
+    <string>Iai</string>
+    <string>iauliai</string>
+    <string>Ibadan</string>
+    <string>Ibara</string>
+    <string>Ibaraki</string>
+    <string>Ibarra</string>
+    <string>Ibusuki</string>
+    <string>Ica</string>
+    <string>Ichalkaranji</string>
+    <string>Icheonsi</string>
+    <string>Ichihara</string>
+    <string>Ichikawa</string>
+    <string>Ichikikushikino</string>
+    <string>Ichinomiya</string>
+    <string>Ichinoseki</string>
+    <string>Idaho Falls</string>
+    <string>Idiofa</string>
+    <string>Idır</string>
+    <string>Iganga</string>
+    <string>Iguala de la Independencia</string>
+    <string>Iida</string>
+    <string>Iiyama</string>
+    <string>Ijevan</string>
+    <string>Ikeda</string>
+    <string>Iksansi</string>
+    <string>Ilhéus</string>
+    <string>Iligan</string>
+    <string>ilina</string>
+    <string>Ilobasco</string>
+    <string>Iloilo City</string>
+    <string>Ilorin</string>
+    <string>Imabari</string>
+    <string>Imperia</string>
+    <string>Impfondo</string>
+    <string>Imphal</string>
+    <string>in Biên PhTabanan</string>
+    <string>Ina</string>
+    <string>Inagi</string>
+    <string>Inashiki</string>
+    <string>Inazawa</string>
+    <string>Incheon</string>
+    <string>Incheon</string>
+    <string>Incheon</string>
+    <string>Indian Wells</string>
+    <string>Indianapolis</string>
+    <string>Indore</string>
+    <string>Ingersoll</string>
+    <string>Inglewood</string>
+    <string>Ingolstadt</string>
+    <string>Inírida</string>
+    <string>Innsbruck</string>
+    <string>Inowrocaw</string>
+    <string>Inuyama</string>
+    <string>Invercargill</string>
+    <string>Inverell</string>
+    <string>Inverness</string>
+    <string>Inzai</string>
+    <string>Iowa City</string>
+    <string>Ipatinga</string>
+    <string>Ipoh</string>
+    <string>Ippy</string>
+    <string>Ipswich</string>
+    <string>Ipswich</string>
+    <string>Iqaluit</string>
+    <string>Iquique</string>
+    <string>Iquitos</string>
+    <string>Ir-RabatVictoria</string>
+    <string>Irapuato</string>
+    <string>Iringa</string>
+    <string>Iruma</string>
+    <string>Irvine</string>
+    <string>Irving</string>
+    <string>Isa</string>
+    <string>Isabela City</string>
+    <string>Isakro</string>
+    <string>Isehara</string>
+    <string>Isernia</string>
+    <string>Isezaki</string>
+    <string>Ishigaki</string>
+    <string>Ishikari</string>
+    <string>Ishinomaki</string>
+    <string>Ishioka</string>
+    <string>Isiro</string>
+    <string>Islamabad</string>
+    <string>Island Garden City of Samal</string>
+    <string>Islip</string>
+    <string>Isparta</string>
+    <string>Issaquah</string>
+    <string>Istaravshan</string>
+    <string>Isumi</string>
+    <string>Itabashi</string>
+    <string>Itaboraí</string>
+    <string>Itabuna</string>
+    <string>Itajaí</string>
+    <string>Itami</string>
+    <string>Itanagar</string>
+    <string>Itaperuna</string>
+    <string>Itapetinga</string>
+    <string>Itapetininga</string>
+    <string>Itapipoca</string>
+    <string>Itapoã</string>
+    <string>Itoigawa</string>
+    <string>Itoman</string>
+    <string>Itoshima</string>
+    <string>Itumbiara</string>
+    <string>Iwaki</string>
+    <string>Iwakuni</string>
+    <string>Iwakura</string>
+    <string>Iwamizawa</string>
+    <string>Iwanuma</string>
+    <string>Iwata</string>
+    <string>Iyo</string>
+    <string>Izumi</string>
+    <string>Izumi</string>
+    <string>Izumiotsu</string>
+    <string>Izumisano</string>
+    <string>Izumo</string>
+    <string>ırnak</string>
+    <string>Jabalpur</string>
+    <string>Jaboatão dos Guararapes</string>
+    <string>Jackson</string>
+    <string>Jackson</string>
+    <string>Jacksonville</string>
+    <string>Jacksonville</string>
+    <string>Jacobabad</string>
+    <string>Jaén</string>
+    <string>Jaffna</string>
+    <string>Jahngirabad</string>
+    <string>Jaipur</string>
+    <string>Jakarta</string>
+    <string>Jakwa</string>
+    <string>Jalalabad</string>
+    <string>Jalandhar</string>
+    <string>Jalgaon</string>
+    <string>Jalingo</string>
+    <string>Jalna</string>
+    <string>JamaameJilib</string>
+    <string>Jambi</string>
+    <string>Jamestown</string>
+    <string>Jammu</string>
+    <string>Jamnagar</string>
+    <string>Jamshoro</string>
+    <string>Jandira</string>
+    <string>Januária</string>
+    <string>Japeri</string>
+    <string>Jaraguá do Sul</string>
+    <string>Jaranwala</string>
+    <string>Jarqo‘rg‘on</string>
+    <string>Jaú</string>
+    <string>Jauja</string>
+    <string>Jecheonsi</string>
+    <string>Jeddah Ibagué</string>
+    <string>Jefferson City</string>
+    <string>Jeju</string>
+    <string>Jejusi</string>
+    <string>Jelenia Góra</string>
+    <string>Jena</string>
+    <string>Jeongeupsi</string>
+    <string>Jequié</string>
+    <string>Jerez de la Frontera</string>
+    <string>Jersey City</string>
+    <string>Jeypore</string>
+    <string>Jhansi</string>
+    <string>Jhelum</string>
+    <string>Jhubei</string>
+    <string>Jhunjhunun</string>
+    <string>Ji-Paraná</string>
+    <string>Jieyang</string>
+    <string>Jijel Sétif</string>
+    <string>Jijiga</string>
+    <string>Jimaní</string>
+    <string>Jímò</string>
+    <string>Jinan</string>
+    <string>Jinhaesi</string>
+    <string>Jinja</string>
+    <string>Jinjusi</string>
+    <string>Jirewuo</string>
+    <string>Jizan Melilla</string>
+    <string>JizzaxJizzakh</string>
+    <string>Jkabpils</string>
+    <string>João Pessoa</string>
+    <string>Jodhpur</string>
+    <string>Joensuu</string>
+    <string>Joetsu</string>
+    <string>Johannesburg</string>
+    <string>Johnson City</string>
+    <string>Johor Bahru</string>
+    <string>Jõhvi</string>
+    <string>Joinville</string>
+    <string>Joliet</string>
+    <string>Jomo</string>
+    <string>Joplin</string>
+    <string>Jorhat</string>
+    <string>Jos</string>
+    <string>José Batlle y Ordóñez</string>
+    <string>Jowhar</string>
+    <string>Joyo</string>
+    <string>Jrmala</string>
+    <string>Juazeiro do Norte</string>
+    <string>Juba Kandahar</string>
+    <string>Jukwa Breman</string>
+    <string>Jukwa</string>
+    <string>Juliaca</string>
+    <string>Junagadh</string>
+    <string>Jundiaí</string>
+    <string>Juneau</string>
+    <string>Junik</string>
+    <string>Juticalpa</string>
+    <string>Jyväskylä</string>
+    <string>Kabongo</string>
+    <string>Kabul Córdoba</string>
+    <string>Kaçanik</string>
+    <string>Kadoma</string>
+    <string>Kadugli Artashat</string>
+    <string>Kaduna</string>
+    <string>Kaech'n</string>
+    <string>Kafodidi</string>
+    <string>Kagoshima</string>
+    <string>KahramanmaraMersin</string>
+    <string>Kaiserslautern</string>
+    <string>Kaitaia</string>
+    <string>Kaizuka</string>
+    <string>Kakegawa</string>
+    <string>Kakinada</string>
+    <string>Kakogawa</string>
+    <string>Kakuda</string>
+    <string>Kalamazoo</string>
+    <string>Kalemie</string>
+    <string>Kalgoorlie</string>
+    <string>Kalibo</string>
+    <string>Kalisz</string>
+    <string>Kalugamuwa</string>
+    <string>Kalutara</string>
+    <string>Kamagaya</string>
+    <string>Kamaishi</string>
+    <string>Kamakura</string>
+    <string>Kamalia</string>
+    <string>Kambove</string>
+    <string>Kameoka</string>
+    <string>Kamiamakusa</string>
+    <string>Kamina</string>
+    <string>Kaminoyama</string>
+    <string>Kamloops</string>
+    <string>Kamo</string>
+    <string>Kamogawa</string>
+    <string>Kampala</string>
+    <string>KAMPUNG PANE</string>
+    <string>KAMPUNG SARAE</string>
+    <string>KAMPUNG SUMBAWA</string>
+    <string>KAMPUNG SUNTU</string>
+    <string>KAMPUNG TOLOMUNDU</string>
+    <string>Kamsar</string>
+    <string>Kananga</string>
+    <string>Kanazawa</string>
+    <string>Kandhkot</string>
+    <string>Kandy</string>
+    <string>Kanggye</string>
+    <string>Kankan</string>
+    <string>Kano</string>
+    <string>Kanoya</string>
+    <string>Kansas City</string>
+    <string>Kanuma</string>
+    <string>Kanyama</string>
+    <string>Kanzaki</string>
+    <string>Kaolack</string>
+    <string>Kapan</string>
+    <string>Kapanga</string>
+    <string>Kaposvár</string>
+    <string>Karabük</string>
+    <string>Karaman</string>
+    <string>Karatsu</string>
+    <string>Karbala)  St George</string>
+    <string>Karimnagar</string>
+    <string>Kariya</string>
+    <string>Karlsruhe</string>
+    <string>Karlstad</string>
+    <string>Karnal</string>
+    <string>Kars</string>
+    <string>Kasai</string>
+    <string>Kasama</string>
+    <string>Kasama</string>
+    <string>Kasaoka</string>
+    <string>Kasese</string>
+    <string>Kashiwa</string>
+    <string>Kashiwara</string>
+    <string>Kashiwazaki</string>
+    <string>Kassala  Wad Madani</string>
+    <string>Kassel</string>
+    <string>Kastamonu</string>
+    <string>Kasuga</string>
+    <string>Kasugai</string>
+    <string>Kasukabe</string>
+    <string>Kasumigaura</string>
+    <string>Kasur</string>
+    <string>Katagami</string>
+    <string>Katano</string>
+    <string>Katherine</string>
+    <string>Katima Mulilo</string>
+    <string>Kato</string>
+    <string>Katori</string>
+    <string>Katowice</string>
+    <string>Katsushika</string>
+    <string>Katsuura</string>
+    <string>Kaunas</string>
+    <string>Kawachinagano</string>
+    <string>Kawagoe</string>
+    <string>Kawaguchi</string>
+    <string>Kawanishi</string>
+    <string>Kawasaki</string>
+    <string>Kayar</string>
+    <string>Kayes</string>
+    <string>Kayseri</string>
+    <string>Kazo</string>
+    <string>Kazuno</string>
+    <string>Kelowna</string>
+    <string>Kembolcha</string>
+    <string>Kempsey</string>
+    <string>Kempten</string>
+    <string>Kendall</string>
+    <string>Kenema</string>
+    <string>Kenge</string>
+    <string>Kenitra  Tiflet</string>
+    <string>Kenova</string>
+    <string>Keren</string>
+    <string>Kericho</string>
+    <string>Kesennuma</string>
+    <string>Khairpur Mirs</string>
+    <string>Khammam</string>
+    <string>Khandwa</string>
+    <string>Khanewal</string>
+    <string>Khanpur</string>
+    <string>Kharagpur</string>
+    <string>Khartoum Benghazi Lagos</string>
+    <string>Khenchela Popayán</string>
+    <string>Khobar Kecskemét</string>
+    <string>Khouribga Moers</string>
+    <string>Khushab</string>
+    <string>ki</string>
+    <string>Kidapawan City</string>
+    <string>Kiel</string>
+    <string>Kielce</string>
+    <string>Kigali</string>
+    <string>Kigoma</string>
+    <string>Kikam</string>
+    <string>Kikuchi</string>
+    <string>Kikugawa</string>
+    <string>Kikwit</string>
+    <string>Kilis</string>
+    <string>Kilju</string>
+    <string>Kilkenny</string>
+    <string>Killeen</string>
+    <string>Killinochchi</string>
+    <string>Kilosa</string>
+    <string>Kimberley</string>
+    <string>Kimch'aek</string>
+    <string>Kimitsu</string>
+    <string>Kindia</string>
+    <string>Kindu</string>
+    <string>Kingsport</string>
+    <string>Kingston upon Hull</string>
+    <string>Kingston</string>
+    <string>Kingston</string>
+    <string>Kingston</string>
+    <string>Kirishima</string>
+    <string>Kirundo</string>
+    <string>Kiryu</string>
+    <string>Kisangani</string>
+    <string>Kisarazu</string>
+    <string>Kishangarh</string>
+    <string>Kishiwada</string>
+    <string>Kisi</string>
+    <string>Kismaayo</string>
+    <string>Kissimmee</string>
+    <string>Kisumu</string>
+    <string>Kita</string>
+    <string>Kitaakita</string>
+    <string>Kitahiroshima</string>
+    <string>Kitakami</string>
+    <string>Kitakata</string>
+    <string>Kitakyushu</string>
+    <string>Kitale</string>
+    <string>Kitami</string>
+    <string>Kitamoto</string>
+    <string>Kitanagoya</string>
+    <string>Kitashitara</string>
+    <string>Kitchener</string>
+    <string>Kitgum</string>
+    <string>Kitwe</string>
+    <string>Kiyosu</string>
+    <string>Kizugawa</string>
+    <string>Kırehir</string>
+    <string>Kırıkkale</string>
+    <string>Kırklareli</string>
+    <string>Klagenfurt am Wörthersee</string>
+    <string>Klaipda</string>
+    <string>Klerksdorp</string>
+    <string>KlungkungSemarapura</string>
+    <string>Knoxville</string>
+    <string>Kobayashi</string>
+    <string>Kobe</string>
+    <string>København</string>
+    <string>Koblenz</string>
+    <string>Kocaeli</string>
+    <string>Kochi</string>
+    <string>Kochi</string>
+    <string>Kodaira</string>
+    <string>Kodiak</string>
+    <string>Kofi Ashia</string>
+    <string>Koga</string>
+    <string>Kohima</string>
+    <string>Kohuwala</string>
+    <string>Koice</string>
+    <string>Koidu</string>
+    <string>Kokubunji</string>
+    <string>Kolding</string>
+    <string>Kolhapur</string>
+    <string>Kolkata</string>
+    <string>Kollam</string>
+    <string>Köln</string>
+    <string>Kolwezi</string>
+    <string>Komae</string>
+    <string>Komagane</string>
+    <string>Komaki</string>
+    <string>Komatsu</string>
+    <string>Komatsushima</string>
+    <string>Komoro</string>
+    <string>Kon Tum</string>
+    <string>Konan</string>
+    <string>Konan</string>
+    <string>Koné</string>
+    <string>Kongolo</string>
+    <string>Konin</string>
+    <string>Konstanz</string>
+    <string>Konya</string>
+    <string>Konya</string>
+    <string>Koobrzeg</string>
+    <string>Korhogo</string>
+    <string>Koriyama</string>
+    <string>Korkut Hamam</string>
+    <string>Koronadal City</string>
+    <string>Koshi</string>
+    <string>Koshigaya</string>
+    <string>Kossou</string>
+    <string>Kosti Al-UbayyidTsugaru</string>
+    <string>Koszalin</string>
+    <string>Kot Addu</string>
+    <string>Kota Bahru</string>
+    <string>KOTA BIMA</string>
+    <string>Kota Kinabalu</string>
+    <string>Kota Tanjung Balai</string>
+    <string>Kota</string>
+    <string>Kotka</string>
+    <string>Kotli</string>
+    <string>Koto</string>
+    <string>Kotobi</string>
+    <string>Koudougou</string>
+    <string>Koulikoro</string>
+    <string>Koupela</string>
+    <string>Kousséri</string>
+    <string>Koutiala</string>
+    <string>Kouvola</string>
+    <string>Kowon</string>
+    <string>Kozhikode</string>
+    <string>Kpalimé</string>
+    <string>Krabo</string>
+    <string>Kragujevac</string>
+    <string>Kraków</string>
+    <string>Kraljevo</string>
+    <string>Krefeld</string>
+    <string>Kristiansand</string>
+    <string>Krugersdorp</string>
+    <string>Ksar-el-Kebir  Akishima</string>
+    <string>Kuala Belait</string>
+    <string>Kuala Lumpur</string>
+    <string>Kuantan</string>
+    <string>Kuching</string>
+    <string>Kudamatsu</string>
+    <string>Kuito</string>
+    <string>Kuji</string>
+    <string>Kuki</string>
+    <string>Kumagaya</string>
+    <string>Kumamoto</string>
+    <string>Kumamoto</string>
+    <string>Kumano</string>
+    <string>Kumano</string>
+    <string>Kumasi</string>
+    <string>Kumba</string>
+    <string>Kumbo</string>
+    <string>Kunduz Khuzdar</string>
+    <string>Kunitachi</string>
+    <string>Kuopio</string>
+    <string>Kupang</string>
+    <string>Kurashiki</string>
+    <string>Kurayoshi</string>
+    <string>Kure</string>
+    <string>Kurihara</string>
+    <string>Kurnool</string>
+    <string>Kurobe</string>
+    <string>Kuroishi</string>
+    <string>Kurume</string>
+    <string>Kurunegala</string>
+    <string>Kusatsu</string>
+    <string>Kushima</string>
+    <string>Kushiro</string>
+    <string>Kütahya</string>
+    <string>Kutaisi</string>
+    <string>Kuwana</string>
+    <string>Kwaduadjeikrom</string>
+    <string>Kwamouth</string>
+    <string>Kyotanabe</string>
+    <string>Kyotango</string>
+    <string>Kyoto</string>
+    <string>L'Aquila</string>
+    <string>L'Épiphanie</string>
+    <string>L'Hospitalet de Llobregat</string>
+    <string>La Ceiba</string>
+    <string>La Cumbre</string>
+    <string>La Esperanza</string>
+    <string>La Mirada</string>
+    <string>La Palma</string>
+    <string>La PalmaZenica</string>
+    <string>La Paz</string>
+    <string>La Paz</string>
+    <string>La Paz</string>
+    <string>La Paz</string>
+    <string>La Plata</string>
+    <string>La Rioja</string>
+    <string>La Romana</string>
+    <string>La Serena</string>
+    <string>La Spezia</string>
+    <string>La Vega</string>
+    <string>La Victoria</string>
+    <string>Laas Dawaco</string>
+    <string>Laascaanood</string>
+    <string>Labé</string>
+    <string>Lac-Brome</string>
+    <string>Lackawanna</string>
+    <string>Ladysmith</string>
+    <string>Lae</string>
+    <string>Lafayette</string>
+    <string>Lafia</string>
+    <string>Lages</string>
+    <string>Laghouat</string>
+    <string>Lahore</string>
+    <string>Lahti</string>
+    <string>Láiyáng</string>
+    <string>Lake Charles</string>
+    <string>Lakeland</string>
+    <string>Lakota</string>
+    <string>Lalitpur</string>
+    <string>Lambaréné</string>
+    <string>Lampa</string>
+    <string>Lancaster</string>
+    <string>Lancaster</string>
+    <string>Lancaster</string>
+    <string>Langley</string>
+    <string>Langsa</string>
+    <string>Lansing</string>
+    <string>Lào Cai</string>
+    <string>Laoag</string>
+    <string>Lappeenranta</string>
+    <string>Lapu-Lapu City</string>
+    <string>Larache </string>
+    <string>Laredo</string>
+    <string>Largo</string>
+    <string>Larkana</string>
+    <string>Larnaca</string>
+    <string>Las Condes</string>
+    <string>Las Palmas de Gran Canaria</string>
+    <string>Las Piedras</string>
+    <string>Las Piñas</string>
+    <string>Las Vegas</string>
+    <string>Lashio</string>
+    <string>Lashkar Gah</string>
+    <string>Latina</string>
+    <string>Latur</string>
+    <string>Launceston</string>
+    <string>Lauro de Freitas</string>
+    <string>Lausanne</string>
+    <string>Lautoka</string>
+    <string>Laval</string>
+    <string>Lawrence</string>
+    <string>Le Havre</string>
+    <string>Le Mans</string>
+    <string>Lecce</string>
+    <string>Leeds</string>
+    <string>Leeuwarden</string>
+    <string>Leganés</string>
+    <string>Legaspi</string>
+    <string>Legnica</string>
+    <string>Leh</string>
+    <string>Leicester</string>
+    <string>Leiden</string>
+    <string>Leipzig</string>
+    <string>Lembang</string>
+    <string>Léo</string>
+    <string>Leon Valley</string>
+    <string>Leon</string>
+    <string>León</string>
+    <string>León</string>
+    <string>Lepoglava</string>
+    <string>Leskovac</string>
+    <string>Leszno</string>
+    <string>Lethbridge</string>
+    <string>Leticia</string>
+    <string>Leuven</string>
+    <string>Leverkusen</string>
+    <string>Lévis</string>
+    <string>Lexington</string>
+    <string>Lhokseumawe</string>
+    <string>li Bayramlı</string>
+    <string>Libenge</string>
+    <string>Liberec</string>
+    <string>Libreville</string>
+    <string>Lichinga</string>
+    <string>Liège</string>
+    <string>Liepja</string>
+    <string>Ligao</string>
+    <string>Likasi</string>
+    <string>Lille</string>
+    <string>Lilongwe</string>
+    <string>Lima</string>
+    <string>Limache</string>
+    <string>Limassol</string>
+    <string>Limbe</string>
+    <string>Limoges</string>
+    <string>Linares</string>
+    <string>Linares</string>
+    <string>Lincoln</string>
+    <string>Lincoln</string>
+    <string>Linden</string>
+    <string>Linhares</string>
+    <string>Linköping</string>
+    <string>Linz</string>
+    <string>Lipa</string>
+    <string>Lisala</string>
+    <string>Lisboa</string>
+    <string>Lisburn</string>
+    <string>Lismore</string>
+    <string>Lithgow</string>
+    <string>Little Rock</string>
+    <string>Liverpool</string>
+    <string>Livingston</string>
+    <string>Livingstone</string>
+    <string>Livorno</string>
+    <string>Ljubljana</string>
+    <string>Lleida</string>
+    <string>Lloydminster</string>
+    <string>Lng Sn</string>
+    <string>Lockport</string>
+    <string>Lodhran</string>
+    <string>Lodja</string>
+    <string>Logan</string>
+    <string>Logroño</string>
+    <string>Loja</string>
+    <string>Lomé</string>
+    <string>London</string>
+    <string>Londonderry/Derry</string>
+    <string>Londrina</string>
+    <string>Long Beach</string>
+    <string>Long Xuyên</string>
+    <string>Longreach</string>
+    <string>Longueuil</string>
+    <string>Los Alcarrizos</string>
+    <string>Los Andes</string>
+    <string>Los Angeles</string>
+    <string>Los Ángeles</string>
+    <string>Los Mochis</string>
+    <string>Louis Trichardt</string>
+    <string>Louisville</string>
+    <string>Louisville</string>
+    <string>Lowell</string>
+    <string>Luanda</string>
+    <string>Luba</string>
+    <string>Lubango</string>
+    <string>Lubbock</string>
+    <string>Lübeck</string>
+    <string>Lublin</string>
+    <string>Lubutu</string>
+    <string>Lucapa</string>
+    <string>Lucca</string>
+    <string>Lucena</string>
+    <string>Lucknow</string>
+    <string>Ludhiana</string>
+    <string>Ludwigshafen am Rhein</string>
+    <string>Lugo</string>
+    <string>Luján</string>
+    <string>Luleå</string>
+    <string>Lund</string>
+    <string>Lusaka</string>
+    <string>Luxembourg</string>
+    <string>Luziânia</string>
+    <string>Lynn Haven</string>
+    <string>Lyon</string>
+    <string>Lytle</string>
+    <string>M Tho</string>
+    <string>M'banza Congo</string>
+    <string>M'Bour</string>
+    <string>Maastricht</string>
+    <string>Macaé</string>
+    <string>Macapá</string>
+    <string>Maceió</string>
+    <string>Macerata</string>
+    <string>Machakos</string>
+    <string>Machala</string>
+    <string>Machalí</string>
+    <string>Machida</string>
+    <string>Mackay</string>
+    <string>Macon</string>
+    <string>Madera</string>
+    <string>Madinani</string>
+    <string>Madison</string>
+    <string>Madnat al-Kuwayt -  </string>
+    <string>Madrid</string>
+    <string>Madurai</string>
+    <string>Maebashi</string>
+    <string>Mafikeng</string>
+    <string>Magdeburg</string>
+    <string>Magog</string>
+    <string>Magong</string>
+    <string>Magpet</string>
+    <string>Magwe</string>
+    <string>Mahajanga</string>
+    <string>Mahapleu</string>
+    <string>Maibara</string>
+    <string>Maiduguri</string>
+    <string>Mainz</string>
+    <string>Maipu</string>
+    <string>Maitland</string>
+    <string>Maizuru</string>
+    <string>Majuro</string>
+    <string>Makanza</string>
+    <string>Makassar</string>
+    <string>Makati</string>
+    <string>Makeni</string>
+    <string>Makilala</string>
+    <string>Makkah Medina Sundsvall</string>
+    <string>Makurazaki</string>
+    <string>Makurdi</string>
+    <string>Malabo</string>
+    <string>Malabon</string>
+    <string>Málaga</string>
+    <string>Malakal Natal</string>
+    <string>Malang</string>
+    <string>Malanje</string>
+    <string>Malargüe</string>
+    <string>Malasila</string>
+    <string>Malatya</string>
+    <string>Malaybalay</string>
+    <string>Male</string>
+    <string>Malegaon</string>
+    <string>Malindi</string>
+    <string>Malmö</string>
+    <string>Malolos</string>
+    <string>Mampon</string>
+    <string>Man</string>
+    <string>Manado</string>
+    <string>Managua</string>
+    <string>Manama</string>
+    <string>Mancheral</string>
+    <string>Manchester</string>
+    <string>Manchester</string>
+    <string>Mandaluyong</string>
+    <string>Mandaue City</string>
+    <string>Mandeville</string>
+    <string>Mandi Bahauddin</string>
+    <string>Mandurah</string>
+    <string>Mangalia</string>
+    <string>Mangaluru</string>
+    <string>Manhattan Beach</string>
+    <string>Manila</string>
+    <string>Manisa</string>
+    <string>Manizales</string>
+    <string>Mannheim</string>
+    <string>Manono</string>
+    <string>Manso Amenfi</string>
+    <string>Manso</string>
+    <string>Manta</string>
+    <string>Mantova</string>
+    <string>Manzanillo</string>
+    <string>Mao</string>
+    <string>Maple Ridge</string>
+    <string>Maputo</string>
+    <string>Mar del Plata</string>
+    <string>Maracaibo</string>
+    <string>Maracanaú</string>
+    <string>Maracay</string>
+    <string>Maranguape</string>
+    <string>Marawi City</string>
+    <string>Marbella</string>
+    <string>Marble Bar</string>
+    <string>Marco Island</string>
+    <string>Mardan</string>
+    <string>Mardin</string>
+    <string>Maribor</string>
+    <string>Maricá</string>
+    <string>Marikina</string>
+    <string>Marília</string>
+    <string>Maringá</string>
+    <string>Marka</string>
+    <string>Markham</string>
+    <string>Marondera</string>
+    <string>Maroochydore</string>
+    <string>Marrakesh Chail</string>
+    <string>Marseille</string>
+    <string>Marsh Harbour</string>
+    <string>Mary</string>
+    <string>Maryborough</string>
+    <string>Masansi</string>
+    <string>Masbate</string>
+    <string>Mascara La Paz</string>
+    <string>Maseru</string>
+    <string>Masi-Manimba</string>
+    <string>Massa</string>
+    <string>Masuda</string>
+    <string>Masvingo</string>
+    <string>Matadi</string>
+    <string>Matagalpa</string>
+    <string>Matamoros</string>
+    <string>Matanzas</string>
+    <string>Matara</string>
+    <string>Mataró</string>
+    <string>Mataura</string>
+    <string>Matera</string>
+    <string>Mathura</string>
+    <string>Mati</string>
+    <string>Matola</string>
+    <string>Matombo</string>
+    <string>Matsubara</string>
+    <string>Matsudo</string>
+    <string>Matsue</string>
+    <string>Matsumoto</string>
+    <string>Matsuyama</string>
+    <string>Mattoon</string>
+    <string>Mau</string>
+    <string>Mauá</string>
+    <string>Maun</string>
+    <string>May Pen</string>
+    <string>Maymana</string>
+    <string>Mazâr-e Sharîf  Cooktown</string>
+    <string>Mbabane</string>
+    <string>Mbandaka</string>
+    <string>Mbanza-Ngungu</string>
+    <string>Mbeya</string>
+    <string>Mbuji-Mayi</string>
+    <string>Mbuji-Mayi</string>
+    <string>McAllen</string>
+    <string>Méagui</string>
+    <string>Medan</string>
+    <string>Médéa</string>
+    <string>Medford</string>
+    <string>Medgidia</string>
+    <string>MediaDubbo</string>
+    <string>Medicine Hat</string>
+    <string>Meekatharra</string>
+    <string>Meguro</string>
+    <string>Mehrabpur</string>
+    <string>Mek'elNekemte</string>
+    <string>Melaka</string>
+    <string>Melbourne</string>
+    <string>Melbourne</string>
+    <string>Melfort</string>
+    <string>Melfort</string>
+    <string>Melipilla</string>
+    <string>Memphis</string>
+    <string>Mendoza</string>
+    <string>Menongue</string>
+    <string>Merced</string>
+    <string>Mérida</string>
+    <string>Mérida</string>
+    <string>Mérida</string>
+    <string>Meridian</string>
+    <string>Merritt</string>
+    <string>Meru</string>
+    <string>Mesquita</string>
+    <string>Mesquite</string>
+    <string>Messina</string>
+    <string>Metz</string>
+    <string>Mexicali</string>
+    <string>Meycauayan</string>
+    <string>Miami Beach</string>
+    <string>Miami</string>
+    <string>Miaoli City</string>
+    <string>Middelburg</string>
+    <string>MiddlesbroughJelgava</string>
+    <string>Midori</string>
+    <string>Midori</string>
+    <string>Miercurea Ciuc</string>
+    <string>Mihara</string>
+    <string>Mikasa</string>
+    <string>Miki</string>
+    <string>Mikkeli</string>
+    <string>Milagro</string>
+    <string>Milano</string>
+    <string>Mildura</string>
+    <string>Miles</string>
+    <string>Millville</string>
+    <string>Milton Keynes</string>
+    <string>Milwaukee</string>
+    <string>Milyangsi</string>
+    <string>Mima</string>
+    <string>Mimasaka</string>
+    <string>Minamata</string>
+    <string>Minami</string>
+    <string>Minamiashigara</string>
+    <string>Minamiawaji</string>
+    <string>Minamiboso</string>
+    <string>Minamikyushu</string>
+    <string>Minamisatsuma</string>
+    <string>Minamisoma</string>
+    <string>Minamiuonuma</string>
+    <string>Minas</string>
+    <string>Minatitlán</string>
+    <string>Minato</string>
+    <string>Minato</string>
+    <string>Mindelo</string>
+    <string>Mineral Wells</string>
+    <string>Mingaora</string>
+    <string>Mingçevir</string>
+    <string>Ministério da Ciência e Tecnologia / Ministério da Integração</string>
+    <string>Ministério da Saúde</string>
+    <string>Minna</string>
+    <string>Minneapolis</string>
+    <string>Mino</string>
+    <string>Mirabel</string>
+    <string>Miramichi</string>
+    <string>Mirpur Khas</string>
+    <string>Mirpur</string>
+    <string>Misato</string>
+    <string>Misawa</string>
+    <string>Mishima</string>
+    <string>Miskolc</string>
+    <string>Mississauga</string>
+    <string>Missoula</string>
+    <string>Mitaka</string>
+    <string>Mito</string>
+    <string>Mitrovicë</string>
+    <string>Mitsuke</string>
+    <string>Mitú</string>
+    <string>Miura</string>
+    <string>Miyako</string>
+    <string>Miyakojima</string>
+    <string>Miyakonojo</string>
+    <string>Miyazaki</string>
+    <string>Miyazu</string>
+    <string>Miyoshi</string>
+    <string>Miyoshi</string>
+    <string>Miyoshi</string>
+    <string>Mizuho</string>
+    <string>Mkuyuni</string>
+    <string>Mmopane</string>
+    <string>Moab</string>
+    <string>Mobara</string>
+    <string>Mobile</string>
+    <string>Moca</string>
+    <string>Mocoa</string>
+    <string>Modena</string>
+    <string>Modesto</string>
+    <string>Moga</string>
+    <string>Mogi Guaçu</string>
+    <string>Mojokerto</string>
+    <string>Mokopane</string>
+    <string>Mokpo</string>
+    <string>Mokposi</string>
+    <string>Molepolole</string>
+    <string>Mollendo</string>
+    <string>Mombasa</string>
+    <string>Monbetsu</string>
+    <string>Mönchengladbach</string>
+    <string>Moncton</string>
+    <string>Mongomo</string>
+    <string>Monrovia</string>
+    <string>Monrovia</string>
+    <string>Mons</string>
+    <string>Mont-Joli</string>
+    <string>Montalvânia</string>
+    <string>Monte Cristi</string>
+    <string>Monte Plata</string>
+    <string>Montego Bay</string>
+    <string>Monterey Park</string>
+    <string>Monterey</string>
+    <string>Montería</string>
+    <string>Montero</string>
+    <string>Monterrey</string>
+    <string>Montes Claros</string>
+    <string>Montevideo</string>
+    <string>Montgomery</string>
+    <string>Montpellier</string>
+    <string>Montréal</string>
+    <string>Montreuil</string>
+    <string>Monza</string>
+    <string>Mooka</string>
+    <string>Mopti</string>
+    <string>Moradabad</string>
+    <string>Morales</string>
+    <string>Moramanga</string>
+    <string>Moree</string>
+    <string>Morelia</string>
+    <string>Morelos</string>
+    <string>Moreno Valley</string>
+    <string>Moreno</string>
+    <string>Moriguchi</string>
+    <string>Morioka</string>
+    <string>Moriyama</string>
+    <string>Morogoro</string>
+    <string>Moroleón</string>
+    <string>Morondava</string>
+    <string>Moroni</string>
+    <string>Moshi</string>
+    <string>Mossoró</string>
+    <string>Mostaganem - M'Sila</string>
+    <string>Mostar</string>
+    <string>Móstoles</string>
+    <string>Motomiya</string>
+    <string>Mouila</string>
+    <string>Moultrie</string>
+    <string>Moundou</string>
+    <string>Mount Gambier</string>
+    <string>Mount Isa</string>
+    <string>Mount Magnet</string>
+    <string>Mountain View</string>
+    <string>Moyobamba</string>
+    <string>Mpeasem</string>
+    <string>Mpenkro</string>
+    <string>Mpika</string>
+    <string>Mpohor</string>
+    <string>Mthatha</string>
+    <string>Mtwara</string>
+    <string>Mufriso</string>
+    <string>Muhamamo</string>
+    <string>Muko</string>
+    <string>Mukomuko</string>
+    <string>Mula</string>
+    <string>Mülheim an der Ruhr</string>
+    <string>Mulhouse</string>
+    <string>Multan</string>
+    <string>Mumbai New Delhi </string>
+    <string>München</string>
+    <string>Mungyeongsi</string>
+    <string>Muñoz</string>
+    <string>Münster</string>
+    <string>Muntinlupa</string>
+    <string>Muqdisho</string>
+    <string>Murakami</string>
+    <string>Murayama</string>
+    <string>Murcia</string>
+    <string>Murfinburg</string>
+    <string>Muridke</string>
+    <string>Murrieta</string>
+    <string>Musanze</string>
+    <string>Musashino</string>
+    <string>Musina</string>
+    <string>Musoma</string>
+    <string>Mutare</string>
+    <string>Mutsu</string>
+    <string>Muzaffarabad</string>
+    <string>Muzaffargarh</string>
+    <string>Muzaffarnagar</string>
+    <string>Muzaffarpur</string>
+    <string>Mwanza</string>
+    <string>Mwene-Ditu</string>
+    <string>MyeikFresno</string>
+    <string>Myingyan</string>
+    <string>Mymensingh</string>
+    <string>Myoko</string>
+    <string>Myrtle Beach</string>
+    <string>Mysuru</string>
+    <string>Mzuzu</string>
+    <string>N'dalatando</string>
+    <string>N’Djamena Onitsha</string>
+    <string>Nacome</string>
+    <string>Nadiad</string>
+    <string>Naga City</string>
+    <string>Nagahama</string>
+    <string>Nagano</string>
+    <string>Nagaoka</string>
+    <string>Nagaokakyo</string>
+    <string>Nagaon</string>
+    <string>Nagareyama</string>
+    <string>Nagasaki</string>
+    <string>Nagato</string>
+    <string>Nago</string>
+    <string>Nagoya</string>
+    <string>Nagpur</string>
+    <string>Nagua</string>
+    <string>Naha</string>
+    <string>Najran Skakah Riverton</string>
+    <string>Najusi</string>
+    <string>Naka</string>
+    <string>Nakagawa</string>
+    <string>Nakano</string>
+    <string>Nakano</string>
+    <string>Nakuru</string>
+    <string>Nam nh</string>
+    <string>Namangan</string>
+    <string>Namibe</string>
+    <string>Namp'o</string>
+    <string>Nampa</string>
+    <string>Nampula</string>
+    <string>Namwonsi</string>
+    <string>Namyangjusi</string>
+    <string>Nanaimo</string>
+    <string>Nanao</string>
+    <string>Nanao</string>
+    <string>Nancy</string>
+    <string>Nanded</string>
+    <string>Nanj</string>
+    <string>Nankoku</string>
+    <string>Nantan</string>
+    <string>Nantes</string>
+    <string>Nanto</string>
+    <string>Nanyo</string>
+    <string>Napier</string>
+    <string>Naples</string>
+    <string>Napoli</string>
+    <string>Nara</string>
+    <string>Narashino</string>
+    <string>Narita</string>
+    <string>Naruto</string>
+    <string>Nashik</string>
+    <string>Nashville</string>
+    <string>Nassau</string>
+    <string>Nasukarasuyama</string>
+    <string>Nasushiobara</string>
+    <string>Natori</string>
+    <string>Navi Mumbai</string>
+    <string>Navojoa</string>
+    <string>Navotas</string>
+    <string>Nawabshah</string>
+    <string>Naxçıvan</string>
+    <string>Nayoro</string>
+    <string>Ndola</string>
+    <string>Nebbi</string>
+    <string>Negara</string>
+    <string>Negombo</string>
+    <string>Neiva</string>
+    <string>Nellore</string>
+    <string>Nelson</string>
+    <string>Nelspruit</string>
+    <string>Nerima</string>
+    <string>Neuquén</string>
+    <string>Neuss</string>
+    <string>Nevehir</string>
+    <string>New Amsterdam</string>
+    <string>New Braunfels</string>
+    <string>New Brunswick</string>
+    <string>New Fairview</string>
+    <string>New Haven</string>
+    <string>New Orleans</string>
+    <string>New Plymouth</string>
+    <string>New Westminster</string>
+    <string>New York</string>
+    <string>Newark</string>
+    <string>Newcastle upon Tyne</string>
+    <string>Newcastle</string>
+    <string>Newcastle</string>
+    <string>Newman</string>
+    <string>Newport Beach</string>
+    <string>Newport News</string>
+    <string>Newport</string>
+    <string>NewryRaipur</string>
+    <string>Neyagawa</string>
+    <string>ng Hi</string>
+    <string>Ngandajika</string>
+    <string>Ngaoundéré</string>
+    <string>Ngatainchao</string>
+    <string>Nha Trang</string>
+    <string>Niagara Falls New York</string>
+    <string>Niagara Falls Ontario</string>
+    <string>Niamey</string>
+    <string>Nice</string>
+    <string>Nichinan</string>
+    <string>Nide</string>
+    <string>Nielle</string>
+    <string>Nieuw Nickerie</string>
+    <string>Nihonmatsu</string>
+    <string>Niigata</string>
+    <string>Niigata</string>
+    <string>Niihama</string>
+    <string>Niimi</string>
+    <string>Niiza</string>
+    <string>Nijmegen</string>
+    <string>Nikaho</string>
+    <string>Nikko</string>
+    <string>Nikko</string>
+    <string>Nilópolis</string>
+    <string>Nîmes</string>
+    <string>Ninh Bình</string>
+    <string>Ninohe</string>
+    <string>Nishikasugai</string>
+    <string>Nishinomiya</string>
+    <string>Nishinoomote</string>
+    <string>Nishio</string>
+    <string>Nishiwaki</string>
+    <string>Nissin</string>
+    <string>Niterói</string>
+    <string>Nitra</string>
+    <string>NiTulsa</string>
+    <string>Niwa</string>
+    <string>Nizamabad</string>
+    <string>Nizwa</string>
+    <string>Nkokosa</string>
+    <string>Nkran</string>
+    <string>Nkroful</string>
+    <string>Nkwanta</string>
+    <string>Nobeoka</string>
+    <string>Noboribetsu</string>
+    <string>Noda</string>
+    <string>Nonsansi</string>
+    <string>Norfolk</string>
+    <string>Normanton</string>
+    <string>Norrköping</string>
+    <string>North Battleford</string>
+    <string>North Port</string>
+    <string>North Vancouver</string>
+    <string>Northampton</string>
+    <string>Norwalk</string>
+    <string>Norwich</string>
+    <string>Norwich</string>
+    <string>Noshiro</string>
+    <string>Nossa Senhora do Socorro</string>
+    <string>Nottingham</string>
+    <string>Nouakchott Banjul</string>
+    <string>Nouméa</string>
+    <string>Nova Iguaçu</string>
+    <string>Nova Prata</string>
+    <string>Novara</string>
+    <string>Novi Pazar</string>
+    <string>Novi Sad</string>
+    <string>Novo HamburgoAlbany</string>
+    <string>Nowra</string>
+    <string>Nowshera</string>
+    <string>Nowy Scz</string>
+    <string>Nsuta</string>
+    <string>Nueva Cajamarca</string>
+    <string>Nueva Gerona</string>
+    <string>Nueva Ocotepeque</string>
+    <string>Nuevo Laredo</string>
+    <string>Nukata</string>
+    <string>Numata</string>
+    <string>Numazu</string>
+    <string>Nürnberg</string>
+    <string>Nuuk</string>
+    <string>Nuwara Eliya</string>
+    <string>Nyala Berbera</string>
+    <string>Nyamibechere</string>
+    <string>Nyeri</string>
+    <string>Nyíregyháza</string>
+    <string>Nzérékoré</string>
+    <string>O'Fallon</string>
+    <string>Oakland</string>
+    <string>Oaxaca de Juárez</string>
+    <string>Obama</string>
+    <string>Obanazawa</string>
+    <string>Obihiro</string>
+    <string>Oboasi</string>
+    <string>Obrayebona</string>
+    <string>Obu</string>
+    <string>Ocala</string>
+    <string>Oceanside</string>
+    <string>Ocho Rios</string>
+    <string>Odate</string>
+    <string>Odawara</string>
+    <string>Odense</string>
+    <string>Odienné</string>
+    <string>ódNamur</string>
+    <string>Odumase Abrafo</string>
+    <string>Odumasi</string>
+    <string>Offenbach am Main</string>
+    <string>Ofunato</string>
+    <string>Oga</string>
+    <string>Ogbomosho</string>
+    <string>Oita</string>
+    <string>Ojiya</string>
+    <string>Ojuelos</string>
+    <string>Oka-Akoko</string>
+    <string>Okara</string>
+    <string>Okaya</string>
+    <string>Okayama</string>
+    <string>Okazaki</string>
+    <string>Okegawa</string>
+    <string>Okinawa</string>
+    <string>Oklahoma City</string>
+    <string>Olanchito</string>
+    <string>Olathe</string>
+    <string>Olavarría</string>
+    <string>Olbia</string>
+    <string>Oldenburg</string>
+    <string>Olinda</string>
+    <string>Olomouc</string>
+    <string>Olongapo</string>
+    <string>Olsztyn</string>
+    <string>Olympia</string>
+    <string>oma</string>
+    <string>Omachi</string>
+    <string>Omaha</string>
+    <string>Omdurman</string>
+    <string>Omdurman</string>
+    <string>Omihachiman</string>
+    <string>Omitama</string>
+    <string>Ondjiva</string>
+    <string>ông Hà</string>
+    <string>Ono</string>
+    <string>Onomichi</string>
+    <string>Ontario</string>
+    <string>Ooda</string>
+    <string>Opole</string>
+    <string>Oradea</string>
+    <string>Oran Nairobi</string>
+    <string>Orange</string>
+    <string>Orange</string>
+    <string>Ordu</string>
+    <string>Örebro</string>
+    <string>Orizaba</string>
+    <string>Orlando</string>
+    <string>Orléans</string>
+    <string>Ormara</string>
+    <string>Ormoc City</string>
+    <string>Ormond Beach</string>
+    <string>Oroquieta</string>
+    <string>Oruro</string>
+    <string>Osaka</string>
+    <string>Osakasayama</string>
+    <string>Osaki</string>
+    <string>Osan</string>
+    <string>Osansi</string>
+    <string>Osasco</string>
+    <string>Osenese</string>
+    <string>Oshawa</string>
+    <string>Oshu</string>
+    <string>Osijek</string>
+    <string>Oslo</string>
+    <string>Osmaniye</string>
+    <string>Osnabrück</string>
+    <string>Osorno</string>
+    <string>Östersund</string>
+    <string>Ostrava</string>
+    <string>Ota</string>
+    <string>Ota</string>
+    <string>Otake</string>
+    <string>Otaru</string>
+    <string>Otawara</string>
+    <string>Otsu</string>
+    <string>Ottawa</string>
+    <string>Ouagadougou</string>
+    <string>Ouahigouya</string>
+    <string>Ouaké</string>
+    <string>Ouanaminthe</string>
+    <string>Ouangolodougou</string>
+    <string>Ouargla Skikda Tlemcen Béchar</string>
+    <string>Ouésso</string>
+    <string>Oujda Tanger Maknâs  El Jadida Eger</string>
+    <string>Oulu</string>
+    <string>Ourense</string>
+    <string>Ourinhos</string>
+    <string>Ovalle</string>
+    <string>Overland Park</string>
+    <string>Oviedo</string>
+    <string>Owariasahi</string>
+    <string>Owase</string>
+    <string>Owase</string>
+    <string>Owo</string>
+    <string>Oxapampa</string>
+    <string>Oxford</string>
+    <string>Oxnard</string>
+    <string>Oyama</string>
+    <string>Oyo</string>
+    <string>Oyster Bay</string>
+    <string>Ozamis</string>
+    <string>Ozu</string>
+    <string>P'yngyang</string>
+    <string>P'yong-song</string>
+    <string>Paço do Lumiar</string>
+    <string>Padada</string>
+    <string>Padalarang</string>
+    <string>Padang</string>
+    <string>Padangsidempuan</string>
+    <string>Paderborn</string>
+    <string>Padova</string>
+    <string>Pagadian</string>
+    <string>Paine</string>
+    <string>Pajusi</string>
+    <string>Pakpattan</string>
+    <string>Palanpur</string>
+    <string>Palau</string>
+    <string>Palayan</string>
+    <string>Palembang</string>
+    <string>Palencia</string>
+    <string>Palermo</string>
+    <string>Palhoça</string>
+    <string>Pali</string>
+    <string>Palm Bay</string>
+    <string>Palm Coast</string>
+    <string>Palm Springs</string>
+    <string>Palma de Mallorca</string>
+    <string>Palmdale</string>
+    <string>Palmerston North</string>
+    <string>Palo Alto</string>
+    <string>Palu</string>
+    <string>Pamanukan</string>
+    <string>Pamplona - Iruña</string>
+    <string>Panabo City</string>
+    <string>Panama City Beach</string>
+    <string>Panama City</string>
+    <string>Panamá</string>
+    <string>Pancor</string>
+    <string>Pando</string>
+    <string>Panevys</string>
+    <string>Panguila</string>
+    <string>Panipat</string>
+    <string>Papeete</string>
+    <string>Paphos</string>
+    <string>Paraguarí</string>
+    <string>Parakou</string>
+    <string>Paramaribo</string>
+    <string>Paramount</string>
+    <string>Paraná</string>
+    <string>Paranaguá</string>
+    <string>Parañaque</string>
+    <string>Parbhani</string>
+    <string>Pardubice</string>
+    <string>Pare-Pare</string>
+    <string>Paris</string>
+    <string>Paris</string>
+    <string>Parla</string>
+    <string>Parma</string>
+    <string>Parral</string>
+    <string>Pars abad</string>
+    <string>Pasadena</string>
+    <string>Pasadena</string>
+    <string>Pasay</string>
+    <string>Pasig</string>
+    <string>Paso de Carrasco</string>
+    <string>Paso Robles</string>
+    <string>Passi City</string>
+    <string>Passo Fundo</string>
+    <string>Pasto</string>
+    <string>Patahu</string>
+    <string>Paterson</string>
+    <string>Pathein</string>
+    <string>Patiala</string>
+    <string>Patna</string>
+    <string>Patos de Minas</string>
+    <string>Paulista</string>
+    <string>Paulo Afonso</string>
+    <string>Pavia</string>
+    <string>Paynes Find</string>
+    <string>Pécs</string>
+    <string>Pedernales</string>
+    <string>Pedro Juan Caballero</string>
+    <string>Peel</string>
+    <string>Pejë</string>
+    <string>Pelotas</string>
+    <string>Pemantangsiantar</string>
+    <string>Pemba</string>
+    <string>Peñaflor</string>
+    <string>Penco</string>
+    <string>Pénglái</string>
+    <string>Pensacola</string>
+    <string>Peoria</string>
+    <string>Percé</string>
+    <string>PereiraMakoua</string>
+    <string>Pergamino</string>
+    <string>Perpignan</string>
+    <string>Perth</string>
+    <string>Perugia</string>
+    <string>Pesaro</string>
+    <string>Pescara</string>
+    <string>Peshawar</string>
+    <string>Peterborough</string>
+    <string>Peterborough</string>
+    <string>Petersburg</string>
+    <string>Petersburg</string>
+    <string>PétionVille</string>
+    <string>Petrópolis</string>
+    <string>Pforzheim</string>
+    <string>Ph LRch Giá</string>
+    <string>Ph. Kampông Krâsng</string>
+    <string>Phan Rang - Tháp Chàm</string>
+    <string>Phan Thit</string>
+    <string>Philadelphia</string>
+    <string>Phoenix</string>
+    <string>Phong Thng Xoài</string>
+    <string>Pia</string>
+    <string>Piacenza</string>
+    <string>Piatra-NeamTakoradi</string>
+    <string>Pichilemu</string>
+    <string>Pickering</string>
+    <string>Piedras Negras</string>
+    <string>Pietermaritzburg</string>
+    <string>Pikine</string>
+    <string>Pilar</string>
+    <string>Pilar</string>
+    <string>Pinar del Río</string>
+    <string>Pingdong City</string>
+    <string>Pingjhen City</string>
+    <string>Pinhais</string>
+    <string>Pinrang</string>
+    <string>Piracicaba</string>
+    <string>Pisa</string>
+    <string>Pistoia</string>
+    <string>Pita</string>
+    <string>Piteti</string>
+    <string>Pitt Meadows</string>
+    <string>Pittsburgh</string>
+    <string>Piura</string>
+    <string>Planaltina</string>
+    <string>Plattsburgh</string>
+    <string>Playas de Rosarito</string>
+    <string>Pleiku</string>
+    <string>Ploiesti</string>
+    <string>Plymouth</string>
+    <string>Poá</string>
+    <string>Pocheonsi</string>
+    <string>Pock</string>
+    <string>Poços de Caldas</string>
+    <string>Podgorica</string>
+    <string>Poindimié</string>
+    <string>Pointe-Noire</string>
+    <string>Poitiers</string>
+    <string>Polgahawela</string>
+    <string>Polokwane</string>
+    <string>Pomona</string>
+    <string>Pompano Beach</string>
+    <string>Ponta Delgada</string>
+    <string>Ponta Grossa</string>
+    <string>Ponte Nova</string>
+    <string>Pontevedra</string>
+    <string>Pontianak</string>
+    <string>Poole</string>
+    <string>Porbandar</string>
+    <string>Pordenone</string>
+    <string>Pori</string>
+    <string>Porirua</string>
+    <string>Porlamar</string>
+    <string>Port Augusta</string>
+    <string>Port Colborne</string>
+    <string>Port Coquitlam</string>
+    <string>Port Elizabeth</string>
+    <string>Port Harcourt</string>
+    <string>Port Hedland</string>
+    <string>Port Huron</string>
+    <string>Port Louis</string>
+    <string>Port Macquarie</string>
+    <string>Port Moody</string>
+    <string>Port Moresby</string>
+    <string>Port of Spain</string>
+    <string>Port Pirie</string>
+    <string>Port St. Lucie</string>
+    <string>Port-au-Prince</string>
+    <string>Port-de-Paix</string>
+    <string>Portage la Prairie</string>
+    <string>Portland</string>
+    <string>Portland</string>
+    <string>Porto Alegre</string>
+    <string>Porto Novo</string>
+    <string>Porto Seguro</string>
+    <string>Porto Velho</string>
+    <string>Porto-Novo</string>
+    <string>Porto</string>
+    <string>Portoviejo</string>
+    <string>Portsmouth</string>
+    <string>Portsmouth</string>
+    <string>Posadas</string>
+    <string>Potenza</string>
+    <string>Potosí</string>
+    <string>Potsdam</string>
+    <string>Poughkeepsie</string>
+    <string>Pouso Alegre</string>
+    <string>Pouytenga</string>
+    <string>Poway</string>
+    <string>Poza Rica de Hidalgo</string>
+    <string>PoznaAngeles</string>
+    <string>Praha</string>
+    <string>Praia</string>
+    <string>Prato</string>
+    <string>Preov</string>
+    <string>Presevo</string>
+    <string>Presidencia Roque Sáenz Peña</string>
+    <string>President Roxas</string>
+    <string>Preston</string>
+    <string>Pretoria</string>
+    <string>Pretsia</string>
+    <string>Prince Albert</string>
+    <string>Prince George</string>
+    <string>Prishtinë</string>
+    <string>Prizren</string>
+    <string>Progreso</string>
+    <string>Prome</string>
+    <string>Providence</string>
+    <string>Provo</string>
+    <string>Pucallpa</string>
+    <string>Puducherry</string>
+    <string>Pueblo</string>
+    <string>Puente Alto</string>
+    <string>Puerto Ayacucho</string>
+    <string>Puerto Barrios</string>
+    <string>Puerto Carreño</string>
+    <string>Puerto Cortés</string>
+    <string>Puerto General San Martín</string>
+    <string>Puerto Montt</string>
+    <string>Puerto Ordaz</string>
+    <string>Puerto Penasco</string>
+    <string>Puerto Plata</string>
+    <string>PUERTO RICO</string>
+    <string>Puerto Vallarta</string>
+    <string>Punakha</string>
+    <string>Pune</string>
+    <string>Puno</string>
+    <string>Punta Arenas</string>
+    <string>Punta Gorda</string>
+    <string>Punta Lara</string>
+    <string>Punto Fijo</string>
+    <string>Puzih</string>
+    <string>Pweto</string>
+    <string>Pyeongtaeksi</string>
+    <string>Qardho</string>
+    <string>Qarshi</string>
+    <string>qngdo</string>
+    <string>Qoryooley</string>
+    <string>Queanbeyan</string>
+    <string>Québec</string>
+    <string>Queimados</string>
+    <string>Quelimane</string>
+    <string>Queretaro</string>
+    <string>Quesnel</string>
+    <string>QuetzaltenangoXela</string>
+    <string>Quevedo</string>
+    <string>Quezon City</string>
+    <string>Quibdó</string>
+    <string>Quilicura</string>
+    <string>Quillota</string>
+    <string>Quilmes</string>
+    <string>Quilpue</string>
+    <string>Quito</string>
+    <string>Qung Ngãi</string>
+    <string>Quy Nhn</string>
+    <string>Qxiá</string>
+    <string>Rabat Helmond</string>
+    <string>Radom</string>
+    <string>Ragusa</string>
+    <string>Rahmyr Khn</string>
+    <string>Rajahmundry</string>
+    <string>Rajkot</string>
+    <string>Rajshahi</string>
+    <string>Raleigh</string>
+    <string>Râmnicu Vâlcea</string>
+    <string>Rampur</string>
+    <string>Rancagua</string>
+    <string>Ranchi</string>
+    <string>Rancho Cucamonga</string>
+    <string>Rarotonga Avarua</string>
+    <string>Ras Al Khaimah</string>
+    <string>Rason</string>
+    <string>Ratnapura</string>
+    <string>Ravenna</string>
+    <string>Rawala Kot</string>
+    <string>Rawalpindi</string>
+    <string>Rawson</string>
+    <string>rba Minch</string>
+    <string>Reading</string>
+    <string>Reading</string>
+    <string>Recife</string>
+    <string>Recklinghausen</string>
+    <string>Red Deer</string>
+    <string>Redlands</string>
+    <string>Regensburg</string>
+    <string>Reggio nell'Emilia</string>
+    <string>Regina</string>
+    <string>Rehoboth Beach</string>
+    <string>Reia</string>
+    <string>Reims</string>
+    <string>Remscheid</string>
+    <string>Renala Khurd</string>
+    <string>Rengo</string>
+    <string>Rennes</string>
+    <string>Reno</string>
+    <string>Renton</string>
+    <string>Resende</string>
+    <string>Resistencia</string>
+    <string>Reus</string>
+    <string>Reutlingen</string>
+    <string>Revelstoke</string>
+    <string>Rewa</string>
+    <string>Rewari</string>
+    <string>Reykjavík</string>
+    <string>Reynosa</string>
+    <string>Rga</string>
+    <string>Ribeirão Pires</string>
+    <string>Ribeirão Preto</string>
+    <string>Richards Bay</string>
+    <string>Richmond Hill</string>
+    <string>Richmond</string>
+    <string>Richmond</string>
+    <string>Richmond</string>
+    <string>Rieti</string>
+    <string>Rijeka</string>
+    <string>Rikuzen Takata</string>
+    <string>Rimini</string>
+    <string>Rimouski</string>
+    <string>Rio Branco</string>
+    <string>Río Bravo</string>
+    <string>Río Cuarto</string>
+    <string>Rio de Janeiro</string>
+    <string>Río Gallegos</string>
+    <string>Rio Grande</string>
+    <string>Rio Verde</string>
+    <string>Riobamba</string>
+    <string>RiohachaHubballi</string>
+    <string>Ritto</string>
+    <string>Rivera</string>
+    <string>Riverside</string>
+    <string>Riyadh Cuenca</string>
+    <string>Rize</string>
+    <string>Roanoke</string>
+    <string>Rochester</string>
+    <string>Rochester</string>
+    <string>Rochester</string>
+    <string>Rockford</string>
+    <string>Rockhampton</string>
+    <string>Rockingham</string>
+    <string>Rockland</string>
+    <string>Rohtak</string>
+    <string>Roma</string>
+    <string>Roma</string>
+    <string>Róngchéng</string>
+    <string>Roodepoort</string>
+    <string>Ropar</string>
+    <string>Roque Pérez</string>
+    <string>Rosario</string>
+    <string>Rosemead</string>
+    <string>Roseville</string>
+    <string>Rostock</string>
+    <string>Rotorua</string>
+    <string>Rotterdam</string>
+    <string>Roubaix</string>
+    <string>Rouen</string>
+    <string>Rourkela</string>
+    <string>Rovaniemi</string>
+    <string>Rovigo</string>
+    <string>Roxas City</string>
+    <string>Rshn</string>
+    <string>Ruda lska</string>
+    <string>Rufisque</string>
+    <string>Ruiru</string>
+    <string>Rukungiri</string>
+    <string>Rumia</string>
+    <string>Rumoi</string>
+    <string>Rustavi</string>
+    <string>Rustenburg</string>
+    <string>Rybnik</string>
+    <string>Ryugasaki</string>
+    <string>Rzekne</string>
+    <string>Rzeszów</string>
+    <string>Saarbrücken</string>
+    <string>Sabadell</string>
+    <string>Sacaba</string>
+    <string>Sacheonsi</string>
+    <string>Sacramento</string>
+    <string>Sadiqabad</string>
+    <string>Sado</string>
+    <string>Safi Alice Springs</string>
+    <string>Saga</string>
+    <string>Sagae</string>
+    <string>Sagamihara</string>
+    <string>Sagar</string>
+    <string>Saguenay</string>
+    <string>Saharanpur</string>
+    <string>Sahiwal</string>
+    <string>Saida - Jamshedpur</string>
+    <string>Saïda</string>
+    <string>Saihat Bhawana</string>
+    <string>Saijo</string>
+    <string>Saiki</string>
+    <string>Saint Charles</string>
+    <string>Saint John</string>
+    <string>Saint Louis</string>
+    <string>Saint Paul</string>
+    <string>Saint-Denis</string>
+    <string>Saint-Étienne</string>
+    <string>Saint-Jean-sur-Richelieu</string>
+    <string>Saint-Marc</string>
+    <string>Saitama</string>
+    <string>Saito</string>
+    <string>Sakado</string>
+    <string>Sakai-Minato</string>
+    <string>Sakai</string>
+    <string>Sakania</string>
+    <string>Sakata</string>
+    <string>Saku</string>
+    <string>Sakura</string>
+    <string>Sakura</string>
+    <string>Salalah Ibra</string>
+    <string>Salamanca</string>
+    <string>Salamanca</string>
+    <string>Salé Yangsansi</string>
+    <string>Sale</string>
+    <string>Salem</string>
+    <string>Salem</string>
+    <string>Salerno</string>
+    <string>Salinas</string>
+    <string>Salisbury</string>
+    <string>Salisbury</string>
+    <string>Salo</string>
+    <string>Salt Lake City</string>
+    <string>Salta</string>
+    <string>Saltillo</string>
+    <string>Salto del Guairá</string>
+    <string>Salto</string>
+    <string>Salto</string>
+    <string>Salto</string>
+    <string>Salvador</string>
+    <string>Salvatierra</string>
+    <string>Salzburg</string>
+    <string>Salzgitter</string>
+    <string>Samambaia</string>
+    <string>Samaná</string>
+    <string>Samarqand</string>
+    <string>Samcheoksi</string>
+    <string>Samsun</string>
+    <string>San Andrés</string>
+    <string>San Antonio</string>
+    <string>San Bernardino</string>
+    <string>San Bernardo</string>
+    <string>San Carlos de Bariloche</string>
+    <string>San Carlos Nuevo Guaymas</string>
+    <string>San Carlos</string>
+    <string>San Carlos</string>
+    <string>San Carlos</string>
+    <string>San Cristóbal de Las Casas</string>
+    <string>San Cristóbal</string>
+    <string>San Cristóbal</string>
+    <string>San Diego</string>
+    <string>San Felipe</string>
+    <string>San Felipe</string>
+    <string>San Fernando del Valle de Catamarca</string>
+    <string>San Fernando</string>
+    <string>San Fernando</string>
+    <string>San Fernando</string>
+    <string>San Fernando</string>
+    <string>San Francisco de Campeche</string>
+    <string>San Francisco de Campeche</string>
+    <string>San Francisco de Macorís</string>
+    <string>San Francisco de Mostazal</string>
+    <string>San Francisco Gotera</string>
+    <string>San Francisco</string>
+    <string>San Francisco</string>
+    <string>San Jose de Mayo</string>
+    <string>San José de Ocoa</string>
+    <string>San Jose Del Cabo</string>
+    <string>San José del Guaviare</string>
+    <string>San Jose</string>
+    <string>San José</string>
+    <string>San José</string>
+    <string>San Juan Bautista</string>
+    <string>San Juan de La Maguana</string>
+    <string>San Juan de los Morros</string>
+    <string>San Juan Y Martínez</string>
+    <string>San Juan</string>
+    <string>San Juan</string>
+    <string>San Juan</string>
+    <string>San Juan</string>
+    <string>San Lorenzo</string>
+    <string>San Lorenzo</string>
+    <string>San Luis Obispo</string>
+    <string>San Luis Potosí</string>
+    <string>San Luis Rio Colorado</string>
+    <string>San Luis</string>
+    <string>San Luis</string>
+    <string>San Marcos de Ocotepeque</string>
+    <string>San Marcos</string>
+    <string>San Martín</string>
+    <string>San Mateo</string>
+    <string>San Miguel de Allende</string>
+    <string>San Miguel de Tucumán</string>
+    <string>San Miguel</string>
+    <string>San Miguel</string>
+    <string>San Nicolás de los Garza</string>
+    <string>San Pablo</string>
+    <string>San Pedro de Macorís</string>
+    <string>San Pedro de Ycuamandiyú</string>
+    <string>San Pedro Garza García</string>
+    <string>San Rafael</string>
+    <string>San Salvador de Jujuy</string>
+    <string>San Salvador</string>
+    <string>San Vincente</string>
+    <string>Sancti Spiritus</string>
+    <string>Sanda</string>
+    <string>Sandakan</string>
+    <string>Sandomierz</string>
+    <string>Sanford</string>
+    <string>Sangjusi</string>
+    <string>Sangli</string>
+    <string>Sanjo</string>
+    <string>Sanmu</string>
+    <string>Sano</string>
+    <string>Santa Ana de Coro</string>
+    <string>Santa Ana</string>
+    <string>Santa Ana</string>
+    <string>Santa Bárbara d'Oeste</string>
+    <string>Santa Barbara</string>
+    <string>Santa Barbara</string>
+    <string>Santa Catarina</string>
+    <string>Santa Clara</string>
+    <string>Santa Clara</string>
+    <string>Santa ClaritaSanta Maria</string>
+    <string>Santa Coloma de Gramenet</string>
+    <string>Santa Cruz de la Sierra</string>
+    <string>Santa Cruz de los Taques</string>
+    <string>Santa Cruz de Tenerife</string>
+    <string>Santa Cruz</string>
+    <string>Santa Fe</string>
+    <string>Santa Fe</string>
+    <string>Santa Lucia</string>
+    <string>Santa Luzia</string>
+    <string>Santa Maria</string>
+    <string>Santa Maria</string>
+    <string>Santa Marta</string>
+    <string>Santa Monica</string>
+    <string>Santa Rita</string>
+    <string>Santa Rosa de Copan</string>
+    <string>Santa Rosa de Lima</string>
+    <string>Santa Rosa</string>
+    <string>Santa Rosa</string>
+    <string>Santa Rosa</string>
+    <string>Santa Tecla</string>
+    <string>Santander</string>
+    <string>Santarém</string>
+    <string>Santarém</string>
+    <string>Santiago de Compostela</string>
+    <string>Santiago de Cuba</string>
+    <string>Santiago de los Caballeros</string>
+    <string>Santiago del Estero</string>
+    <string>Santiago Papasquiaro</string>
+    <string>Santiago</string>
+    <string>Santo André</string>
+    <string>Santo Domingo de los Colorados</string>
+    <string>Santo Domingo</string>
+    <string>Santo Tomas De Castilla</string>
+    <string>Santos</string>
+    <string>São Carlos</string>
+    <string>São Filipe</string>
+    <string>São Gonçalo</string>
+    <string>Sao Joao da Boa Vista</string>
+    <string>São João de Meriti</string>
+    <string>São José de Ribamar</string>
+    <string>São José do Rio Preto</string>
+    <string>São José dos Campos</string>
+    <string>São José dos Pinhais</string>
+    <string>São José</string>
+    <string>São Leopoldo</string>
+    <string>São Luis</string>
+    <string>São Paulo</string>
+    <string>São Sebastião</string>
+    <string>São Tomé</string>
+    <string>Sapporo</string>
+    <string>Sapucaia do Sul</string>
+    <string>Sarajevo</string>
+    <string>Sarasota</string>
+    <string>Sargodha</string>
+    <string>SarhBafoussam</string>
+    <string>Sarnia</string>
+    <string>Sasayama</string>
+    <string>Saskatoon</string>
+    <string>Sassalemba</string>
+    <string>Sassari</string>
+    <string>Satara</string>
+    <string>Satsumasendai</string>
+    <string>Satte</string>
+    <string>Satu Mare</string>
+    <string>Sault Sainte Marie</string>
+    <string>Saurimo</string>
+    <string>Savannah La Mar</string>
+    <string>Savannah</string>
+    <string>Savona</string>
+    <string>Sayama</string>
+    <string>Saylac</string>
+    <string>Scarborough</string>
+    <string>Schwerin</string>
+    <string>Seattle</string>
+    <string>Sebastian</string>
+    <string>Sebha Misratah Abu Dhabi</string>
+    <string>Secunda</string>
+    <string>Ségou</string>
+    <string>Segovia</string>
+    <string>Seguin</string>
+    <string>Sehwan Sharif</string>
+    <string>Seinäjoki</string>
+    <string>Seiyo</string>
+    <string>Seki</string>
+    <string>Sekondi-Takoradi</string>
+    <string>Sekondi</string>
+    <string>Selkirk</string>
+    <string>Selong</string>
+    <string>Semarang</string>
+    <string>Senboku</string>
+    <string>Sendai</string>
+    <string>Sennan</string>
+    <string>Sennar Rabak Khulna</string>
+    <string>Seogwipo</string>
+    <string>Seogwiposi</string>
+    <string>Seongnam</string>
+    <string>Seosansi</string>
+    <string>Seoul</string>
+    <string>Sept-Îles</string>
+    <string>Serai Naurang</string>
+    <string>Seremban</string>
+    <string>Serra</string>
+    <string>Serrekunda</string>
+    <string>Setagaya</string>
+    <string>Sete Lagoas</string>
+    <string>Seto</string>
+    <string>SettatTrois-Rivières-Ouest</string>
+    <string>Settsu</string>
+    <string>Setúbal</string>
+    <string>Sevilla</string>
+    <string>Sfântu Gheorghe</string>
+    <string>Shahjahanpur</string>
+    <string>Shahkot</string>
+    <string>Shanghai</string>
+    <string>Shantou</string>
+    <string>SharjahTangi</string>
+    <string>ShashemennHarar</string>
+    <string>Sheffield</string>
+    <string>Shekhupura</string>
+    <string>Shelby</string>
+    <string>Shepparton</string>
+    <string>Shibetsu</string>
+    <string>Shibukawa</string>
+    <string>Shibushi</string>
+    <string>Shijonawate</string>
+    <string>Shikarpur</string>
+    <string>Shiki</string>
+    <string>Shikoku-Chuo</string>
+    <string>Shillong</string>
+    <string>Shimada</string>
+    <string>Shimanto</string>
+    <string>Shimizu</string>
+    <string>Shimla</string>
+    <string>Shimonoseki</string>
+    <string>Shimotsuke</string>
+    <string>Shimotsuma</string>
+    <string>Shinagawa</string>
+    <string>Shingu</string>
+    <string>Shinjo</string>
+    <string>Shinjuku</string>
+    <string>Shinshiro</string>
+    <string>Shinyanga</string>
+    <string>Shiogama</string>
+    <string>Shiojiri</string>
+    <string>Shirakawa</string>
+    <string>Shiroi</string>
+    <string>Shiroishi</string>
+    <string>Shiso</string>
+    <string>Shivamogga</string>
+    <string>Shizuoka</string>
+    <string>Shnan</string>
+    <string>Shnzhèn</string>
+    <string>Shobara</string>
+    <string>Shreveport</string>
+    <string>Shusha</string>
+    <string>Shwa</string>
+    <string>Sialkot</string>
+    <string>Sibata</string>
+    <string>Sibiti</string>
+    <string>Sibiu</string>
+    <string>Siedlce</string>
+    <string>Siegen</string>
+    <string>Siena</string>
+    <string>Sighioara</string>
+    <string>Siguatepeque</string>
+    <string>Sihanoukville</string>
+    <string>Siirt</string>
+    <string>Sikar</string>
+    <string>Sikasso</string>
+    <string>Silay</string>
+    <string>Silchar</string>
+    <string>Siliguri</string>
+    <string>Simi Valley</string>
+    <string>Simiw</string>
+    <string>Simões Filho</string>
+    <string>Sincelejo</string>
+    <string>Singapore</string>
+    <string>Siniju</string>
+    <string>Sinop</string>
+    <string>Sinop</string>
+    <string>Sioux City</string>
+    <string>Sioux Falls</string>
+    <string>Siracusa</string>
+    <string>Sivas</string>
+    <string>Ska</string>
+    <string>Skellefteå</string>
+    <string>Slatina</string>
+    <string>Slavonski Brod</string>
+    <string>Sligo</string>
+    <string>Slobozia</string>
+    <string>Smithtown</string>
+    <string>Sn La</string>
+    <string>Sobradinho</string>
+    <string>Sobral</string>
+    <string>Soddo</string>
+    <string>Sodegaura</string>
+    <string>Sogamoso</string>
+    <string>Sohar</string>
+    <string>Sokcho</string>
+    <string>Sokchosi</string>
+    <string>SokoloviiBucureti</string>
+    <string>Sokoto</string>
+    <string>Solapur</string>
+    <string>Soledad</string>
+    <string>Solingen</string>
+    <string>Solymar</string>
+    <string>Soma</string>
+    <string>Songea</string>
+    <string>Sonsonate</string>
+    <string>Soo</string>
+    <string>Sopot</string>
+    <string>Soria</string>
+    <string>Sorocaba</string>
+    <string>Soroti</string>
+    <string>Sorsogon City</string>
+    <string>Sosa</string>
+    <string>Sosnowiec</string>
+    <string>Souk Ahras</string>
+    <string>South Bend</string>
+    <string>South Gate</string>
+    <string>South Pasadena</string>
+    <string>Southampton</string>
+    <string>Southend-on-Sea</string>
+    <string>Soweto</string>
+    <string>SoyapangoRangpur</string>
+    <string>Spanish Town</string>
+    <string>Sparks</string>
+    <string>Spartanburg</string>
+    <string>Split</string>
+    <string>Spokane</string>
+    <string>Springfield</string>
+    <string>Springfield</string>
+    <string>Springfield</string>
+    <string>Squamish</string>
+    <string>Srinagar</string>
+    <string>St Albans</string>
+    <string>St. George</string>
+    <string>St. George's</string>
+    <string>St. John's</string>
+    <string>St. Petersburg</string>
+    <string>St. Pölten</string>
+    <string>Stalowa Wola</string>
+    <string>Stamford</string>
+    <string>stanbul</string>
+    <string>Stanley</string>
+    <string>Starke</string>
+    <string>Stavanger</string>
+    <string>Stepanakert</string>
+    <string>Sterling Heights</string>
+    <string>Stgo de las VegasMiahuatlán de Porfirio Díaz</string>
+    <string>Stirling</string>
+    <string>Stockholm</string>
+    <string>Stockton</string>
+    <string>Stoke-on-Trent</string>
+    <string>Strasbourg</string>
+    <string>Stratford</string>
+    <string>Stuttgart</string>
+    <string>Suceava</string>
+    <string>Sucre</string>
+    <string>Sudbury</string>
+    <string>Suffolk</string>
+    <string>Suginami</string>
+    <string>Suita</string>
+    <string>Sukabumi</string>
+    <string>Sukagawa</string>
+    <string>Sukkur</string>
+    <string>Sukumo</string>
+    <string>Sullana</string>
+    <string>Sumbawanga</string>
+    <string>Sumbe</string>
+    <string>Sumida</string>
+    <string>Sumoto</string>
+    <string>Sumqayıt</string>
+    <string>Sunagawa</string>
+    <string>Sunan</string>
+    <string>Sunch'on</string>
+    <string>Suncheonsi</string>
+    <string>Sunderland</string>
+    <string>SUNGGUMINASASteinbachLe Gardeur</string>
+    <string>Sunnyvale</string>
+    <string>Sunyani</string>
+    <string>Supsk</string>
+    <string>Surabaya</string>
+    <string>Surakarta</string>
+    <string>Surat</string>
+    <string>Surigao</string>
+    <string>Surrey</string>
+    <string>Suruga</string>
+    <string>Susaki</string>
+    <string>Sutton</string>
+    <string>Suwa</string>
+    <string>Suwaki</string>
+    <string>Suwon</string>
+    <string>Suzaka</string>
+    <string>Suzu</string>
+    <string>Swabi</string>
+    <string>Swansea</string>
+    <string>Swift Current</string>
+    <string>Swindon</string>
+    <string>Sydney</string>
+    <string>Sydney</string>
+    <string>Sylhet</string>
+    <string>Syracuse</string>
+    <string>Szczecin</string>
+    <string>Szeged</string>
+    <string>Székesfehérvár</string>
+    <string>Szolnok</string>
+    <string>Szombathely</string>
+    <string>Tabk Yuscaran</string>
+    <string>Tabora</string>
+    <string>Tacheng</string>
+    <string>Tachileik</string>
+    <string>Tacna</string>
+    <string>Tacoma</string>
+    <string>Taebaeksi</string>
+    <string>Tagajo</string>
+    <string>Tagaytay</string>
+    <string>Tagbilaran</string>
+    <string>Tagta</string>
+    <string>Taguatinga</string>
+    <string>Taguig</string>
+    <string>Tagum City</string>
+    <string>Tahara</string>
+    <string>Tahoua</string>
+    <string>Taibao</string>
+    <string>Taichung City</string>
+    <string>Tainai</string>
+    <string>Tainan City</string>
+    <string>Taipei City</string>
+    <string>Taipei</string>
+    <string>Taito</string>
+    <string>Taitung City</string>
+    <string>Takahama</string>
+    <string>Takaishi</string>
+    <string>Takaoka</string>
+    <string>Takarazuka</string>
+    <string>Takasago</string>
+    <string>Takasaki</string>
+    <string>Takashima</string>
+    <string>Takatsuki</string>
+    <string>Takayama</string>
+    <string>Takehara</string>
+    <string>Takeo</string>
+    <string>Takikawa</string>
+    <string>Talagante</string>
+    <string>Talanga</string>
+    <string>Talca</string>
+    <string>Talcahuano</string>
+    <string>Talisay</string>
+    <string>Tallahassee</string>
+    <string>Tallinn</string>
+    <string>Taloqan</string>
+    <string>Tam KBiên Hòa</string>
+    <string>Tama</string>
+    <string>Tamale</string>
+    <string>Tamana</string>
+    <string>Tamba</string>
+    <string>Tambacounda</string>
+    <string>Tampa</string>
+    <string>Tampere</string>
+    <string>Tampico</string>
+    <string>Tamura</string>
+    <string>Tamworth</string>
+    <string>Tân An</string>
+    <string>Tanabe</string>
+    <string>Tanauan</string>
+    <string>Tandil</string>
+    <string>Tando Adam</string>
+    <string>Tando Allahyar</string>
+    <string>Tanga</string>
+    <string>Tangshan</string>
+    <string>Tanjay</string>
+    <string>Tanjung Pinang</string>
+    <string>Taolanaro</string>
+    <string>Taoyuan City</string>
+    <string>Taranto</string>
+    <string>Tarapoto</string>
+    <string>Taree</string>
+    <string>Târgovite</string>
+    <string>Târgu Jiu</string>
+    <string>Târgu MureBonn</string>
+    <string>Tarija</string>
+    <string>Tarimoro</string>
+    <string>Tarkwa Breman</string>
+    <string>Tarlac</string>
+    <string>Tarnobrzeg</string>
+    <string>Tarnów</string>
+    <string>Taroudant Ilebo</string>
+    <string>Tarpum Bay</string>
+    <string>Tarragona</string>
+    <string>Tartu</string>
+    <string>Tarumizu</string>
+    <string>Tashkent</string>
+    <string>Tatabánya</string>
+    <string>Tatebayashi</string>
+    <string>Tatebayashi</string>
+    <string>Tateyama</string>
+    <string>Tatsuno</string>
+    <string>Tatuí</string>
+    <string>Taubaté</string>
+    <string>Taunggo</string>
+    <string>Taungoo</string>
+    <string>Taupo</string>
+    <string>Tauranga</string>
+    <string>Tawau</string>
+    <string>Tây Ninh</string>
+    <string>Tbilisi</string>
+    <string>Tebing Tinggi</string>
+    <string>Tecate</string>
+    <string>Tegal</string>
+    <string>Tegucigalpa</string>
+    <string>Tehuacán</string>
+    <string>TekirdaBalıkesir</string>
+    <string>Téma</string>
+    <string>Temara Aalborg</string>
+    <string>Temuco</string>
+    <string>Tendo</string>
+    <string>Tenkodogo</string>
+    <string>Tennant Creek</string>
+    <string>Tenpaku</string>
+    <string>Tentativa</string>
+    <string>Teófilo Otoni</string>
+    <string>Tepatitlán de Morelos</string>
+    <string>Tepic</string>
+    <string>Teramo</string>
+    <string>Teresina</string>
+    <string>Teresópolis</string>
+    <string>Termiz</string>
+    <string>Terni</string>
+    <string>Terrace</string>
+    <string>Terre Haute</string>
+    <string>Teruel</string>
+    <string>Tettawen </string>
+    <string>Texarkana</string>
+    <string>Th Du Mt</string>
+    <string>Thái Bình</string>
+    <string>Thái Nguyên</string>
+    <string>Thane</string>
+    <string>Thanh Hóa</string>
+    <string>Thành ph H Chí Minh</string>
+    <string>Thành ph HuSóc Trng</string>
+    <string>Thaton</string>
+    <string>Thatta</string>
+    <string>Thiès</string>
+    <string>Thiès</string>
+    <string>Thika</string>
+    <string>Thiruvananthapuram</string>
+    <string>Thompson</string>
+    <string>Thousand Oaks</string>
+    <string>Thrissur</string>
+    <string>Thunder Bay</string>
+    <string>Tianjin</string>
+    <string>Tiaret</string>
+    <string>Tienko</string>
+    <string>Tijuana</string>
+    <string>Tilburg</string>
+    <string>TimikaRepentignyL'Assomption</string>
+    <string>Timioara</string>
+    <string>Tinkwakrom</string>
+    <string>Tintinso</string>
+    <string>Tiputa</string>
+    <string>Tirana</string>
+    <string>Tiraspol</string>
+    <string>Tiruchchirappalli</string>
+    <string>Tirunelveli</string>
+    <string>Tirupati</string>
+    <string>Tiruppur</string>
+    <string>Titusville</string>
+    <string>Tizi Ouzou  Nyaung U</string>
+    <string>Tlaltenango de Sánchez Román</string>
+    <string>Tlaxcala de Xicohténcatl</string>
+    <string>Toamasina</string>
+    <string>Tobruk    Agadez</string>
+    <string>Tochigi</string>
+    <string>Tocoa</string>
+    <string>Toda</string>
+    <string>Togane</string>
+    <string>Tokai</string>
+    <string>Tokamachi</string>
+    <string>Tokat</string>
+    <string>Tokoname</string>
+    <string>Tokorozawa</string>
+    <string>Tokushima</string>
+    <string>Tokyo</string>
+    <string>Toledo</string>
+    <string>Toledo</string>
+    <string>Toliara</string>
+    <string>Tolleson</string>
+    <string>Toluca</string>
+    <string>Tom Price</string>
+    <string>Tomakomai</string>
+    <string>Tomé</string>
+    <string>Tomi</string>
+    <string>Tomigusuku</string>
+    <string>Tomioka</string>
+    <string>Tomisato</string>
+    <string>Toms River</string>
+    <string>Tonami</string>
+    <string>Tonawanda</string>
+    <string>Tondabayasi</string>
+    <string>Tongsa</string>
+    <string>Tongyeongsi</string>
+    <string>Tonk</string>
+    <string>Tono</string>
+    <string>Toowoomba</string>
+    <string>Topeka</string>
+    <string>Topolobampo</string>
+    <string>Torino</string>
+    <string>Toronto</string>
+    <string>Torrance</string>
+    <string>Torrejón de Ardoz</string>
+    <string>Torreón</string>
+    <string>Torrevieja</string>
+    <string>ToruSherbrooke</string>
+    <string>Tosa-Shimizu</string>
+    <string>Tosa</string>
+    <string>Toshima</string>
+    <string>Tosu</string>
+    <string>Tottori</string>
+    <string>Touba</string>
+    <string>toujours fana ...</string>
+    <string>Toulon</string>
+    <string>Toulouse</string>
+    <string>Touon</string>
+    <string>Tourcoing</string>
+    <string>Tours</string>
+    <string>Towada</string>
+    <string>Townsville</string>
+    <string>Toyama</string>
+    <string>Toyoake</string>
+    <string>Toyohashi</string>
+    <string>Toyokawa</string>
+    <string>Toyonaka</string>
+    <string>Toyooka</string>
+    <string>Toyota</string>
+    <string>Trà Vinh</string>
+    <string>Trabzon</string>
+    <string>Trani</string>
+    <string>TrapaniReggio di Calabria</string>
+    <string>Trelew</string>
+    <string>Trenín</string>
+    <string>Trento</string>
+    <string>Trenton</string>
+    <string>Treviso</string>
+    <string>Trier</string>
+    <string>Trieste</string>
+    <string>Trincomalee</string>
+    <string>Trindade</string>
+    <string>Tripoli Lubumbashi</string>
+    <string>Trnava</string>
+    <string>Trois-Rivières</string>
+    <string>Tromsø</string>
+    <string>Trondheim</string>
+    <string>Trujillo</string>
+    <string>Trujillo</string>
+    <string>Trujui</string>
+    <string>Truro</string>
+    <string>Tshela</string>
+    <string>Tshikapa</string>
+    <string>Tsu</string>
+    <string>Tsubame</string>
+    <string>Tsuchiura</string>
+    <string>Tsugaru</string>
+    <string>Tsukuba</string>
+    <string>Tsukumi</string>
+    <string>Tsuruga</string>
+    <string>Tsurugashima</string>
+    <string>Tsuruoka</string>
+    <string>Tsushima</string>
+    <string>Tsuyama</string>
+    <string>Tuatapere</string>
+    <string>Tucson</string>
+    <string>Tucupita</string>
+    <string>Tuguegarao</string>
+    <string>Tulcea</string>
+    <string>Tunceli</string>
+    <string>Tunja</string>
+    <string>Türkmenabat</string>
+    <string>Türkmenbay</string>
+    <string>Turku</string>
+    <string>Tuscaloosa</string>
+    <string>Tuticorin</string>
+    <string>Tuxtla Gutiérrez</string>
+    <string>Tuy Hòa</string>
+    <string>Tuyên Quang</string>
+    <string>Tuzla</string>
+    <string>Tychy</string>
+    <string>Tyr - Sambalpur</string>
+    <string>Uak</string>
+    <string>Ube</string>
+    <string>Uberaba</string>
+    <string>Uberlândia</string>
+    <string>Udaipur</string>
+    <string>Udine</string>
+    <string>Udupi</string>
+    <string>Ueda</string>
+    <string>Uíge</string>
+    <string>Uijeongbusi</string>
+    <string>Uji</string>
+    <string>Ujjain</string>
+    <string>Uki</string>
+    <string>Ulm</string>
+    <string>Ulsan</string>
+    <string>Ulsan</string>
+    <string>Umeå</string>
+    <string>Un-nan</string>
+    <string>Uodu</string>
+    <string>Uonuma</string>
+    <string>Upington</string>
+    <string>Upper Hutt</string>
+    <string>Urasoe</string>
+    <string>Urayasu</string>
+    <string>Urbino</string>
+    <string>Urdaneta</string>
+    <string>Uriangato</string>
+    <string>Uruguaiana</string>
+    <string>Uruma</string>
+    <string>Urziceni</string>
+    <string>Ushuaia</string>
+    <string>Ústí nad Labem</string>
+    <string>Usuki</string>
+    <string>Usulután</string>
+    <string>Utashinai</string>
+    <string>Utech back gate</string>
+    <string>Utech Front Gate</string>
+    <string>Uto</string>
+    <string>Utrecht</string>
+    <string>Utsunomiya</string>
+    <string>Uvira</string>
+    <string>Uwajima</string>
+    <string>Uyo</string>
+    <string>V Thanh</string>
+    <string>Vaasa</string>
+    <string>Vadodara</string>
+    <string>Vaitahu</string>
+    <string>Valdivia</string>
+    <string>Valencia</string>
+    <string>Valenzuela</string>
+    <string>ValeraKanpur</string>
+    <string>Valladolid</string>
+    <string>Valle de la Pascua</string>
+    <string>Valledupar</string>
+    <string>Vallejo</string>
+    <string>Vallenar</string>
+    <string>Valletta</string>
+    <string>Valmiera</string>
+    <string>Valongo</string>
+    <string>Valparaíso de Goiás</string>
+    <string>Valparaíso</string>
+    <string>Van</string>
+    <string>Vanadzor</string>
+    <string>Vancouver</string>
+    <string>Vancouver</string>
+    <string>Vantaa</string>
+    <string>Varadin</string>
+    <string>Varese</string>
+    <string>Várzea Grande</string>
+    <string>Vaslui</string>
+    <string>Västerås</string>
+    <string>Vaughan</string>
+    <string>Vavuniya</string>
+    <string>Växjö</string>
+    <string>Vejle</string>
+    <string>Vellore</string>
+    <string>Venezia</string>
+    <string>Venezia</string>
+    <string>Venice</string>
+    <string>Venlo</string>
+    <string>Ventspils</string>
+    <string>Ventura</string>
+    <string>Veracruz</string>
+    <string>Veraval</string>
+    <string>Vercelli</string>
+    <string>Vereeniging</string>
+    <string>Vero Beach</string>
+    <string>Verona</string>
+    <string>Veszprém</string>
+    <string>Viamão</string>
+    <string>Vibo Valentia</string>
+    <string>Vicenza</string>
+    <string>Victoria</string>
+    <string>Victoria</string>
+    <string>Victoriaville</string>
+    <string>Vidisha</string>
+    <string>Viedma</string>
+    <string>Vigan</string>
+    <string>Vigo</string>
+    <string>Vihari</string>
+    <string>Vijayawada</string>
+    <string>Vila Velha</string>
+    <string>Villa Alemana</string>
+    <string>Villa Canales</string>
+    <string>Villa de Cura</string>
+    <string>Villa Hayes</string>
+    <string>Villahermosa</string>
+    <string>Villarrica</string>
+    <string>Villavicencio</string>
+    <string>Vilnius</string>
+    <string>Viña del Mar</string>
+    <string>Vineland</string>
+    <string>Vinh</string>
+    <string>Virginia Beach</string>
+    <string>Visakhapatnam</string>
+    <string>Visalia</string>
+    <string>Vit Trì</string>
+    <string>Viterbo</string>
+    <string>Vitória da Conquista</string>
+    <string>Vitória de Santo Antão</string>
+    <string>Vitoria-Gasteiz</string>
+    <string>Vitória</string>
+    <string>Vizianagaram</string>
+    <string>Vlora</string>
+    <string>Vng Tàu</string>
+    <string>Vnh Yên</string>
+    <string>Volta Redonda</string>
+    <string>Wa</string>
+    <string>Wabrzych</string>
+    <string>Waco</string>
+    <string>Wadi Halfa</string>
+    <string>Wagga Wagga</string>
+    <string>Wah</string>
+    <string>Waimate</string>
+    <string>Wajima</string>
+    <string>Wakefield</string>
+    <string>Wakkanai</string>
+    <string>Wako</string>
+    <string>Wangdi Phodrang</string>
+    <string>Wanlaweyn/Daafeed</string>
+    <string>Warabi</string>
+    <string>Warangal</string>
+    <string>Wariyapola</string>
+    <string>Warri</string>
+    <string>Warrnambool</string>
+    <string>Warsaw</string>
+    <string>Warwick</string>
+    <string>Washington</string>
+    <string>Wassa Atobiase</string>
+    <string>Wassa Bekwae</string>
+    <string>Waterbury</string>
+    <string>Waterford</string>
+    <string>Waterloo</string>
+    <string>Waterloo</string>
+    <string>Watsonville</string>
+    <string>Wau Adama</string>
+    <string>Wayland</string>
+    <string>Wazirabad</string>
+    <string>Weaverstania</string>
+    <string>Wéifang</string>
+    <string>Welkom</string>
+    <string>Wellington</string>
+    <string>Wells</string>
+    <string>Weslaco</string>
+    <string>West Covina</string>
+    <string>West Palm Beach</string>
+    <string>West Valley City</string>
+    <string>West Vancouver</string>
+    <string>Westminster</string>
+    <string>Weyburn</string>
+    <string>Whanganui</string>
+    <string>Whangarei</string>
+    <string>Wheaton</string>
+    <string>Wheeling</string>
+    <string>White Hall</string>
+    <string>White Rock</string>
+    <string>Whyalla</string>
+    <string>Wichita</string>
+    <string>WieluHokuto</string>
+    <string>Wien</string>
+    <string>Wiesbaden</string>
+    <string>Wihi</string>
+    <string>Wilkes-Barre</string>
+    <string>Williamsburg</string>
+    <string>Wilmington</string>
+    <string>Wilmington</string>
+    <string>Winchester</string>
+    <string>Winchester</string>
+    <string>Windhoek</string>
+    <string>Windsor</string>
+    <string>Winkler</string>
+    <string>Winnipeg</string>
+    <string>winoujcie</string>
+    <string>Winston-Salem</string>
+    <string>Winter Haven</string>
+    <string>Winterthur</string>
+    <string>Winton</string>
+    <string>Witten</string>
+    <string>Wnsan</string>
+    <string>Wocawek</string>
+    <string>Wollongong</string>
+    <string>Wolverhampton</string>
+    <string>Wonjusi</string>
+    <string>Woodstock</string>
+    <string>Worcester</string>
+    <string>Worcester</string>
+    <string>Wrocaw</string>
+    <string>Wuhan</string>
+    <string>Wuppertal</string>
+    <string>Würzburg</string>
+    <string>Wusu</string>
+    <string>Xai-Xai</string>
+    <string>Xalapa</string>
+    <string>Xanaqin</string>
+    <string>Xinbei City</string>
+    <string>Xudur</string>
+    <string>Xuzhou Foshan</string>
+    <string>Yabu</string>
+    <string>Yachimata</string>
+    <string>Yachiyo</string>
+    <string>Yaita</string>
+    <string>Yaizu</string>
+    <string>Yakima</string>
+    <string>Yakoma</string>
+    <string>Yalova</string>
+    <string>Yamaga</string>
+    <string>Yamagata</string>
+    <string>Yamaguchi</string>
+    <string>Yamasá</string>
+    <string>Yamato</string>
+    <string>Yamoussoukro</string>
+    <string>Yamunanagar</string>
+    <string>Yangjusi</string>
+    <string>Yangmei City</string>
+    <string>Yao</string>
+    <string>Yaofiankukrom</string>
+    <string>Yaokrom</string>
+    <string>Yaoundé</string>
+    <string>Yapacaní</string>
+    <string>Yashio</string>
+    <string>Yasu</string>
+    <string>Yasugi</string>
+    <string>Yatomi</string>
+    <string>Yatsushiro</string>
+    <string>Yaviza</string>
+    <string>Yawata</string>
+    <string>Yawatahama</string>
+    <string>Yeghegnadzor</string>
+    <string>Yeji</string>
+    <string>Yellowknife</string>
+    <string>Yên Bái</string>
+    <string>Yenagoa</string>
+    <string>Yenangyaung</string>
+    <string>Yeongcheonsi</string>
+    <string>Yeongjusi</string>
+    <string>Yeosu</string>
+    <string>Yerevan</string>
+    <string>Yilan City</string>
+    <string>Yining Shi</string>
+    <string>Yining</string>
+    <string>Yntái</string>
+    <string>Yogyakarta</string>
+    <string>Yokkaichi</string>
+    <string>Yokohama</string>
+    <string>Yokosuka</string>
+    <string>Yokote</string>
+    <string>Yola</string>
+    <string>Yonago</string>
+    <string>YonezawaSukoharjo</string>
+    <string>Yonginsi</string>
+    <string>Yonkers</string>
+    <string>Yopal</string>
+    <string>York</string>
+    <string>York</string>
+    <string>Yorkton</string>
+    <string>Yoro</string>
+    <string>Yoshikawa</string>
+    <string>Yoshinogawa</string>
+    <string>Yotsukaido</string>
+    <string>Yozawa</string>
+    <string>Yozgat</string>
+    <string>Yubari</string>
+    <string>Yurihonjo</string>
+    <string>Yuxi</string>
+    <string>Yuzawa</string>
+    <string>Zabrze</string>
+    <string>Zacatecas</string>
+    <string>Zadar</string>
+    <string>Zagreb</string>
+    <string>Zakopane</string>
+    <string>Zalu</string>
+    <string>Zama</string>
+    <string>Zamboanga City</string>
+    <string>Zamora</string>
+    <string>ZamoRibeira Grande</string>
+    <string>Zanzibar City</string>
+    <string>Zaragoza</string>
+    <string>Zaragoza</string>
+    <string>Zaria</string>
+    <string>Zawiercie</string>
+    <string>Zhuhai</string>
+    <string>Zielona Góra</string>
+    <string>Ziguinchor</string>
+    <string>Zinder</string>
+    <string>Zlitan Valencia</string>
+    <string>zmir</string>
+    <string>zmit</string>
+    <string>Zoetermeer</string>
+    <string>Zomba</string>
+    <string>Zonguldak</string>
+    <string>Zürich</string>
+    <string>Zushi</string>
+    <string>Zweibrücken</string>
+    <string>Zwolle</string>
+</array>
+</plist>
