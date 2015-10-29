@@ -58,7 +58,6 @@
 		7C22FA121BE038AB0014C7F8 /* OpenWeather */ = {
 			isa = PBXGroup;
 			children = (
-				7C22FA2B1BE045210014C7F8 /* Model */,
 				7C22FA261BE040990014C7F8 /* Service */,
 				7C22FA131BE038AB0014C7F8 /* AppDelegate.swift */,
 				7C22FA251BE038BA0014C7F8 /* Controllers */,
@@ -85,13 +84,6 @@
 				7C22FA271BE040F60014C7F8 /* WeatherService.swift */,
 			);
 			name = Service;
-			sourceTree = "<group>";
-		};
-		7C22FA2B1BE045210014C7F8 /* Model */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			name = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

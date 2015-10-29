@@ -32,6 +32,7 @@ class WeatherService {
                     // no se logro convertir en JSON la data que le pase
                     dispatch_async(dispatch_get_main_queue()) {
                         callback(0)
+                        print(error)
                     }
                 }
                 
