@@ -41,6 +41,9 @@ class ViewController: UIViewController, UIPickerViewDelegate, UIPickerViewDataSo
         super.didReceiveMemoryWarning()
     }
     
+    /*
+    *   PickerView
+    */
     func numberOfComponentsInPickerView(pickerView: UIPickerView) -> Int {
         return 1
     }
@@ -57,6 +60,9 @@ class ViewController: UIViewController, UIPickerViewDelegate, UIPickerViewDataSo
         ciudadSeleccionadaValue = ciudades[row]
     }
     
+    /*
+    *   Actions
+    */
     @IBAction func seleccionarCiudad() {
         if let mCiudad = ciudadSeleccionadaValue {
             let pref = NSUserDefaults.standardUserDefaults()
@@ -66,15 +72,25 @@ class ViewController: UIViewController, UIPickerViewDelegate, UIPickerViewDataSo
             getTempForCity(mCiudad)
             
         }
+    } 
+    
+    @IBAction func unitsChange(sender: AnyObject) {
+        let pref = NSUserDefaults.standardUserDefaults()
+        if let mCiudad = pref.valueForKey("nombreCiudad") as? String {
+            getTempForCity(mCiudad)
+        }
     }
     
-    func convertUnits(tempKelvin: Double) -> Double {
+    /*
+    *   Helpers
+    */
+    func convertUnits(tempKelvin: Double) -> String {
         if (unidadSeleccionada.selectedSegmentIndex == 0) {
             let resultadoC = tempKelvin - 273.15
-            return resultadoC
+            return "\(resultadoC) C"
         } else {
             let resultadoF = 1.8 * tempKelvin - 273.15 + 32
-            return resultadoF
+            return "\(resultadoF) F"
         }
     }
     
