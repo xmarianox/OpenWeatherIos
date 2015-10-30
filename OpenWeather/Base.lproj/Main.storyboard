@@ -115,41 +115,6 @@
                                     <constraint firstItem="jOB-vf-5OB" firstAttribute="width" secondItem="DSN-yx-iNK" secondAttribute="width" id="mU4-E3-DuO"/>
                                 </constraints>
                             </view>
-                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="SMA-sE-2Di" userLabel="PanelAddCity">
-                                <rect key="frame" x="0.0" y="351" width="600" height="249"/>
-                                <subviews>
-                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Ljn-mt-LDJ">
-                                        <rect key="frame" x="0.0" y="0.0" width="600" height="39"/>
-                                        <animations/>
-                                        <color key="backgroundColor" red="0.2627450980392157" green="0.83529411764705885" blue="0.31764705882352939" alpha="1" colorSpace="calibratedRGB"/>
-                                        <fontDescription key="fontDescription" type="system" pointSize="22"/>
-                                        <color key="tintColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
-                                        <state key="normal" title="Seleccionar Ciudad"/>
-                                        <connections>
-                                            <action selector="seleccionarCiudad" destination="BYZ-38-t0r" eventType="touchUpInside" id="nMg-iF-cEa"/>
-                                        </connections>
-                                    </button>
-                                    <pickerView contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Vb3-Qx-fgl">
-                                        <rect key="frame" x="0.0" y="39" width="600" height="216"/>
-                                        <animations/>
-                                        <connections>
-                                            <outlet property="dataSource" destination="BYZ-38-t0r" id="VpX-X2-R4j"/>
-                                            <outlet property="delegate" destination="BYZ-38-t0r" id="sAL-KY-ae2"/>
-                                        </connections>
-                                    </pickerView>
-                                </subviews>
-                                <animations/>
-                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
-                                <constraints>
-                                    <constraint firstAttribute="trailing" secondItem="Ljn-mt-LDJ" secondAttribute="trailing" id="62P-dg-Tss"/>
-                                    <constraint firstAttribute="bottom" secondItem="Vb3-Qx-fgl" secondAttribute="bottom" constant="-6" id="7cN-ql-Tgk"/>
-                                    <constraint firstItem="Vb3-Qx-fgl" firstAttribute="leading" secondItem="SMA-sE-2Di" secondAttribute="leading" id="7uT-aK-Jon"/>
-                                    <constraint firstAttribute="trailing" secondItem="Vb3-Qx-fgl" secondAttribute="trailing" id="82s-Ph-ORU"/>
-                                    <constraint firstItem="Ljn-mt-LDJ" firstAttribute="top" secondItem="SMA-sE-2Di" secondAttribute="top" id="8Ar-JV-Vxk"/>
-                                    <constraint firstItem="Vb3-Qx-fgl" firstAttribute="top" secondItem="Ljn-mt-LDJ" secondAttribute="bottom" id="Zty-4f-p1w"/>
-                                    <constraint firstItem="Ljn-mt-LDJ" firstAttribute="leading" secondItem="SMA-sE-2Di" secondAttribute="leading" id="q7T-zk-Vgi"/>
-                                </constraints>
-                            </view>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="EQw-iD-v7j" userLabel="BottomView">
                                 <rect key="frame" x="0.0" y="419" width="600" height="181"/>
                                 <subviews>
@@ -182,6 +147,9 @@
                                                 <integer key="value" value="30"/>
                                             </userDefinedRuntimeAttribute>
                                         </userDefinedRuntimeAttributes>
+                                        <connections>
+                                            <action selector="togglePanel" destination="BYZ-38-t0r" eventType="touchUpInside" id="G3z-Iu-6Td"/>
+                                        </connections>
                                     </button>
                                 </subviews>
                                 <animations/>
@@ -194,13 +162,50 @@
                                     <constraint firstItem="h0b-Xl-JoC" firstAttribute="top" secondItem="EQw-iD-v7j" secondAttribute="top" constant="77" id="z9r-0M-XNV"/>
                                 </constraints>
                             </view>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="SMA-sE-2Di" userLabel="PanelAddCity">
+                                <rect key="frame" x="0.0" y="601" width="600" height="249"/>
+                                <subviews>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Ljn-mt-LDJ">
+                                        <rect key="frame" x="0.0" y="0.0" width="600" height="39"/>
+                                        <animations/>
+                                        <color key="backgroundColor" red="0.52156862749999999" green="0.63921568630000003" blue="0.5450980392" alpha="1" colorSpace="calibratedRGB"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="22"/>
+                                        <color key="tintColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                        <state key="normal" title="Seleccionar Ciudad">
+                                            <color key="titleColor" red="0.8980392157" green="0.85882352939999995" blue="0.78823529410000004" alpha="1" colorSpace="calibratedRGB"/>
+                                        </state>
+                                        <connections>
+                                            <action selector="seleccionarCiudad" destination="BYZ-38-t0r" eventType="touchUpInside" id="nMg-iF-cEa"/>
+                                        </connections>
+                                    </button>
+                                    <pickerView contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Vb3-Qx-fgl">
+                                        <rect key="frame" x="0.0" y="39" width="600" height="216"/>
+                                        <animations/>
+                                        <connections>
+                                            <outlet property="dataSource" destination="BYZ-38-t0r" id="VpX-X2-R4j"/>
+                                            <outlet property="delegate" destination="BYZ-38-t0r" id="sAL-KY-ae2"/>
+                                        </connections>
+                                    </pickerView>
+                                </subviews>
+                                <animations/>
+                                <color key="backgroundColor" red="0.87843137250000003" green="0.71764705880000002" blue="0.50196078430000002" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="tintColor" red="0.8980392157" green="0.85882352939999995" blue="0.78823529410000004" alpha="1" colorSpace="calibratedRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="trailing" secondItem="Ljn-mt-LDJ" secondAttribute="trailing" id="62P-dg-Tss"/>
+                                    <constraint firstAttribute="bottom" secondItem="Vb3-Qx-fgl" secondAttribute="bottom" constant="-6" id="7cN-ql-Tgk"/>
+                                    <constraint firstItem="Vb3-Qx-fgl" firstAttribute="leading" secondItem="SMA-sE-2Di" secondAttribute="leading" id="7uT-aK-Jon"/>
+                                    <constraint firstAttribute="trailing" secondItem="Vb3-Qx-fgl" secondAttribute="trailing" id="82s-Ph-ORU"/>
+                                    <constraint firstItem="Ljn-mt-LDJ" firstAttribute="top" secondItem="SMA-sE-2Di" secondAttribute="top" id="8Ar-JV-Vxk"/>
+                                    <constraint firstItem="Vb3-Qx-fgl" firstAttribute="top" secondItem="Ljn-mt-LDJ" secondAttribute="bottom" id="Zty-4f-p1w"/>
+                                    <constraint firstItem="Ljn-mt-LDJ" firstAttribute="leading" secondItem="SMA-sE-2Di" secondAttribute="leading" id="q7T-zk-Vgi"/>
+                                </constraints>
+                            </view>
                         </subviews>
                         <animations/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                         <constraints>
-                            <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="SMA-sE-2Di" secondAttribute="bottom" id="1W0-wa-ZbC"/>
+                            <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="SMA-sE-2Di" secondAttribute="bottom" constant="-250" id="1W0-wa-ZbC"/>
                             <constraint firstItem="50d-8a-TqB" firstAttribute="top" secondItem="fgo-mS-G7h" secondAttribute="bottom" constant="-1" id="6MI-JO-CcG"/>
-                            <constraint firstAttribute="trailingMargin" secondItem="fgo-mS-G7h" secondAttribute="trailing" constant="0.5" id="7RR-y0-oqq"/>
                             <constraint firstItem="0Oc-tA-O9b" firstAttribute="height" secondItem="50d-8a-TqB" secondAttribute="height" id="9FN-P5-E6J"/>
                             <constraint firstItem="50d-8a-TqB" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" constant="-20" id="B5t-3g-j9u"/>
                             <constraint firstItem="0Oc-tA-O9b" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="ID2-F7-wCA"/>
@@ -219,16 +224,9 @@
                             <constraint firstItem="fgo-mS-G7h" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" constant="-20" id="rYD-Eb-r4W"/>
                             <constraint firstItem="SMA-sE-2Di" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" constant="-20" id="x6Z-a0-YaO"/>
                         </constraints>
-                        <variation key="default">
-                            <mask key="subviews">
-                                <exclude reference="SMA-sE-2Di"/>
-                            </mask>
-                            <mask key="constraints">
-                                <exclude reference="7RR-y0-oqq"/>
-                            </mask>
-                        </variation>
                     </view>
                     <connections>
+                        <outlet property="bottomPanel" destination="1W0-wa-ZbC" id="W4B-Av-5LR"/>
                         <outlet property="ciudadSeleccionada" destination="fgo-mS-G7h" id="FIH-88-EZd"/>
                         <outlet property="temperaturaActual" destination="50d-8a-TqB" id="Usp-i3-vFz"/>
                         <outlet property="unidadSeleccionada" destination="h0b-Xl-JoC" id="xja-S9-JCA"/>

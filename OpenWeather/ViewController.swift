@@ -15,6 +15,10 @@ class ViewController: UIViewController, UIPickerViewDelegate, UIPickerViewDataSo
     @IBOutlet weak var temperaturaActual: UILabel!
     @IBOutlet weak var unidadSeleccionada: UISegmentedControl!
     
+    // constraints
+    @IBOutlet weak var bottomPanel: NSLayoutConstraint!
+    var isVisible = false;
+    
     // coleccion de cuidades
     var ciudades = [String]()
     var ciudadSeleccionadaValue: String!
@@ -79,6 +83,10 @@ class ViewController: UIViewController, UIPickerViewDelegate, UIPickerViewDataSo
         if let mCiudad = pref.valueForKey("nombreCiudad") as? String {
             getTempForCity(mCiudad)
         }
+    }
+    
+    @IBAction func togglePanel() {
+        
     }
     
     /*
