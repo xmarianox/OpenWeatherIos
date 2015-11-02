@@ -123,13 +123,10 @@ class ViewController: UIViewController, UIPickerViewDelegate, UIPickerViewDataSo
             
             // city name
             self.ciudadSeleccionada.text = "\(cityObj.name)"
-            
             // city temp
             self.temperaturaActual.text = "\(self.convertUnits(cityObj.temp))"
-            
             // minTemp
             self.tempMinView.text = "\(self.convertUnits(cityObj.temp_min))"
-            
             // maxTemp
             self.tempMaxView.text = "\(self.convertUnits(cityObj.temp_max))"
             
