@@ -104,10 +104,10 @@ class ViewController: UIViewController, UIPickerViewDelegate, UIPickerViewDataSo
     func convertUnits(tempKelvin: Double) -> String {
         if (unidadSeleccionada.selectedSegmentIndex == 0) {
             let resultadoC: Int = Int(round(tempKelvin - 273.15))
-            return "\(resultadoC) C"
+            return "\(resultadoC)° C"
         } else {
             let resultadoF: Int = Int(round(1.8 * tempKelvin - 273.15 + 32))
-            return "\(resultadoF) F"
+            return "\(resultadoF)° F"
         }
     }
     

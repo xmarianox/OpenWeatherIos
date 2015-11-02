@@ -22,6 +22,20 @@ class WeatherService {
                 do {
                     let jsonDictionary = try NSJSONSerialization.JSONObjectWithData(data, options: NSJSONReadingOptions.AllowFragments) as! NSDictionary
                     
+                    print("JSON DATA: \(jsonDictionary["main"])")
+                    
+                    /*
+                    JSON DATA: Optional({
+                        "grnd_level" = "1031.37";
+                        humidity = 100;
+                        pressure = "1031.37";
+                        "sea_level" = "1031.44";
+                        temp = "290.776";
+                        "temp_max" = "290.776";
+                        "temp_min" = "290.776";
+                    })
+                    */
+                    
                     let temperatura = jsonDictionary["main"]!["temp"] as! Double
                     
                     dispatch_async(dispatch_get_main_queue()) {
