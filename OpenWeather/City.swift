@@ -9,15 +9,19 @@
 import Foundation
 
 class City {
-    var name: String
-    var temp: Double
-    var temp_min: Double
-    var temp_max: Double
+    let name: String
+    let lat: Double
+    let lon: Double
+    let temp: Double
+    let temp_min: Double
+    let temp_max: Double
     
     
-    init(cityName: String, cityTemp: Double, cityMinTemp: Double, cityMaxTemp: Double) {
-        self.name = cityName
-        self.temp = cityTemp
+    init(cityName: String, cityLat: Double, cityLon: Double, cityTemp: Double, cityMinTemp: Double, cityMaxTemp: Double) {
+        self.name     = cityName
+        self.lat      = cityLat
+        self.lon      = cityLon
+        self.temp     = cityTemp
         self.temp_min = cityMinTemp
         self.temp_max = cityMaxTemp
     }

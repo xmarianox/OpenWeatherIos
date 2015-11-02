@@ -15,6 +15,8 @@ class ViewController: UIViewController, UIPickerViewDelegate, UIPickerViewDataSo
     @IBOutlet weak var temperaturaActual: UILabel!
     @IBOutlet weak var unidadSeleccionada: UISegmentedControl!
     @IBOutlet weak var panelAddCity: UIView!
+    @IBOutlet weak var tempMinView: UILabel!
+    @IBOutlet weak var tempMaxView: UILabel!
     
     // constraints
     @IBOutlet weak var bottomPanel: NSLayoutConstraint!
@@ -104,22 +106,33 @@ class ViewController: UIViewController, UIPickerViewDelegate, UIPickerViewDataSo
     func convertUnits(tempKelvin: Double) -> String {
         if (unidadSeleccionada.selectedSegmentIndex == 0) {
             let resultadoC: Int = Int(round(tempKelvin - 273.15))
-            return "\(resultadoC)° C"
+            return "\(resultadoC)°"
         } else {
             let resultadoF: Int = Int(round(1.8 * tempKelvin - 273.15 + 32))
-            return "\(resultadoF)° F"
+            return "\(resultadoF)°"
         }
     }
     
     
-    func getTempForCity(city: String) {
-        
-        self.ciudadSeleccionada.text = "\(city)"
+    func getTempForCity(myCity: String) {
         
         let mService = WeatherService()
-        mService.getCityWeather(generarURLValida(city), callback: { temperatura in
-            let mTemp = self.convertUnits(temperatura)
-            self.temperaturaActual.text = "\(mTemp)"
+        mService.getCityWeather(generarURLValida(myCity), callback: { City in
+            
+            let cityObj = City
+            
+            // city name
+            self.ciudadSeleccionada.text = "\(cityObj.name)"
+            
+            // city temp
+            self.temperaturaActual.text = "\(self.convertUnits(cityObj.temp))"
+            
+            // minTemp
+            self.tempMinView.text = "\(self.convertUnits(cityObj.temp_min))"
+            
+            // maxTemp
+            self.tempMaxView.text = "\(self.convertUnits(cityObj.temp_max))"
+            
         })
     }
     

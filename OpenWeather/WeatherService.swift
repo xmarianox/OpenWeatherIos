@@ -10,7 +10,7 @@ import Foundation
 
 class WeatherService {
     
-    func getCityWeather(cityName: String, callback: Double -> ()) {
+    func getCityWeather(cityName: String, callback: City -> ()) {
         
         let apiEndPoint: String = "http://api.openweathermap.org/data/2.5/weather?q=\(cityName)&appid=0ddb8e025e338dc2d891dac7f43356e0"
         let endPointUrl = NSURL(string: apiEndPoint)
@@ -22,30 +22,25 @@ class WeatherService {
                 do {
                     let jsonDictionary = try NSJSONSerialization.JSONObjectWithData(data, options: NSJSONReadingOptions.AllowFragments) as! NSDictionary
                     
-                    print("JSON DATA: \(jsonDictionary["main"])")
+                    let nombreCiudad   = jsonDictionary["name"] as! String
+                    let latitud        = jsonDictionary["coord"]!["lat"] as! Double
+                    let longitud       = jsonDictionary["coord"]!["lon"] as! Double
+                    let temperatura    = jsonDictionary["main"]!["temp"] as! Double
+                    let temperaturaMin = jsonDictionary["main"]!["temp_min"] as! Double
+                    let temperaturaMax = jsonDictionary["main"]!["temp_max"] as! Double
                     
-                    /*
-                    JSON DATA: Optional({
-                        "grnd_level" = "1031.37";
-                        humidity = 100;
-                        pressure = "1031.37";
-                        "sea_level" = "1031.44";
-                        temp = "290.776";
-                        "temp_max" = "290.776";
-                        "temp_min" = "290.776";
-                    })
-                    */
+                    let cityObj = City(cityName: nombreCiudad, cityLat: latitud, cityLon: longitud, cityTemp: temperatura, cityMinTemp: temperaturaMin, cityMaxTemp: temperaturaMax)
                     
-                    let temperatura = jsonDictionary["main"]!["temp"] as! Double
+                    print("Nueva Ciudad: \(cityObj.name) temp: \(cityObj.temp) temp_min: \(cityObj.temp_min) temp_max: \(cityObj.temp_max)")
                     
                     dispatch_async(dispatch_get_main_queue()) {
-                        callback(temperatura)
+                        callback(cityObj)
                     }
                     
                 } catch let error {
                     // no se logro convertir en JSON la data que le pase
                     dispatch_async(dispatch_get_main_queue()) {
-                        callback(0)
+                        //callback(0)
                         print(error)
                     }
                 }
@@ -53,7 +48,8 @@ class WeatherService {
             } else {
                 // No se pudo descargar la data
                 dispatch_async(dispatch_get_main_queue()) {
-                    callback(0)
+                    //callback(0)
+                    print("No se pudo descargar la data!!!")
                 }
             }
         }

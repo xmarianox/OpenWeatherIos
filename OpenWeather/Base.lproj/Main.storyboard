@@ -47,7 +47,7 @@
                                         <rect key="frame" x="0.0" y="0.0" width="300" height="131"/>
                                         <subviews>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Min" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="VLk-HO-JgY">
-                                                <rect key="frame" x="8" y="8" width="284" height="30"/>
+                                                <rect key="frame" x="8" y="9" width="284" height="30"/>
                                                 <animations/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <color key="textColor" red="0.8980392157" green="0.85882352939999995" blue="0.78823529410000004" alpha="1" colorSpace="calibratedRGB"/>
@@ -66,17 +66,23 @@
                                             <constraint firstAttribute="trailing" secondItem="VLk-HO-JgY" secondAttribute="trailing" constant="8" id="5mr-Na-qMh"/>
                                             <constraint firstItem="fxd-RZ-gx4" firstAttribute="leading" secondItem="jOB-vf-5OB" secondAttribute="leading" constant="8" id="JGn-CN-MC8"/>
                                             <constraint firstItem="fxd-RZ-gx4" firstAttribute="centerX" secondItem="jOB-vf-5OB" secondAttribute="centerX" id="KAB-jy-fLM"/>
+                                            <constraint firstItem="fxd-RZ-gx4" firstAttribute="top" secondItem="VLk-HO-JgY" secondAttribute="bottom" constant="8" id="NMe-cW-mcl"/>
                                             <constraint firstItem="VLk-HO-JgY" firstAttribute="leading" secondItem="jOB-vf-5OB" secondAttribute="leading" constant="8" id="OQt-Hp-G6W"/>
                                             <constraint firstAttribute="trailing" secondItem="fxd-RZ-gx4" secondAttribute="trailing" constant="8" id="Ttd-Yc-SI0"/>
                                             <constraint firstItem="fxd-RZ-gx4" firstAttribute="centerY" secondItem="jOB-vf-5OB" secondAttribute="centerY" id="hlM-Zw-67L"/>
                                             <constraint firstItem="VLk-HO-JgY" firstAttribute="top" secondItem="jOB-vf-5OB" secondAttribute="top" constant="8" id="jfY-oq-4Zr"/>
                                         </constraints>
+                                        <variation key="default">
+                                            <mask key="constraints">
+                                                <exclude reference="jfY-oq-4Zr"/>
+                                            </mask>
+                                        </variation>
                                     </view>
                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="DSN-yx-iNK">
                                         <rect key="frame" x="300" y="0.0" width="300" height="131"/>
                                         <subviews>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Max" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="6Qa-Oh-v7E">
-                                                <rect key="frame" x="8" y="8" width="284" height="30"/>
+                                                <rect key="frame" x="8" y="9" width="284" height="30"/>
                                                 <animations/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                 <color key="textColor" red="0.8980392157" green="0.85882352939999995" blue="0.78823529410000004" alpha="1" colorSpace="calibratedRGB"/>
@@ -96,10 +102,16 @@
                                             <constraint firstAttribute="trailing" secondItem="40h-lw-JNg" secondAttribute="trailing" constant="8" id="2vm-Up-IaV"/>
                                             <constraint firstItem="40h-lw-JNg" firstAttribute="leading" secondItem="DSN-yx-iNK" secondAttribute="leading" constant="8" id="87q-FL-Ep7"/>
                                             <constraint firstItem="40h-lw-JNg" firstAttribute="centerY" secondItem="DSN-yx-iNK" secondAttribute="centerY" id="Vmz-ro-PWP"/>
+                                            <constraint firstItem="40h-lw-JNg" firstAttribute="top" secondItem="6Qa-Oh-v7E" secondAttribute="bottom" constant="8" id="ZE9-lF-PZv"/>
                                             <constraint firstItem="40h-lw-JNg" firstAttribute="centerX" secondItem="DSN-yx-iNK" secondAttribute="centerX" id="fBC-67-Mvz"/>
                                             <constraint firstItem="6Qa-Oh-v7E" firstAttribute="leading" secondItem="DSN-yx-iNK" secondAttribute="leading" constant="8" id="j8l-sd-W1B"/>
                                             <constraint firstAttribute="trailing" secondItem="6Qa-Oh-v7E" secondAttribute="trailing" constant="8" id="mNb-zT-wXS"/>
                                         </constraints>
+                                        <variation key="default">
+                                            <mask key="constraints">
+                                                <exclude reference="2F9-1g-aqm"/>
+                                            </mask>
+                                        </variation>
                                     </view>
                                 </subviews>
                                 <animations/>
@@ -235,6 +247,8 @@
                         <outlet property="bottomPanel" destination="1W0-wa-ZbC" id="W4B-Av-5LR"/>
                         <outlet property="ciudadSeleccionada" destination="fgo-mS-G7h" id="FIH-88-EZd"/>
                         <outlet property="panelAddCity" destination="SMA-sE-2Di" id="cM4-tw-aDB"/>
+                        <outlet property="tempMaxView" destination="40h-lw-JNg" id="O7z-JA-ALC"/>
+                        <outlet property="tempMinView" destination="fxd-RZ-gx4" id="uYI-xe-VTh"/>
                         <outlet property="temperaturaActual" destination="50d-8a-TqB" id="Usp-i3-vFz"/>
                         <outlet property="unidadSeleccionada" destination="h0b-Xl-JoC" id="xja-S9-JCA"/>
                     </connections>
