@@ -228,6 +228,7 @@
                     <connections>
                         <outlet property="bottomPanel" destination="1W0-wa-ZbC" id="W4B-Av-5LR"/>
                         <outlet property="ciudadSeleccionada" destination="fgo-mS-G7h" id="FIH-88-EZd"/>
+                        <outlet property="panelAddCity" destination="SMA-sE-2Di" id="cM4-tw-aDB"/>
                         <outlet property="temperaturaActual" destination="50d-8a-TqB" id="Usp-i3-vFz"/>
                         <outlet property="unidadSeleccionada" destination="h0b-Xl-JoC" id="xja-S9-JCA"/>
                     </connections>

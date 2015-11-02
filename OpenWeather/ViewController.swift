@@ -14,10 +14,11 @@ class ViewController: UIViewController, UIPickerViewDelegate, UIPickerViewDataSo
     @IBOutlet weak var ciudadSeleccionada: UILabel!
     @IBOutlet weak var temperaturaActual: UILabel!
     @IBOutlet weak var unidadSeleccionada: UISegmentedControl!
+    @IBOutlet weak var panelAddCity: UIView!
     
     // constraints
     @IBOutlet weak var bottomPanel: NSLayoutConstraint!
-    var isVisible = false;
+    var isPanelVisible = true;
     
     // coleccion de cuidades
     var ciudades = [String]()
@@ -38,6 +39,8 @@ class ViewController: UIViewController, UIPickerViewDelegate, UIPickerViewDataSo
         let pref = NSUserDefaults.standardUserDefaults()
         if let mCiudad = pref.valueForKey("nombreCiudad") as? String {
             getTempForCity(mCiudad)
+        } else {
+            ciudadSeleccionada.text = ""
         }
     }
     
@@ -75,6 +78,8 @@ class ViewController: UIViewController, UIPickerViewDelegate, UIPickerViewDataSo
             
             getTempForCity(mCiudad)
             
+            // animation
+            togglePanel()
         }
     } 
     
@@ -86,7 +91,11 @@ class ViewController: UIViewController, UIPickerViewDelegate, UIPickerViewDataSo
     }
     
     @IBAction func togglePanel() {
-        
+        UIView.animateWithDuration(0.5) {
+            self.bottomPanel.constant = self.isPanelVisible ? 0 : self.panelAddCity.frame.height * -1
+            self.isPanelVisible = !self.isPanelVisible
+            self.view.layoutIfNeeded()
+        }
     }
     
     /*
