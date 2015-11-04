@@ -17,6 +17,7 @@ class ViewController: UIViewController, UIPickerViewDelegate, UIPickerViewDataSo
     @IBOutlet weak var panelAddCity: UIView!
     @IBOutlet weak var tempMinView: UILabel!
     @IBOutlet weak var tempMaxView: UILabel!
+    @IBOutlet weak var actionIndicator: UIActivityIndicatorView!
     
     // constraints
     @IBOutlet weak var bottomPanel: NSLayoutConstraint!
@@ -78,6 +79,7 @@ class ViewController: UIViewController, UIPickerViewDelegate, UIPickerViewDataSo
             pref.setValue(mCiudad, forKey: "nombreCiudad")
             pref.synchronize()
             
+            actionIndicator.startAnimating()
             getTempForCity(mCiudad)
             
             // animation
@@ -119,16 +121,28 @@ class ViewController: UIViewController, UIPickerViewDelegate, UIPickerViewDataSo
         let mService = WeatherService()
         mService.getCityWeather(generarURLValida(myCity), callback: { City in
             
-            let cityObj = City
+            self.actionIndicator.stopAnimating()
             
-            // city name
-            self.ciudadSeleccionada.text = "\(cityObj.name)"
-            // city temp
-            self.temperaturaActual.text = "\(self.convertUnits(cityObj.temp))"
-            // minTemp
-            self.tempMinView.text = "\(self.convertUnits(cityObj.temp_min))"
-            // maxTemp
-            self.tempMaxView.text = "\(self.convertUnits(cityObj.temp_max))"
+            if let cityObj = City {
+                // city name
+                self.ciudadSeleccionada.text = "\(cityObj.name)"
+                // city temp
+                self.temperaturaActual.text = "\(self.convertUnits(cityObj.temp))"
+                // minTemp
+                self.tempMinView.text = "\(self.convertUnits(cityObj.temp_min))"
+                // maxTemp
+                self.tempMaxView.text = "\(self.convertUnits(cityObj.temp_max))"
+            } else {
+                let alertaView = UIAlertController(title: "ERROR!", message: "No hay data!", preferredStyle: .Alert)
+                
+                let buttonCerrar = UIAlertAction(title: "Cerrar", style: .Cancel, handler: { (action) -> Void in
+                    alertaView.dismissViewControllerAnimated(true, completion: nil)
+                })
+                
+                alertaView.addAction(buttonCerrar)
+                
+                self.presentViewController(alertaView, animated: true, completion: nil)
+            }
             
         })
     }

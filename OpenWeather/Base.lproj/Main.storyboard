@@ -30,7 +30,7 @@
                                 <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="249" text="0.0" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="50d-8a-TqB">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="249" text="" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="50d-8a-TqB">
                                 <rect key="frame" x="0.0" y="79" width="600" height="260"/>
                                 <animations/>
                                 <color key="backgroundColor" red="0.1450980392" green="0.32156862749999998" blue="0.62352941179999999" alpha="1" colorSpace="calibratedRGB"/>
@@ -242,6 +242,11 @@
                                     <constraint firstItem="Ljn-mt-LDJ" firstAttribute="leading" secondItem="SMA-sE-2Di" secondAttribute="leading" id="q7T-zk-Vgi"/>
                                 </constraints>
                             </view>
+                            <activityIndicatorView hidden="YES" opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" hidesWhenStopped="YES" style="whiteLarge" translatesAutoresizingMaskIntoConstraints="NO" id="R0q-Wn-k9H">
+                                <rect key="frame" x="282" y="190" width="37" height="37"/>
+                                <animations/>
+                                <color key="color" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                            </activityIndicatorView>
                         </subviews>
                         <animations/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
@@ -253,6 +258,7 @@
                             <constraint firstItem="0Oc-tA-O9b" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="ID2-F7-wCA"/>
                             <constraint firstAttribute="trailingMargin" secondItem="0Oc-tA-O9b" secondAttribute="trailing" constant="-20" id="Kko-64-r9q"/>
                             <constraint firstAttribute="trailingMargin" secondItem="fgo-mS-G7h" secondAttribute="trailing" constant="-20" id="LOe-ex-Qra"/>
+                            <constraint firstItem="R0q-Wn-k9H" firstAttribute="trailing" secondItem="50d-8a-TqB" secondAttribute="trailing" id="MhG-Q7-fCY"/>
                             <constraint firstItem="0Oc-tA-O9b" firstAttribute="height" secondItem="EQw-iD-v7j" secondAttribute="height" id="QAS-Jh-hg3"/>
                             <constraint firstItem="0Oc-tA-O9b" firstAttribute="top" secondItem="50d-8a-TqB" secondAttribute="bottom" id="TrO-Su-DrZ"/>
                             <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="EQw-iD-v7j" secondAttribute="bottom" id="Wo2-EK-wo7"/>
@@ -261,19 +267,25 @@
                             <constraint firstAttribute="trailingMargin" secondItem="50d-8a-TqB" secondAttribute="trailing" constant="-20" id="ZTj-i8-KSc"/>
                             <constraint firstItem="fgo-mS-G7h" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" id="dgq-W5-q25"/>
                             <constraint firstAttribute="trailingMargin" secondItem="SMA-sE-2Di" secondAttribute="trailing" constant="-20" id="epl-um-KxL"/>
+                            <constraint firstItem="R0q-Wn-k9H" firstAttribute="centerX" secondItem="50d-8a-TqB" secondAttribute="centerX" id="g2Z-Vp-s5S"/>
                             <constraint firstItem="EQw-iD-v7j" firstAttribute="top" secondItem="0Oc-tA-O9b" secondAttribute="bottom" id="gGG-Q3-duF"/>
                             <constraint firstItem="0Oc-tA-O9b" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" constant="-20" id="hfx-Ij-f8k"/>
+                            <constraint firstItem="R0q-Wn-k9H" firstAttribute="centerY" secondItem="50d-8a-TqB" secondAttribute="centerY" id="pYL-u9-odP"/>
                             <constraint firstItem="EQw-iD-v7j" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" constant="-20" id="rOA-s0-Sxc"/>
                             <constraint firstItem="fgo-mS-G7h" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" constant="-20" id="rYD-Eb-r4W"/>
+                            <constraint firstItem="R0q-Wn-k9H" firstAttribute="leading" secondItem="50d-8a-TqB" secondAttribute="leading" id="wCM-mW-1Nf"/>
                             <constraint firstItem="SMA-sE-2Di" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" constant="-20" id="x6Z-a0-YaO"/>
                         </constraints>
                         <variation key="default">
                             <mask key="constraints">
                                 <exclude reference="9FN-P5-E6J"/>
+                                <exclude reference="MhG-Q7-fCY"/>
+                                <exclude reference="wCM-mW-1Nf"/>
                             </mask>
                         </variation>
                     </view>
                     <connections>
+                        <outlet property="actionIndicator" destination="R0q-Wn-k9H" id="fvZ-I7-aXG"/>
                         <outlet property="bottomPanel" destination="1W0-wa-ZbC" id="W4B-Av-5LR"/>
                         <outlet property="ciudadSeleccionada" destination="fgo-mS-G7h" id="FIH-88-EZd"/>
                         <outlet property="panelAddCity" destination="SMA-sE-2Di" id="cM4-tw-aDB"/>
@@ -285,7 +297,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="356" y="353"/>
+            <point key="canvasLocation" x="401" y="345"/>
         </scene>
     </scenes>
     <resources>
