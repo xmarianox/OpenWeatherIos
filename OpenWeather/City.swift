@@ -16,9 +16,9 @@ class City {
     let temp: Double
     let temp_min: Double
     let temp_max: Double
+    let image: String
     
-    
-    init(cityName: String, cityWeather: WeatherType, cityLat: Double, cityLon: Double, cityTemp: Double, cityMinTemp: Double, cityMaxTemp: Double) {
+    init(cityName: String, cityWeather: WeatherType, cityLat: Double, cityLon: Double, cityTemp: Double, cityMinTemp: Double, cityMaxTemp: Double, cityImage: String) {
         self.name     = cityName
         self.weather  = cityWeather
         self.lat      = cityLat
@@ -26,6 +26,7 @@ class City {
         self.temp     = cityTemp
         self.temp_min = cityMinTemp
         self.temp_max = cityMaxTemp
+        self.image    = cityImage
     }
     
 }

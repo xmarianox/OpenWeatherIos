@@ -29,23 +29,23 @@ class WeatherService {
                     let temperaturaMin = jsonDictionary["main"]!["temp_min"] as! Double
                     let temperaturaMax = jsonDictionary["main"]!["temp_max"] as! Double
                     
-                    if let weatherDictionary = jsonDictionary["weather"]! as? [AnyObject] {
+                    if let weatherDictionary = jsonDictionary["weather"] as? [NSDictionary] {
                         
-                        let weatherStr = weatherDictionary[0]["main"] as! String
-                        let weatherDesc = weatherDictionary[0]["description"] as! String
+                        let main = weatherDictionary[0]["main"] as! String
+                        let description = weatherDictionary[0]["description"] as! String
                     
-                        if let weatherEnum = self.setWeatherType(weatherStr, weatherDesc) as? WeatherType {
+                        if let (weatherEnum, weatherImage) = self.setWeatherType(main, weatherDesc: description) {
                             
-                            let cityObj = City(cityName: nombreCiudad, cityWeather: weatherEnum, cityLat: latitud, cityLon: longitud, cityTemp: temperatura, cityMinTemp: temperaturaMin, cityMaxTemp: temperaturaMax)
+                            let cityObj = City(cityName: nombreCiudad, cityWeather: weatherEnum, cityLat: latitud, cityLon: longitud, cityTemp: temperatura, cityMinTemp: temperaturaMin, cityMaxTemp: temperaturaMax, cityImage: weatherImage)
                             
-                            print("Nueva Ciudad: \(cityObj.name) - weather: \(cityObj.weather) - lat: \(latitud) - long: \(longitud) - temp: \(cityObj.temp) - temp_min: \(cityObj.temp_min) - temp_max: \(cityObj.temp_max)")
+                            print("Nueva Ciudad: \(cityObj.name) - weather: \(cityObj.weather) - lat: \(latitud) - long: \(longitud) - temp: \(cityObj.temp) - temp_min: \(cityObj.temp_min) - temp_max: \(cityObj.temp_max) Imagen: \(cityObj.image)")
                             
                             dispatch_async(dispatch_get_main_queue()) {
                                 callback(cityObj)
                             }
                             
                         } else {
-                            print("No de pudo acceder al clima!")
+                            print("Clima no contemplado \(main)")
                         }
                     }
                     
@@ -68,41 +68,37 @@ class WeatherService {
         
     }
     
-    private func setWeatherType(weather: String, weatherDesc: String) -> WeatherType {
-        
-        var weatherTypeEmun: WeatherType!
-        
+    private func setWeatherType(weather: String, weatherDesc: String) -> (WeatherType, String)? {
         switch weather.lowercaseString {
             case "clear":
-                weatherTypeEmun = .Clear(weatherDesc)
-                break
+                return (.Clear(weatherDesc), "clear")
+
             case "clouds":
-                weatherTypeEmun = .Clouds(weatherDesc)
-                break
-            case "scattered clouds":
-                weatherTypeEmun = .ScatteredClouds
-                break
-            case "broken clouds":
-                weatherTypeEmun = .BrokenClouds
-                break
-            case "shower rain":
-                weatherTypeEmun = .ShowerRain
-                break
+                return (.Clouds(weatherDesc), "clouds")
+    
             case "rain":
-                weatherTypeEmun = .Rain
-                break
+                return (.Rain(weatherDesc), "rain")
+          
             case "thunderstorm":
-                weatherTypeEmun = .Thunderstorm
-                break
+                return (.Thunderstorm(weatherDesc), "thunderstorm")
+           
             case "snow":
-                weatherTypeEmun = .Snow
-                break
-            case "mist":
-                weatherTypeEmun = .Mist
-                break
+                return (.Snow(weatherDesc), "snow")
+        
+            case "drizzle":
+                return (.Drizzle(weatherDesc), "drizzle")
+           
+            case "atmosphere":
+                return (.Atmosphere(weatherDesc), "atmosphere")
+         
+            case "extreme":
+                return (.Extreme(weatherDesc), "extreme")
+     
+            case "additional":
+                return (.Additional(weatherDesc), "additional")
+     
             default:
-                weatherTypeEmun = .Error
+                return nil
         }
-        return weatherTypeEmun
     }
 }
