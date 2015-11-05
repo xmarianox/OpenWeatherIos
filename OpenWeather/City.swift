@@ -10,6 +10,7 @@ import Foundation
 
 class City {
     let name: String
+    let weather: WeatherType
     let lat: Double
     let lon: Double
     let temp: Double
@@ -17,8 +18,9 @@ class City {
     let temp_max: Double
     
     
-    init(cityName: String, cityLat: Double, cityLon: Double, cityTemp: Double, cityMinTemp: Double, cityMaxTemp: Double) {
+    init(cityName: String, cityWeather: WeatherType, cityLat: Double, cityLon: Double, cityTemp: Double, cityMinTemp: Double, cityMaxTemp: Double) {
         self.name     = cityName
+        self.weather  = cityWeather
         self.lat      = cityLat
         self.lon      = cityLon
         self.temp     = cityTemp

@@ -12,7 +12,7 @@ class WeatherService {
     
     func getCityWeather(cityName: String, callback: City? -> ()) {
         
-        let apiEndPoint: String = "http://api.openweathermap.org/data/2.5/weather?q=\(cityName)&appid=0ddb8e025e338dc2d891dac7f43356e0"
+        let apiEndPoint: String = "http://api.openweathermap.org/data/2.5/weather?q=\(cityName)&appid=0ddb8e025e338dc2d891dac7f43356e0&lang=es"
         let endPointUrl = NSURL(string: apiEndPoint)
         
         dispatch_async(dispatch_get_global_queue(DISPATCH_QUEUE_PRIORITY_HIGH, 0)) {
@@ -29,12 +29,24 @@ class WeatherService {
                     let temperaturaMin = jsonDictionary["main"]!["temp_min"] as! Double
                     let temperaturaMax = jsonDictionary["main"]!["temp_max"] as! Double
                     
-                    let cityObj = City(cityName: nombreCiudad, cityLat: latitud, cityLon: longitud, cityTemp: temperatura, cityMinTemp: temperaturaMin, cityMaxTemp: temperaturaMax)
+                    if let weatherDictionary = jsonDictionary["weather"]! as? [AnyObject] {
+                        
+                        let weatherStr = weatherDictionary[0]["main"] as! String
+                        let weatherDesc = weatherDictionary[0]["description"] as! String
                     
-                    print("Nueva Ciudad: \(cityObj.name) lat: \(latitud) long: \(longitud) temp: \(cityObj.temp) temp_min: \(cityObj.temp_min) temp_max: \(cityObj.temp_max)")
-                    
-                    dispatch_async(dispatch_get_main_queue()) {
-                        callback(cityObj)
+                        if let weatherEnum = self.setWeatherType(weatherStr, weatherDesc) as? WeatherType {
+                            
+                            let cityObj = City(cityName: nombreCiudad, cityWeather: weatherEnum, cityLat: latitud, cityLon: longitud, cityTemp: temperatura, cityMinTemp: temperaturaMin, cityMaxTemp: temperaturaMax)
+                            
+                            print("Nueva Ciudad: \(cityObj.name) - weather: \(cityObj.weather) - lat: \(latitud) - long: \(longitud) - temp: \(cityObj.temp) - temp_min: \(cityObj.temp_min) - temp_max: \(cityObj.temp_max)")
+                            
+                            dispatch_async(dispatch_get_main_queue()) {
+                                callback(cityObj)
+                            }
+                            
+                        } else {
+                            print("No de pudo acceder al clima!")
+                        }
                     }
                     
                 } catch let error {
@@ -56,5 +68,41 @@ class WeatherService {
         
     }
     
-    
+    private func setWeatherType(weather: String, weatherDesc: String) -> WeatherType {
+        
+        var weatherTypeEmun: WeatherType!
+        
+        switch weather.lowercaseString {
+            case "clear":
+                weatherTypeEmun = .Clear(weatherDesc)
+                break
+            case "clouds":
+                weatherTypeEmun = .Clouds(weatherDesc)
+                break
+            case "scattered clouds":
+                weatherTypeEmun = .ScatteredClouds
+                break
+            case "broken clouds":
+                weatherTypeEmun = .BrokenClouds
+                break
+            case "shower rain":
+                weatherTypeEmun = .ShowerRain
+                break
+            case "rain":
+                weatherTypeEmun = .Rain
+                break
+            case "thunderstorm":
+                weatherTypeEmun = .Thunderstorm
+                break
+            case "snow":
+                weatherTypeEmun = .Snow
+                break
+            case "mist":
+                weatherTypeEmun = .Mist
+                break
+            default:
+                weatherTypeEmun = .Error
+        }
+        return weatherTypeEmun
+    }
 }
