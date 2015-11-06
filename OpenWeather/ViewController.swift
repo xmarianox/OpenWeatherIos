@@ -29,11 +29,13 @@ class ViewController: UIViewController, UIPickerViewDelegate, UIPickerViewDataSo
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        
         // cargamos la lista de ciudades
         let pathCityList = NSBundle.mainBundle().pathForResource("ciudades", ofType: "plist")
         ciudades = NSArray(contentsOfFile: pathCityList!) as! [String]
-        
+    }
+    
+    override func shouldAutorotate() -> Bool {
+        return false
     }
 
     override func viewDidAppear(animated: Bool) {
