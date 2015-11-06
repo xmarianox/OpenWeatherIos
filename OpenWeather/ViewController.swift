@@ -18,6 +18,7 @@ class ViewController: UIViewController, UIPickerViewDelegate, UIPickerViewDataSo
     @IBOutlet weak var tempMinView: UILabel!
     @IBOutlet weak var tempMaxView: UILabel!
     @IBOutlet weak var actionIndicator: UIActivityIndicatorView!
+    @IBOutlet weak var mapButton: UIButton!
     
     // constraints
     @IBOutlet weak var bottomPanel: NSLayoutConstraint!
@@ -87,7 +88,7 @@ class ViewController: UIViewController, UIPickerViewDelegate, UIPickerViewDataSo
             // animation
             togglePanel()
         }
-    } 
+    }
     
     @IBAction func unitsChange(sender: AnyObject) {
         let pref = NSUserDefaults.standardUserDefaults()
