@@ -15,6 +15,9 @@
 		7C22FA1B1BE038AB0014C7F8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7C22FA1A1BE038AB0014C7F8 /* Assets.xcassets */; };
 		7C22FA1E1BE038AB0014C7F8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7C22FA1C1BE038AB0014C7F8 /* LaunchScreen.storyboard */; };
 		7C22FA281BE040F60014C7F8 /* WeatherService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C22FA271BE040F60014C7F8 /* WeatherService.swift */; };
+		7C431D821BF2984400A9300E /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7C431D811BF2984400A9300E /* MapKit.framework */; };
+		7C431D841BF2984F00A9300E /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7C431D831BF2984F00A9300E /* CoreLocation.framework */; };
+		7C431D861BF2991C00A9300E /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C431D851BF2991C00A9300E /* MapViewController.swift */; };
 		D54A22A71BE7DC26008125A7 /* City.swift in Sources */ = {isa = PBXBuildFile; fileRef = D54A22A61BE7DC26008125A7 /* City.swift */; };
 /* End PBXBuildFile section */
 
@@ -29,6 +32,9 @@
 		7C22FA1D1BE038AB0014C7F8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7C22FA1F1BE038AB0014C7F8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7C22FA271BE040F60014C7F8 /* WeatherService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WeatherService.swift; sourceTree = "<group>"; };
+		7C431D811BF2984400A9300E /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		7C431D831BF2984F00A9300E /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		7C431D851BF2991C00A9300E /* MapViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
 		D54A22A61BE7DC26008125A7 /* City.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = City.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -37,6 +43,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7C431D841BF2984F00A9300E /* CoreLocation.framework in Frameworks */,
+				7C431D821BF2984400A9300E /* MapKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -46,6 +54,8 @@
 		7C22FA071BE038AB0014C7F8 = {
 			isa = PBXGroup;
 			children = (
+				7C431D831BF2984F00A9300E /* CoreLocation.framework */,
+				7C431D811BF2984400A9300E /* MapKit.framework */,
 				7C22FA121BE038AB0014C7F8 /* OpenWeather */,
 				7C22FA111BE038AB0014C7F8 /* Products */,
 			);
@@ -79,6 +89,7 @@
 			isa = PBXGroup;
 			children = (
 				7C22FA151BE038AB0014C7F8 /* ViewController.swift */,
+				7C431D851BF2991C00A9300E /* MapViewController.swift */,
 			);
 			name = Controllers;
 			sourceTree = "<group>";
@@ -174,6 +185,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7C13896F1BE9A780001B76EC /* WeatherType.swift in Sources */,
+				7C431D861BF2991C00A9300E /* MapViewController.swift in Sources */,
 				7C22FA161BE038AB0014C7F8 /* ViewController.swift in Sources */,
 				7C22FA281BE040F60014C7F8 /* WeatherService.swift in Sources */,
 				D54A22A71BE7DC26008125A7 /* City.swift in Sources */,

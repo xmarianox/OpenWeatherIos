@@ -118,7 +118,7 @@ class ViewController: UIViewController, UIPickerViewDelegate, UIPickerViewDataSo
         }
     }
     
-    
+    // traemos la data de la ciudad desde el service
     func getTempForCity(myCity: String) {
         
         let mService = WeatherService()
@@ -150,6 +150,10 @@ class ViewController: UIViewController, UIPickerViewDelegate, UIPickerViewDataSo
         })
     }
     
+    // Pasamos la data nuevo viewController
+    override func prepareForSegue(segue: UIStoryboardSegue, sender: AnyObject?) {
+        // code
+    }
     
     /*
      *  retorna una url valida
@@ -158,5 +162,6 @@ class ViewController: UIViewController, UIPickerViewDelegate, UIPickerViewDataSo
         return url.stringByAddingPercentEncodingWithAllowedCharacters(NSCharacterSet.URLQueryAllowedCharacterSet())!
         
     }
+    
 }
 

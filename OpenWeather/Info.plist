@@ -29,6 +29,12 @@
 	<string>1</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+    <key>NSLocationAlwaysUsageDescription</key>
+    <string>Para entregar clima de tu ubicación</string>
+    <key>NSLocationUsageDescription</key>
+    <string>Para entregar clima de tu ubicación</string>
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>Para entregar clima de tu ubicación</string>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>

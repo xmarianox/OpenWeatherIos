@@ -126,8 +126,8 @@
                                             </mask>
                                         </variation>
                                     </view>
-                                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" image="ic_temp" translatesAutoresizingMaskIntoConstraints="NO" id="ymd-T3-hBz">
-                                        <rect key="frame" x="272" y="8" width="57" height="57"/>
+                                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="ic_temp" translatesAutoresizingMaskIntoConstraints="NO" id="ymd-T3-hBz">
+                                        <rect key="frame" x="272" y="9" width="57" height="57"/>
                                         <animations/>
                                         <constraints>
                                             <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="57" id="0w3-w3-LkR"/>
@@ -165,8 +165,8 @@
                                     <constraint firstItem="jOB-vf-5OB" firstAttribute="width" secondItem="DSN-yx-iNK" secondAttribute="width" id="mU4-E3-DuO"/>
                                 </constraints>
                             </view>
-                            <view contentMode="scaleToFill" misplaced="YES" translatesAutoresizingMaskIntoConstraints="NO" id="EQw-iD-v7j" userLabel="BottomView">
-                                <rect key="frame" x="0.0" y="524" width="600" height="75"/>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="EQw-iD-v7j" userLabel="BottomView">
+                                <rect key="frame" x="0.0" y="525" width="600" height="75"/>
                                 <subviews>
                                     <segmentedControl opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" selectedSegmentIndex="0" translatesAutoresizingMaskIntoConstraints="NO" id="h0b-Xl-JoC">
                                         <rect key="frame" x="40" y="51" width="120" height="29"/>
@@ -260,7 +260,7 @@
                                 <color key="color" white="1" alpha="1" colorSpace="calibratedWhite"/>
                             </activityIndicatorView>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="7SR-5L-tQK">
-                                <rect key="frame" x="534" y="384.5" width="46" height="46"/>
+                                <rect key="frame" x="534" y="384" width="46" height="46"/>
                                 <animations/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="46" id="EWT-Zg-IHt"/>
@@ -339,10 +339,10 @@
             </objects>
             <point key="canvasLocation" x="401" y="345"/>
         </scene>
-        <!--View Controller-->
+        <!--Map View Controller-->
         <scene sceneID="mEm-px-qVd">
             <objects>
-                <viewController storyboardIdentifier="MapIdentifier" id="bRL-Xc-7Wm" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="MapIdentifier" id="bRL-Xc-7Wm" customClass="MapViewController" customModule="OpenWeather" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="Y2x-nL-eaa"/>
                         <viewControllerLayoutGuide type="bottom" id="Kwy-lH-x0e"/>
@@ -362,15 +362,29 @@
                                 <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <mapView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" mapType="standard" translatesAutoresizingMaskIntoConstraints="NO" id="L95-1U-Jft">
+                                <rect key="frame" x="0.0" y="112.5" width="600" height="487.5"/>
+                                <animations/>
+                                <connections>
+                                    <outlet property="delegate" destination="bRL-Xc-7Wm" id="JKd-gr-uBd"/>
+                                </connections>
+                            </mapView>
                         </subviews>
                         <animations/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                         <constraints>
+                            <constraint firstAttribute="trailingMargin" secondItem="L95-1U-Jft" secondAttribute="trailing" constant="-20" id="2qr-pE-T8L"/>
                             <constraint firstItem="OdC-Q9-mVc" firstAttribute="leading" secondItem="8hI-IV-iS7" secondAttribute="leadingMargin" constant="-20" id="EOu-Wo-Zqn"/>
+                            <constraint firstItem="Kwy-lH-x0e" firstAttribute="top" secondItem="L95-1U-Jft" secondAttribute="bottom" id="Vjg-Q1-2qB"/>
                             <constraint firstItem="OdC-Q9-mVc" firstAttribute="top" secondItem="Y2x-nL-eaa" secondAttribute="bottom" constant="-20" id="dju-tB-29T"/>
                             <constraint firstAttribute="trailingMargin" secondItem="OdC-Q9-mVc" secondAttribute="trailing" constant="-20" id="do4-Lv-qkY"/>
+                            <constraint firstItem="L95-1U-Jft" firstAttribute="leading" secondItem="8hI-IV-iS7" secondAttribute="leadingMargin" constant="-20" id="m9w-at-35K"/>
+                            <constraint firstItem="L95-1U-Jft" firstAttribute="top" secondItem="OdC-Q9-mVc" secondAttribute="bottom" id="qMz-hY-SDX"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="mapa" destination="L95-1U-Jft" id="YMZ-dT-obb"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="lVE-6j-1KR" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
