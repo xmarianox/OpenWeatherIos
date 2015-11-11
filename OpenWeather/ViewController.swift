@@ -11,7 +11,7 @@ import CoreLocation
 
 class ViewController: UIViewController, UIPickerViewDelegate, UIPickerViewDataSource {
     
-    // Outlet
+    // MARK: - Outlets
     @IBOutlet weak var ciudadSeleccionada: UILabel!
     @IBOutlet weak var temperaturaActual: UILabel!
     @IBOutlet weak var unidadSeleccionada: UISegmentedControl!
@@ -19,26 +19,33 @@ class ViewController: UIViewController, UIPickerViewDelegate, UIPickerViewDataSo
     @IBOutlet weak var tempMinView: UILabel!
     @IBOutlet weak var tempMaxView: UILabel!
     @IBOutlet weak var actionIndicator: UIActivityIndicatorView!
-    @IBOutlet weak var mapButton: UIButton!
+    @IBOutlet weak var mapButton: UIButton! {
+        didSet {
+            if let imageView = mapButton.imageView {
+                imageView.image = imageView.image?.imageWithRenderingMode(UIImageRenderingMode.AlwaysTemplate)
+                imageView.tintColor = UIColor.whiteColor()
+                mapButton.setImage(imageView.image, forState: UIControlState.Normal)
+            }
+        }
+    }
     
-    // constraints
+    // MARK: - ConstraintsOutlets
     @IBOutlet weak var bottomPanel: NSLayoutConstraint!
+    
+    // MARK: - Flags
     var isPanelVisible = true;
     
-    // coleccion de cuidades
+    // MARK: - CityData
     var ciudades = [String]()
     var ciudadSeleccionadaValue: String!
     var cityObjSelect: City!
     
+    // MARK: - AppLifeCircle
     override func viewDidLoad() {
         super.viewDidLoad()
         // cargamos la lista de ciudades
         let pathCityList = NSBundle.mainBundle().pathForResource("ciudades", ofType: "plist")
         ciudades = NSArray(contentsOfFile: pathCityList!) as! [String]
-    }
-    
-    override func shouldAutorotate() -> Bool {
-        return false
     }
 
     override func viewDidAppear(animated: Bool) {
@@ -56,9 +63,11 @@ class ViewController: UIViewController, UIPickerViewDelegate, UIPickerViewDataSo
         super.didReceiveMemoryWarning()
     }
     
-    /*
-    *   PickerView
-    */
+    override func shouldAutorotate() -> Bool {
+        return false
+    }
+    
+    // MARK: - PickerViewMethods
     func numberOfComponentsInPickerView(pickerView: UIPickerView) -> Int {
         return 1
     }
@@ -75,9 +84,7 @@ class ViewController: UIViewController, UIPickerViewDelegate, UIPickerViewDataSo
         ciudadSeleccionadaValue = ciudades[row]
     }
     
-    /*
-    *   Actions
-    */
+    // MARK: - Actions
     @IBAction func seleccionarCiudad() {
         if let mCiudad = ciudadSeleccionadaValue {
             let pref = NSUserDefaults.standardUserDefaults()
@@ -107,19 +114,20 @@ class ViewController: UIViewController, UIPickerViewDelegate, UIPickerViewDataSo
         }
     }
     
-    /*
-    *   Helpers
-    */
-    func convertUnits(tempKelvin: Double) -> String {
-        if (unidadSeleccionada.selectedSegmentIndex == 0) {
-            let resultadoC: Int = Int(round(tempKelvin - 273.15))
-            return "\(resultadoC)°"
-        } else {
-            let resultadoF: Int = Int(round(1.8 * tempKelvin - 273.15 + 32))
-            return "\(resultadoF)°"
+    
+    // MARK: - Segue
+    // Pasamos la data nuevo viewController
+    override func prepareForSegue(segue: UIStoryboardSegue, sender: AnyObject?) {
+        
+        if segue.identifier == "viewControllerToMapViewController" {
+            if let mapController = segue.destinationViewController as? MapViewController {
+                mapController.cityTitle = cityObjSelect.name
+                mapController.cityCoords = CLLocationCoordinate2D(latitude: cityObjSelect.lat, longitude: cityObjSelect.lon)
+            }
         }
     }
     
+    // MARK: - Service
     // traemos la data de la ciudad desde el service
     func getTempForCity(myCity: String) {
         
@@ -155,18 +163,19 @@ class ViewController: UIViewController, UIPickerViewDelegate, UIPickerViewDataSo
         })
     }
     
-    // Pasamos la data nuevo viewController
-    override func prepareForSegue(segue: UIStoryboardSegue, sender: AnyObject?) {
-        
-        if segue.identifier == "viewControllerToMapViewController" {
-            if let mapController = segue.destinationViewController as? MapViewController {
-                mapController.cityTitle = cityObjSelect.name
-                mapController.cityCoords = CLLocationCoordinate2D(latitude: cityObjSelect.lat, longitude: cityObjSelect.lon)
-            }
+    // MARK: - Helpers
+    /*
+    *   Retorna la temperatura en String
+    */
+    func convertUnits(tempKelvin: Double) -> String {
+        if (unidadSeleccionada.selectedSegmentIndex == 0) {
+            let resultadoC: Int = Int(round(tempKelvin - 273.15))
+            return "\(resultadoC)°"
+        } else {
+            let resultadoF: Int = Int(round(1.8 * tempKelvin - 273.15 + 32))
+            return "\(resultadoF)°"
         }
-        
     }
-    
     /*
      *  retorna una url valida
      */

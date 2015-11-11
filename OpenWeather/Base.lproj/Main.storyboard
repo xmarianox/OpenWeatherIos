@@ -328,6 +328,7 @@
                         <outlet property="actionIndicator" destination="R0q-Wn-k9H" id="fvZ-I7-aXG"/>
                         <outlet property="bottomPanel" destination="1W0-wa-ZbC" id="W4B-Av-5LR"/>
                         <outlet property="ciudadSeleccionada" destination="fgo-mS-G7h" id="FIH-88-EZd"/>
+                        <outlet property="mapButton" destination="7SR-5L-tQK" id="bfj-Hf-Fek"/>
                         <outlet property="panelAddCity" destination="SMA-sE-2Di" id="cM4-tw-aDB"/>
                         <outlet property="tempMaxView" destination="40h-lw-JNg" id="O7z-JA-ALC"/>
                         <outlet property="tempMinView" destination="fxd-RZ-gx4" id="uYI-xe-VTh"/>
