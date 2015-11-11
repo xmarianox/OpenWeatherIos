@@ -8,27 +8,21 @@
 
 import UIKit
 import MapKit
-import CoreLocation
 
-class MapViewController: UIViewController, CLLocationManagerDelegate {
+class MapViewController: UIViewController {
 
     @IBOutlet weak var mapa: MKMapView!
-    var manager: CLLocationManager!
+    @IBOutlet weak var labelCity: UILabel!
     
-    override func viewDidLoad() {
-        super.viewDidLoad()
-        
-        manager = CLLocationManager()
-    }
-    
+    var cityCoords: CLLocationCoordinate2D?
+    var cityTitle: String?
     
     override func viewDidAppear(animated: Bool) {
         super.viewDidAppear(animated)
-        
-        manager.requestWhenInUseAuthorization()
-        manager.desiredAccuracy = kCLLocationAccuracyThreeKilometers
-        manager.delegate = self
-        manager.startUpdatingLocation()
+        labelCity.text = cityTitle
+        let span = MKCoordinateSpan(latitudeDelta: 0.1, longitudeDelta: 0.1)
+        let region = MKCoordinateRegion(center: cityCoords!, span: span)
+        mapa.setRegion(region, animated: true)
     }
     
     func locationManager(manager: CLLocationManager, didFailWithError error: NSError) {
@@ -44,8 +38,6 @@ class MapViewController: UIViewController, CLLocationManagerDelegate {
             let region = MKCoordinateRegion(center: location.coordinate, span: span)
             mapa.setRegion(region, animated: true)
         }
-        
-        
     }
     
     

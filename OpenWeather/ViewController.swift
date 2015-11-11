@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import CoreLocation
 
 class ViewController: UIViewController, UIPickerViewDelegate, UIPickerViewDataSource {
     
@@ -27,6 +28,7 @@ class ViewController: UIViewController, UIPickerViewDelegate, UIPickerViewDataSo
     // coleccion de cuidades
     var ciudades = [String]()
     var ciudadSeleccionadaValue: String!
+    var cityObjSelect: City!
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -127,6 +129,9 @@ class ViewController: UIViewController, UIPickerViewDelegate, UIPickerViewDataSo
             self.actionIndicator.stopAnimating()
             
             if let cityObj = City {
+                
+                self.cityObjSelect = cityObj
+                
                 // city name
                 self.ciudadSeleccionada.text = "\(cityObj.name)"
                 // city temp
@@ -152,7 +157,14 @@ class ViewController: UIViewController, UIPickerViewDelegate, UIPickerViewDataSo
     
     // Pasamos la data nuevo viewController
     override func prepareForSegue(segue: UIStoryboardSegue, sender: AnyObject?) {
-        // code
+        
+        if segue.identifier == "viewControllerToMapViewController" {
+            if let mapController = segue.destinationViewController as? MapViewController {
+                mapController.cityTitle = cityObjSelect.name
+                mapController.cityCoords = CLLocationCoordinate2D(latitude: cityObjSelect.lat, longitude: cityObjSelect.lon)
+            }
+        }
+        
     }
     
     /*
